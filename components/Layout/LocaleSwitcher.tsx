@@ -17,9 +17,14 @@ export default function LocaleSwitcher({ currentLocale }: LocaleSwitcherProps) {
   const router = useRouter();
   const pathname = usePathname();
 
-  const handleLocaleChange = (locale: string) => {
-    const newPath = pathname.replace(`/${currentLocale}`, `/${locale}`);
-    router.push(newPath);
+  const handleLocaleChange = (newLocale: string) => {
+    let newPath: string;
+    if (pathname.startsWith(`/${currentLocale}`)) {
+      newPath = pathname.replace(`/${currentLocale}`, `/${newLocale}`);
+    } else {
+      newPath = `/${newLocale}${pathname}`;
+    }
+    router.replace(newPath);
   };
 
   return (

@@ -30,13 +30,13 @@ export default async function RootLayout({
 }) {
   let messages;
   try {
-    messages = (await import(`../../messages/${locale}.json`)).default;
+    messages = (await import(`../../data/messages/${locale}.json`)).default;
   } catch (error) {
     console.error(
       `Erreur lors du chargement des traductions pour ${locale}:`,
       error
     );
-    messages = (await import(`../../messages/en.json`)).default;
+    messages = (await import(`../../data/messages/en.json`)).default;
   }
 
   return (

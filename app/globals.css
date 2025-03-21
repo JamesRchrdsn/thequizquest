@@ -1,18 +1,21 @@
 @import "tailwindcss";
 
 :root {
-  --bg-main: #f0f9f9; /* Fond principal en light mode */
-  --card-bg: #e0f2f2; /* Cartes/sections en light mode */
-  --text-main: #1f2937; /* Texte principal en light mode */
-  --text-secondary: #6b7280; /* Texte secondaire en light mode */
-  --accent: #14b8a6; /* Couleur d'accent */
+  --bg-main: #e3faff; /* Fond principal en light mode */
+  --second-bg: #a1d9e6; /* Cartes/sections en light mode */
+  --bg-card: #92ccda; /* Cartes/sections en light mode */
+  --text-main: #181c1d; /* Texte principal en light mode */
+  --text-secondary: #22282b; /* Texte secondaire en light mode */
+  --accent: #00d0ff; /* Couleur d'accent */
 }
 
 html.dark {
-  --bg-main: #1c1c1c; /* Fond principal en dark mode */
-  --card-bg: #2d2d2d; /* Cartes/sections en dark mode */
-  --text-main: #ffffff; /* Texte principal en dark mode */
-  --text-secondary: #cccccc; /* Texte secondaire en dark mode */
+  --bg-main: #115564; /* Fond principal en dark mode */
+  --second-bg: #022933; /* Cartes/sections en dark mode */
+  --bg-card: #396670; /* Cartes/sections en dark mode */
+  --text-main: #d5e7eb; /* Texte principal en dark mode */
+  --text-secondary: #b3e9f5; /* Texte secondaire en dark mode */
+  --accent: #00586c; /* Couleur d'accent */
 }
 
 body {

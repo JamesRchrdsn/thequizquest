@@ -9,7 +9,7 @@ export default function getRequestConfig({ locale }: { locale: string }) {
     locale: finalLocale,
 
     messages: async (): Promise<Messages> => {
-      return (await import(`../../messages/${finalLocale}.json`)).default;
+      return (await import(`../../data/messages/${finalLocale}.json`)).default;
     },
   };
 }

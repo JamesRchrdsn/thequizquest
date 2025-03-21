@@ -1,24 +1,53 @@
-// app/[locale]/page.tsx
 "use client";
+import CategoryCard from "@/components/Quiz/CategoryCard";
 import { useTranslations } from "next-intl";
+import { use, useEffect, useState } from "react";
 
-export default function Home() {
-  const t = useTranslations("home"); // On suppose que ton fichier messages contient une clé "home"
+interface Category {
+  id: string;
+  title: string;
+  description?: string;
+}
+
+export default function Home({
+  params,
+}: {
+  params: Promise<{ locale: string }>;
+}) {
+  const { locale } = use(params);
+  const t = useTranslations("home");
+  const [categories, setCategories] = useState<Category[]>([]);
+
+  useEffect(() => {
+    async function fetchCategories() {
+      try {
+        const categoriesData = await import(
+          `../../data/categories/categories_${locale}.json`
+        );
+        setCategories(categoriesData.categories);
+      } catch (error) {
+        console.error("Error loading categories:", error);
+      }
+    }
+    fetchCategories();
+  }, [locale]);
 
   return (
     <div className="p-8 bg-bg-main text-text-main">
-      <h1 className="m-6 text-3xl font-bold text-center text-text-main">
+      <h1 className="m-6 text-3xl font-bold text-center">
         {t("welcome", { defaultValue: "Bienvenue sur TheQuizQuest" })}
       </h1>
-      <p className="p-8 text-center text-text-secondary">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-        veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-        commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-        velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
-        occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-        mollit anim id est laborum.
-      </p>
+
+      <div className="grid grid-cols-1 gap-6 mt-16 sm:grid-cols-3 md:grid-cols-4">
+        {categories.map((cat: Category) => (
+          <CategoryCard
+            key={cat.id}
+            category={cat.id}
+            title={cat.title}
+            description={cat.description}
+          />
+        ))}
+      </div>
     </div>
   );
 }

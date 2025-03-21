@@ -6,7 +6,7 @@ export default function Footer() {
   const t = useTranslations("footer");
 
   return (
-    <footer className="p-4 text-center bg-[var(--card-bg)] border-t border-[var(--text-secondary)]">
+    <footer className="p-4 text-center bg-[var(--second-bg)] ">
       <p className="text-sm">
         &copy; {currentYear}{" "}
         {t("copyright", { defaultValue: "All rights reserved" })}

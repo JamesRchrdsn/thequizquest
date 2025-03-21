@@ -1,0 +1,44 @@
+{
+  "categories": [
+    {
+      "id": "all",
+      "title": "Toutes catégories",
+      "description": "Questions de toutes catégories"
+    },
+    {
+      "id": "random",
+      "title": "Aléatoire",
+      "description": "Questions aléatoires d'une catégorie sélectionnée au hasard"
+    },
+    {
+      "id": "cinema",
+      "title": "Cinéma",
+      "description": "Testez vos connaissances en cinéma"
+    },
+    {
+      "id": "technology",
+      "title": "Technologie",
+      "description": "Testez vos connaissances en technologie"
+    },
+    {
+      "id": "general",
+      "title": "Général",
+      "description": "Questions générales variées"
+    },
+    {
+      "id": "history",
+      "title": "Histoire",
+      "description": "Testez vos connaissances historiques"
+    },
+    {
+      "id": "science",
+      "title": "Science",
+      "description": "Questions scientifiques passionnantes"
+    },
+    {
+      "id": "sports",
+      "title": "Sports",
+      "description": "Testez vos connaissances sportives"
+    }
+  ]
+}

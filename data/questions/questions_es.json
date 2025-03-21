@@ -1,0 +1,1539 @@
+{
+  "questions": [
+    {
+      "id": "cinema-1",
+      "category": "cinema",
+      "question": "¿Quién dirigió 'Inception'?",
+      "answers": [
+        "Christopher Nolan",
+        "Steven Spielberg",
+        "James Cameron",
+        "Quentin Tarantino"
+      ],
+      "correctAnswer": "Christopher Nolan"
+    },
+    {
+      "id": "cinema-2",
+      "category": "cinema",
+      "question": "¿En qué año se estrenó 'El Padrino'?",
+      "answers": ["1972", "1969", "1975", "1980"],
+      "correctAnswer": "1972"
+    },
+    {
+      "id": "cinema-3",
+      "category": "cinema",
+      "question": "¿En qué película aparece el personaje 'Darth Vader'?",
+      "answers": ["Star Wars", "Blade Runner", "Avatar", "Matrix"],
+      "correctAnswer": "Star Wars"
+    },
+    {
+      "id": "cinema-4",
+      "category": "cinema",
+      "question": "¿Quién interpretó al Joker en 'The Dark Knight'?",
+      "answers": [
+        "Heath Ledger",
+        "Joaquin Phoenix",
+        "Jared Leto",
+        "Jack Nicholson"
+      ],
+      "correctAnswer": "Heath Ledger"
+    },
+    {
+      "id": "cinema-5",
+      "category": "cinema",
+      "question": "¿Cuál es la película con mayor recaudación de todos los tiempos?",
+      "answers": [
+        "Avatar",
+        "Titanic",
+        "Avengers: Endgame",
+        "Star Wars: El Despertar de la Fuerza"
+      ],
+      "correctAnswer": "Avatar"
+    },
+    {
+      "id": "cinema-6",
+      "category": "cinema",
+      "question": "¿Qué película es conocida por la frase 'Play it again, Sam'?",
+      "answers": [
+        "Casablanca",
+        "Lo que el viento se llevó",
+        "Ciudadano Kane",
+        "El Padrino"
+      ],
+      "correctAnswer": "Casablanca"
+    },
+    {
+      "id": "cinema-7",
+      "category": "cinema",
+      "question": "¿Quién dirigió 'Pulp Fiction'?",
+      "answers": [
+        "Quentin Tarantino",
+        "Martin Scorsese",
+        "Ridley Scott",
+        "Steven Spielberg"
+      ],
+      "correctAnswer": "Quentin Tarantino"
+    },
+    {
+      "id": "cinema-8",
+      "category": "cinema",
+      "question": "¿En qué película Leonardo DiCaprio interpreta a un corredor de bolsa?",
+      "answers": [
+        "El Lobo de Wall Street",
+        "El Aviador",
+        "Atrápame si puedes",
+        "La Isla Siniestra"
+      ],
+      "correctAnswer": "El Lobo de Wall Street"
+    },
+    {
+      "id": "cinema-9",
+      "category": "cinema",
+      "question": "¿Cuál es el nombre del país africano ficticio en 'Black Panther'?",
+      "answers": ["Wakanda", "Genosha", "Bamako", "Zamunda"],
+      "correctAnswer": "Wakanda"
+    },
+    {
+      "id": "cinema-10",
+      "category": "cinema",
+      "question": "¿Qué actor protagonizó 'Forrest Gump'?",
+      "answers": [
+        "Tom Hanks",
+        "Brad Pitt",
+        "Leonardo DiCaprio",
+        "Morgan Freeman"
+      ],
+      "correctAnswer": "Tom Hanks"
+    },
+    {
+      "id": "cinema-11",
+      "category": "cinema",
+      "question": "¿Qué película ganó el Oscar a la mejor película en 1994?",
+      "answers": [
+        "Forrest Gump",
+        "Pulp Fiction",
+        "Cadena Perpetua",
+        "Cuatro bodas y un funeral"
+      ],
+      "correctAnswer": "Forrest Gump"
+    },
+    {
+      "id": "cinema-12",
+      "category": "cinema",
+      "question": "¿De qué género es la película 'El Resplandor'?",
+      "answers": ["Terror", "Comedia", "Romance", "Acción"],
+      "correctAnswer": "Terror"
+    },
+    {
+      "id": "cinema-13",
+      "category": "cinema",
+      "question": "¿Quién dirigió 'La Lista de Schindler'?",
+      "answers": [
+        "Steven Spielberg",
+        "Martin Scorsese",
+        "Francis Ford Coppola",
+        "Ridley Scott"
+      ],
+      "correctAnswer": "Steven Spielberg"
+    },
+    {
+      "id": "cinema-14",
+      "category": "cinema",
+      "question": "¿Qué película es conocida por la canción 'My Heart Will Go On'?",
+      "answers": ["Titanic", "El Guardaespaldas", "Ghost", "Pretty Woman"],
+      "correctAnswer": "Titanic"
+    },
+    {
+      "id": "cinema-15",
+      "category": "cinema",
+      "question": "¿En qué película Brad Pitt interpreta a un personaje llamado 'Tyler Durden'?",
+      "answers": [
+        "El Club de la Lucha",
+        "Seven",
+        "Ocean's Eleven",
+        "Bastardos sin Gloria"
+      ],
+      "correctAnswer": "El Club de la Lucha"
+    },
+    {
+      "id": "cinema-16",
+      "category": "cinema",
+      "question": "¿Cuál es el subtítulo de la segunda película de 'El Señor de los Anillos'?",
+      "answers": [
+        "Las Dos Torres",
+        "El Retorno del Rey",
+        "La Comunidad del Anillo",
+        "El Hobbit"
+      ],
+      "correctAnswer": "Las Dos Torres"
+    },
+    {
+      "id": "cinema-17",
+      "category": "cinema",
+      "question": "¿En qué película aparece el personaje 'Travis Bickle'?",
+      "answers": [
+        "Taxi Driver",
+        "Toro Salvaje",
+        "Buenos Muchachos",
+        "Scarface"
+      ],
+      "correctAnswer": "Taxi Driver"
+    },
+    {
+      "id": "cinema-18",
+      "category": "cinema",
+      "question": "¿Qué película transcurre en un futuro distópico con un replicante llamado Roy Batty?",
+      "answers": ["Blade Runner", "Matrix", "Minority Report", "Desafío Total"],
+      "correctAnswer": "Blade Runner"
+    },
+    {
+      "id": "cinema-19",
+      "category": "cinema",
+      "question": "¿En qué película Robert De Niro dice la famosa frase 'You talkin' to me?'?",
+      "answers": ["Taxi Driver", "Buenos Muchachos", "Toro Salvaje", "Heat"],
+      "correctAnswer": "Taxi Driver"
+    },
+    {
+      "id": "cinema-20",
+      "category": "cinema",
+      "question": "¿Qué película trata sobre un boxeador llamado Rocky Balboa?",
+      "answers": [
+        "Rocky",
+        "Toro Salvaje",
+        "Million Dollar Baby",
+        "Cinderella Man"
+      ],
+      "correctAnswer": "Rocky"
+    },
+    {
+      "id": "cinema-21",
+      "category": "cinema",
+      "question": "¿Qué película está basada en una novela de Stephen King y dirigida por Stanley Kubrick?",
+      "answers": ["El Resplandor", "Eso", "Carrie", "Misery"],
+      "correctAnswer": "El Resplandor"
+    },
+    {
+      "id": "cinema-22",
+      "category": "cinema",
+      "question": "¿Quién dirigió 'Avatar'?",
+      "answers": [
+        "James Cameron",
+        "Peter Jackson",
+        "Steven Spielberg",
+        "Christopher Nolan"
+      ],
+      "correctAnswer": "James Cameron"
+    },
+    {
+      "id": "cinema-23",
+      "category": "cinema",
+      "question": "¿Qué película cuenta la historia de un boxeador llamado Rocky Balboa?",
+      "answers": [
+        "Rocky",
+        "Toro Salvaje",
+        "Million Dollar Baby",
+        "Cinderella Man"
+      ],
+      "correctAnswer": "Rocky"
+    },
+    {
+      "id": "cinema-24",
+      "category": "cinema",
+      "question": "¿Qué película de animación trata sobre un pez payaso que busca a su hijo?",
+      "answers": ["Buscando a Nemo", "Toy Story", "Los Increíbles", "Shrek"],
+      "correctAnswer": "Buscando a Nemo"
+    },
+    {
+      "id": "cinema-25",
+      "category": "cinema",
+      "question": "¿Quién protagonizó 'Eduardo Manostijeras'?",
+      "answers": [
+        "Johnny Depp",
+        "Leonardo DiCaprio",
+        "Brad Pitt",
+        "Tom Cruise"
+      ],
+      "correctAnswer": "Johnny Depp"
+    },
+    {
+      "id": "cinema-26",
+      "category": "cinema",
+      "question": "¿Cuál es el nombre del virus ficticio en 'Outbreak'?",
+      "answers": ["Motaba", "H1N1", "Ebola", "Marburg"],
+      "correctAnswer": "Motaba"
+    },
+    {
+      "id": "cinema-27",
+      "category": "cinema",
+      "question": "¿En qué película se escucha la frase 'I'll be back'?",
+      "answers": ["Terminator", "Predator", "Commando", "Desafío Total"],
+      "correctAnswer": "Terminator"
+    },
+    {
+      "id": "cinema-28",
+      "category": "cinema",
+      "question": "¿Quién dirigió 'Buenos Muchachos'?",
+      "answers": [
+        "Martin Scorsese",
+        "Francis Ford Coppola",
+        "Quentin Tarantino",
+        "Brian De Palma"
+      ],
+      "correctAnswer": "Martin Scorsese"
+    },
+    {
+      "id": "cinema-29",
+      "category": "cinema",
+      "question": "¿En qué película Keanu Reeves interpreta a Neo?",
+      "answers": ["Matrix", "Speed", "John Wick", "Point Break"],
+      "correctAnswer": "Matrix"
+    },
+    {
+      "id": "cinema-30",
+      "category": "cinema",
+      "question": "¿En qué película un hombre vive el mismo día una y otra vez?",
+      "answers": [
+        "El Día de la Marmota",
+        "Al Filo del Mañana",
+        "Código Fuente",
+        "Feliz Día de tu Muerte"
+      ],
+      "correctAnswer": "El Día de la Marmota"
+    },
+    {
+      "id": "tech-1",
+      "category": "technology",
+      "question": "¿Quién es considerado el padre de la computadora?",
+      "answers": ["Charles Babbage", "Alan Turing", "Bill Gates", "Steve Jobs"],
+      "correctAnswer": "Charles Babbage"
+    },
+    {
+      "id": "tech-2",
+      "category": "technology",
+      "question": "¿Qué significa CPU?",
+      "answers": [
+        "Central Processing Unit",
+        "Computer Personal Unit",
+        "Central Performance Unit",
+        "Control Processing Unit"
+      ],
+      "correctAnswer": "Central Processing Unit"
+    },
+    {
+      "id": "tech-3",
+      "category": "technology",
+      "question": "¿Qué empresa desarrolló el sistema operativo Windows?",
+      "answers": ["Microsoft", "Apple", "IBM", "Google"],
+      "correctAnswer": "Microsoft"
+    },
+    {
+      "id": "tech-4",
+      "category": "technology",
+      "question": "¿Qué lenguaje de programación es el principal para desarrollar aplicaciones Android?",
+      "answers": ["Java", "Swift", "C#", "Ruby"],
+      "correctAnswer": "Java"
+    },
+    {
+      "id": "tech-5",
+      "category": "technology",
+      "question": "¿Quién cofundó Apple Inc. con Steve Jobs?",
+      "answers": [
+        "Steve Wozniak",
+        "Bill Gates",
+        "Mark Zuckerberg",
+        "Larry Page"
+      ],
+      "correctAnswer": "Steve Wozniak"
+    },
+    {
+      "id": "tech-6",
+      "category": "technology",
+      "question": "¿Qué significa RAM?",
+      "answers": [
+        "Random Access Memory",
+        "Readily Available Memory",
+        "Rapid Access Memory",
+        "Read Access Module"
+      ],
+      "correctAnswer": "Random Access Memory"
+    },
+    {
+      "id": "tech-7",
+      "category": "technology",
+      "question": "¿Qué empresa creó el iPhone?",
+      "answers": ["Apple", "Samsung", "Nokia", "Motorola"],
+      "correctAnswer": "Apple"
+    },
+    {
+      "id": "tech-8",
+      "category": "technology",
+      "question": "¿Cuál es el término para un software malicioso?",
+      "answers": ["Malware", "Hardware", "Phishing", "Firmware"],
+      "correctAnswer": "Malware"
+    },
+    {
+      "id": "tech-9",
+      "category": "technology",
+      "question": "¿Qué tecnología se utiliza para pagos sin contacto?",
+      "answers": ["NFC", "Bluetooth", "Wi-Fi", "Infrarrojo"],
+      "correctAnswer": "NFC"
+    },
+    {
+      "id": "tech-10",
+      "category": "technology",
+      "question": "¿Qué significa HTTP?",
+      "answers": [
+        "HyperText Transfer Protocol",
+        "HighText Transfer Protocol",
+        "HyperText Transmission Protocol",
+        "HighText Transmission Protocol"
+      ],
+      "correctAnswer": "HyperText Transfer Protocol"
+    },
+    {
+      "id": "tech-11",
+      "category": "technology",
+      "question": "¿Qué lenguaje de programación es conocido por su uso en análisis de datos y cálculo científico?",
+      "answers": ["Python", "Java", "C++", "PHP"],
+      "correctAnswer": "Python"
+    },
+    {
+      "id": "tech-12",
+      "category": "technology",
+      "question": "¿Qué significa GPU?",
+      "answers": [
+        "Graphics Processing Unit",
+        "General Processing Unit",
+        "Graphical Performance Unit",
+        "General Performance Unit"
+      ],
+      "correctAnswer": "Graphics Processing Unit"
+    },
+    {
+      "id": "tech-13",
+      "category": "technology",
+      "question": "¿Qué empresa es conocida por su motor de búsqueda 'Google'?",
+      "answers": ["Google", "Microsoft", "Yahoo", "Bing"],
+      "correctAnswer": "Google"
+    },
+    {
+      "id": "tech-14",
+      "category": "technology",
+      "question": "¿Cuál es el nombre del sistema operativo móvil de Apple?",
+      "answers": ["iOS", "Android", "Windows Mobile", "BlackBerry OS"],
+      "correctAnswer": "iOS"
+    },
+    {
+      "id": "tech-15",
+      "category": "technology",
+      "question": "¿Qué dispositivo se utiliza para medir la temperatura digitalmente?",
+      "answers": [
+        "Termómetro digital",
+        "Termómetro analógico",
+        "Barómetro",
+        "Higrómetro"
+      ],
+      "correctAnswer": "Termómetro digital"
+    },
+    {
+      "id": "tech-16",
+      "category": "technology",
+      "question": "¿Qué significa SSD en términos de almacenamiento informático?",
+      "answers": [
+        "Solid State Drive",
+        "Single State Drive",
+        "Solid Storage Device",
+        "Sequential Storage Drive"
+      ],
+      "correctAnswer": "Solid State Drive"
+    },
+    {
+      "id": "tech-17",
+      "category": "technology",
+      "question": "¿Qué empresa produce la consola de videojuegos 'PlayStation'?",
+      "answers": ["Sony", "Microsoft", "Nintendo", "Sega"],
+      "correctAnswer": "Sony"
+    },
+    {
+      "id": "tech-18",
+      "category": "technology",
+      "question": "¿Cuál es la red social más grande del mundo?",
+      "answers": ["Facebook", "Twitter", "Instagram", "LinkedIn"],
+      "correctAnswer": "Facebook"
+    },
+    {
+      "id": "tech-19",
+      "category": "technology",
+      "question": "¿Qué significa VPN?",
+      "answers": [
+        "Virtual Private Network",
+        "Virtual Public Network",
+        "Verified Private Network",
+        "Virtual Protected Network"
+      ],
+      "correctAnswer": "Virtual Private Network"
+    },
+    {
+      "id": "tech-20",
+      "category": "technology",
+      "question": "¿Qué empresa es conocida por su servicio de computación en la nube 'AWS'?",
+      "answers": ["Amazon", "Google", "Microsoft", "IBM"],
+      "correctAnswer": "Amazon"
+    },
+    {
+      "id": "tech-21",
+      "category": "technology",
+      "question": "¿Cuál fue el nombre de la primera computadora electrónica de propósito general?",
+      "answers": ["ENIAC", "UNIVAC", "EDSAC", "IBM PC"],
+      "correctAnswer": "ENIAC"
+    },
+    {
+      "id": "tech-22",
+      "category": "technology",
+      "question": "¿Qué lenguaje de programación fue creado por James Gosling?",
+      "answers": ["Java", "C#", "Python", "Ruby"],
+      "correctAnswer": "Java"
+    },
+    {
+      "id": "tech-23",
+      "category": "technology",
+      "question": "¿Para qué se utiliza principalmente la tecnología blockchain?",
+      "answers": [
+        "Criptomonedas",
+        "Redes sociales",
+        "Motores de búsqueda",
+        "Streaming de video"
+      ],
+      "correctAnswer": "Criptomonedas"
+    },
+    {
+      "id": "tech-24",
+      "category": "technology",
+      "question": "¿Qué empresa fabrica la tableta Surface?",
+      "answers": ["Microsoft", "Apple", "Samsung", "Dell"],
+      "correctAnswer": "Microsoft"
+    },
+    {
+      "id": "tech-25",
+      "category": "technology",
+      "question": "¿Qué significa API?",
+      "answers": [
+        "Application Programming Interface",
+        "Advanced Programming Interface",
+        "Applied Programming Initiative",
+        "Application Protocol Interface"
+      ],
+      "correctAnswer": "Application Programming Interface"
+    },
+    {
+      "id": "tech-26",
+      "category": "technology",
+      "question": "¿Qué término describe un ataque de seguridad de red donde el atacante intercepta la comunicación?",
+      "answers": ["Man-in-the-middle", "Phishing", "DDoS", "SQL Injection"],
+      "correctAnswer": "Man-in-the-middle"
+    },
+    {
+      "id": "tech-27",
+      "category": "technology",
+      "question": "¿Qué empresa es conocida por su servicio de computación en la nube 'AWS'?",
+      "answers": ["Amazon", "Google", "Microsoft", "IBM"],
+      "correctAnswer": "Amazon"
+    },
+    {
+      "id": "tech-28",
+      "category": "technology",
+      "question": "¿Cuál es la función principal de un sistema operativo?",
+      "answers": [
+        "Gestionar los recursos de hardware y software",
+        "Proporcionar conexión a internet",
+        "Almacenar archivos de usuario",
+        "Ejecutar navegadores web"
+      ],
+      "correctAnswer": "Gestionar los recursos de hardware y software"
+    },
+    {
+      "id": "tech-29",
+      "category": "technology",
+      "question": "¿Qué significa IoT?",
+      "answers": [
+        "Internet of Things",
+        "Input/Output Technology",
+        "Internet of Telecom",
+        "Internal of Things"
+      ],
+      "correctAnswer": "Internet of Things"
+    },
+    {
+      "id": "tech-30",
+      "category": "technology",
+      "question": "¿Qué lenguaje de programación es conocido por su simplicidad y legibilidad, comúnmente usado para scripting?",
+      "answers": ["Python", "C++", "Java", "Perl"],
+      "correctAnswer": "Python"
+    },
+    {
+      "id": "general-1",
+      "category": "general",
+      "question": "¿Cuál es la capital de Francia?",
+      "answers": ["París", "Lyon", "Marsella", "Niza"],
+      "correctAnswer": "París"
+    },
+    {
+      "id": "general-2",
+      "category": "general",
+      "question": "¿Qué planeta es conocido como el Planeta Rojo?",
+      "answers": ["Marte", "Venus", "Júpiter", "Saturno"],
+      "correctAnswer": "Marte"
+    },
+    {
+      "id": "general-3",
+      "category": "general",
+      "question": "¿Cuál es el océano más grande del mundo?",
+      "answers": [
+        "Océano Pacífico",
+        "Océano Atlántico",
+        "Océano Índico",
+        "Océano Ártico"
+      ],
+      "correctAnswer": "Océano Pacífico"
+    },
+    {
+      "id": "general-4",
+      "category": "general",
+      "question": "¿Quién escribió 'Romeo y Julieta'?",
+      "answers": [
+        "William Shakespeare",
+        "Charles Dickens",
+        "Mark Twain",
+        "Jane Austen"
+      ],
+      "correctAnswer": "William Shakespeare"
+    },
+    {
+      "id": "general-5",
+      "category": "general",
+      "question": "¿Cuál es el país más pequeño del mundo?",
+      "answers": ["Vaticano", "Mónaco", "Nauru", "San Marino"],
+      "correctAnswer": "Vaticano"
+    },
+    {
+      "id": "general-6",
+      "category": "general",
+      "question": "¿Qué país es conocido como la Tierra del Sol Naciente?",
+      "answers": ["Japón", "China", "Corea del Sur", "Tailandia"],
+      "correctAnswer": "Japón"
+    },
+    {
+      "id": "general-7",
+      "category": "general",
+      "question": "¿Cuál es el símbolo químico del oro?",
+      "answers": ["Au", "Ag", "Gd", "Go"],
+      "correctAnswer": "Au"
+    },
+    {
+      "id": "general-8",
+      "category": "general",
+      "question": "¿Cuántos continentes hay en la Tierra?",
+      "answers": ["7", "5", "6", "8"],
+      "correctAnswer": "7"
+    },
+    {
+      "id": "general-9",
+      "category": "general",
+      "question": "¿Cuál es la sustancia natural más dura en la Tierra?",
+      "answers": ["Diamante", "Acero", "Hierro", "Cuarzo"],
+      "correctAnswer": "Diamante"
+    },
+    {
+      "id": "general-10",
+      "category": "general",
+      "question": "¿Quién pintó la Mona Lisa?",
+      "answers": [
+        "Leonardo da Vinci",
+        "Vincent van Gogh",
+        "Pablo Picasso",
+        "Miguel Ángel"
+      ],
+      "correctAnswer": "Leonardo da Vinci"
+    },
+    {
+      "id": "general-11",
+      "category": "general",
+      "question": "¿Cuál es el desierto más grande del mundo?",
+      "answers": ["Sahara", "Gobi", "Kalahari", "Arábigo"],
+      "correctAnswer": "Sahara"
+    },
+    {
+      "id": "general-12",
+      "category": "general",
+      "question": "¿En qué país vive el canguro?",
+      "answers": ["Australia", "Sudáfrica", "India", "Brasil"],
+      "correctAnswer": "Australia"
+    },
+    {
+      "id": "general-13",
+      "category": "general",
+      "question": "¿Cuántos colores tiene un arcoíris?",
+      "answers": ["7", "6", "8", "5"],
+      "correctAnswer": "7"
+    },
+    {
+      "id": "general-14",
+      "category": "general",
+      "question": "¿Cuál es el idioma más hablado en el mundo?",
+      "answers": ["Mandarín", "Inglés", "Español", "Hindi"],
+      "correctAnswer": "Mandarín"
+    },
+    {
+      "id": "general-15",
+      "category": "general",
+      "question": "¿Cuál es la moneda del Reino Unido?",
+      "answers": ["Libra Esterlina", "Euro", "Dólar", "Yen"],
+      "correctAnswer": "Libra Esterlina"
+    },
+    {
+      "id": "general-16",
+      "category": "general",
+      "question": "¿Cuál es la montaña más alta del mundo?",
+      "answers": ["Monte Everest", "K2", "Kangchenjunga", "Lhotse"],
+      "correctAnswer": "Monte Everest"
+    },
+    {
+      "id": "general-17",
+      "category": "general",
+      "question": "¿Cuál es el ingrediente principal del guacamole?",
+      "answers": ["Aguacate", "Tomate", "Pepino", "Pimiento"],
+      "correctAnswer": "Aguacate"
+    },
+    {
+      "id": "general-18",
+      "category": "general",
+      "question": "¿En qué país se crearon los Juegos Olímpicos?",
+      "answers": ["Grecia", "Italia", "Francia", "Egipto"],
+      "correctAnswer": "Grecia"
+    },
+    {
+      "id": "general-19",
+      "category": "general",
+      "question": "¿Cuál es el punto de ebullición del agua a nivel del mar (en Celsius)?",
+      "answers": ["100", "90", "80", "110"],
+      "correctAnswer": "100"
+    },
+    {
+      "id": "general-20",
+      "category": "general",
+      "question": "¿Quién inventó el teléfono?",
+      "answers": [
+        "Alexander Graham Bell",
+        "Thomas Edison",
+        "Nikola Tesla",
+        "Guglielmo Marconi"
+      ],
+      "correctAnswer": "Alexander Graham Bell"
+    },
+    {
+      "id": "general-21",
+      "category": "general",
+      "question": "¿Cuál es el continente más grande en términos de superficie?",
+      "answers": ["Asia", "África", "América del Norte", "Europa"],
+      "correctAnswer": "Asia"
+    },
+    {
+      "id": "general-22",
+      "category": "general",
+      "question": "¿Qué elemento tiene el símbolo químico 'O'?",
+      "answers": ["Oxígeno", "Oro", "Osmio", "Hidrógeno"],
+      "correctAnswer": "Oxígeno"
+    },
+    {
+      "id": "general-23",
+      "category": "general",
+      "question": "¿Cuántos días hay en un año bisiesto?",
+      "answers": ["366", "365", "364", "367"],
+      "correctAnswer": "366"
+    },
+    {
+      "id": "general-24",
+      "category": "general",
+      "question": "¿Qué país fue sede de los Juegos Olímpicos de verano 2016?",
+      "answers": ["Brasil", "China", "Reino Unido", "Rusia"],
+      "correctAnswer": "Brasil"
+    },
+    {
+      "id": "general-25",
+      "category": "general",
+      "question": "¿Cuál es el animal más grande del mundo?",
+      "answers": ["Ballena Azul", "Elefante", "Jirafa", "Hipopótamo"],
+      "correctAnswer": "Ballena Azul"
+    },
+    {
+      "id": "general-26",
+      "category": "general",
+      "question": "¿Qué instrumento tiene teclas, pedales y cuerdas?",
+      "answers": ["Piano", "Guitarra", "Batería", "Violín"],
+      "correctAnswer": "Piano"
+    },
+    {
+      "id": "general-27",
+      "category": "general",
+      "question": "¿Qué significa ADN?",
+      "answers": [
+        "Ácido DesoxirriboNucleico",
+        "Ácido DesoxirriboNuclear",
+        "Ácido DioxirriboNucleico",
+        "Ácido DicarboxiNucleico"
+      ],
+      "correctAnswer": "Ácido DesoxirriboNucleico"
+    },
+    {
+      "id": "general-28",
+      "category": "general",
+      "question": "¿Cuál es el país más poblado del mundo?",
+      "answers": ["China", "India", "Estados Unidos", "Rusia"],
+      "correctAnswer": "China"
+    },
+    {
+      "id": "general-29",
+      "category": "general",
+      "question": "¿Cuál es el río más largo del mundo?",
+      "answers": ["Nilo", "Amazonas", "Yangtsé", "Mississippi"],
+      "correctAnswer": "Nilo"
+    },
+    {
+      "id": "general-30",
+      "category": "general",
+      "question": "¿Qué planeta tiene más lunas?",
+      "answers": ["Saturno", "Júpiter", "Urano", "Neptuno"],
+      "correctAnswer": "Saturno"
+    },
+    {
+      "id": "history-1",
+      "category": "history",
+      "question": "¿En qué año comenzó la Primera Guerra Mundial?",
+      "answers": ["1914", "1915", "1913", "1916"],
+      "correctAnswer": "1914"
+    },
+    {
+      "id": "history-2",
+      "category": "history",
+      "question": "¿Quién fue el primer presidente de los Estados Unidos?",
+      "answers": [
+        "George Washington",
+        "Thomas Jefferson",
+        "Abraham Lincoln",
+        "John Adams"
+      ],
+      "correctAnswer": "George Washington"
+    },
+    {
+      "id": "history-3",
+      "category": "history",
+      "question": "¿En qué año cayó el Muro de Berlín?",
+      "answers": ["1989", "1991", "1988", "1990"],
+      "correctAnswer": "1989"
+    },
+    {
+      "id": "history-4",
+      "category": "history",
+      "question": "¿Qué antigua civilización construyó las pirámides de Giza?",
+      "answers": ["Egipcios", "Mayas", "Incas", "Aztecas"],
+      "correctAnswer": "Egipcios"
+    },
+    {
+      "id": "history-5",
+      "category": "history",
+      "question": "¿Quién pintó la Capilla Sixtina?",
+      "answers": [
+        "Miguel Ángel",
+        "Leonardo da Vinci",
+        "Rafael",
+        "Sandro Botticelli"
+      ],
+      "correctAnswer": "Miguel Ángel"
+    },
+    {
+      "id": "history-6",
+      "category": "history",
+      "question": "¿En qué año se descubrió América?",
+      "answers": ["1492", "1489", "1495", "1498"],
+      "correctAnswer": "1492"
+    },
+    {
+      "id": "history-7",
+      "category": "history",
+      "question": "¿Quién fue la última reina de Francia antes de la Revolución Francesa?",
+      "answers": [
+        "María Antonieta",
+        "Isabel I",
+        "Catalina la Grande",
+        "María Teresa"
+      ],
+      "correctAnswer": "María Antonieta"
+    },
+    {
+      "id": "history-8",
+      "category": "history",
+      "question": "¿Qué famoso líder dirigió la independencia de la India?",
+      "answers": [
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Subhas Chandra Bose",
+        "Sardar Patel"
+      ],
+      "correctAnswer": "Mahatma Gandhi"
+    },
+    {
+      "id": "history-9",
+      "category": "history",
+      "question": "¿En qué año terminó la Segunda Guerra Mundial?",
+      "answers": ["1945", "1944", "1946", "1943"],
+      "correctAnswer": "1945"
+    },
+    {
+      "id": "history-10",
+      "category": "history",
+      "question": "¿Qué imperio construyó el Coliseo de Roma?",
+      "answers": [
+        "Imperio Romano",
+        "Imperio Griego",
+        "Imperio Bizantino",
+        "Imperio Otomano"
+      ],
+      "correctAnswer": "Imperio Romano"
+    },
+    {
+      "id": "history-11",
+      "category": "history",
+      "question": "¿Quién fue el primer emperador de China?",
+      "answers": ["Qin Shi Huang", "Sun Yat-sen", "Kublai Khan", "Han Wudi"],
+      "correctAnswer": "Qin Shi Huang"
+    },
+    {
+      "id": "history-12",
+      "category": "history",
+      "question": "¿En qué año se produjo la Revolución Rusa?",
+      "answers": ["1917", "1915", "1919", "1921"],
+      "correctAnswer": "1917"
+    },
+    {
+      "id": "history-13",
+      "category": "history",
+      "question": "¿Cuál fue la primera civilización de la historia?",
+      "answers": ["Sumeria", "Egipcia", "China", "India"],
+      "correctAnswer": "Sumeria"
+    },
+    {
+      "id": "history-14",
+      "category": "history",
+      "question": "¿Quién escribió 'El Arte de la Guerra'?",
+      "answers": ["Sun Tzu", "Confucio", "Lao Tse", "Mencio"],
+      "correctAnswer": "Sun Tzu"
+    },
+    {
+      "id": "history-15",
+      "category": "history",
+      "question": "¿En qué año se fundó la Organización de las Naciones Unidas (ONU)?",
+      "answers": ["1945", "1944", "1946", "1947"],
+      "correctAnswer": "1945"
+    },
+    {
+      "id": "history-16",
+      "category": "history",
+      "question": "¿Quién fue el último zar de Rusia?",
+      "answers": [
+        "Nicolás II",
+        "Alejandro III",
+        "Pedro el Grande",
+        "Iván el Terrible"
+      ],
+      "correctAnswer": "Nicolás II"
+    },
+    {
+      "id": "history-17",
+      "category": "history",
+      "question": "¿Cuál fue la primera ciudad en tener un millón de habitantes?",
+      "answers": ["Roma", "Atenas", "Babilonia", "Alejandría"],
+      "correctAnswer": "Roma"
+    },
+    {
+      "id": "history-18",
+      "category": "history",
+      "question": "¿En qué año llegó el hombre a la Luna?",
+      "answers": ["1969", "1968", "1970", "1971"],
+      "correctAnswer": "1969"
+    },
+    {
+      "id": "history-19",
+      "category": "history",
+      "question": "¿Quién fue el líder de la Revolución Cubana?",
+      "answers": [
+        "Fidel Castro",
+        "Che Guevara",
+        "Raúl Castro",
+        "Camilo Cienfuegos"
+      ],
+      "correctAnswer": "Fidel Castro"
+    },
+    {
+      "id": "history-20",
+      "category": "history",
+      "question": "¿Cuál fue la batalla que marcó el fin de Napoleón Bonaparte?",
+      "answers": ["Waterloo", "Austerlitz", "Trafalgar", "Leipzig"],
+      "correctAnswer": "Waterloo"
+    },
+    {
+      "id": "history-21",
+      "category": "history",
+      "question": "¿Qué evento marcó el inicio de la Revolución Francesa?",
+      "answers": [
+        "La toma de la Bastilla",
+        "La muerte de Luis XVI",
+        "El Juramento del Juego de Pelota",
+        "La marcha sobre Versalles"
+      ],
+      "correctAnswer": "La toma de la Bastilla"
+    },
+    {
+      "id": "history-22",
+      "category": "history",
+      "question": "¿Cuál fue el nombre del primer satélite artificial lanzado al espacio?",
+      "answers": ["Sputnik 1", "Explorer 1", "Vanguard 1", "Apollo 1"],
+      "correctAnswer": "Sputnik 1"
+    },
+    {
+      "id": "history-23",
+      "category": "history",
+      "question": "¿En qué año se firmó la Declaración de Independencia de los Estados Unidos?",
+      "answers": ["1776", "1775", "1777", "1778"],
+      "correctAnswer": "1776"
+    },
+    {
+      "id": "history-24",
+      "category": "history",
+      "question": "¿Quién fue el primer emperador romano?",
+      "answers": ["Augusto", "Julio César", "Nerón", "Calígula"],
+      "correctAnswer": "Augusto"
+    },
+    {
+      "id": "history-25",
+      "category": "history",
+      "question": "¿Qué famosa ruta comercial conectaba China con Europa?",
+      "answers": [
+        "La Ruta de la Seda",
+        "La Ruta de las Especias",
+        "La Ruta del Té",
+        "La Ruta del Incienso"
+      ],
+      "correctAnswer": "La Ruta de la Seda"
+    },
+    {
+      "id": "history-26",
+      "category": "history",
+      "question": "¿Cuál fue la primera dinastía de China?",
+      "answers": ["Xia", "Zhou", "Qin", "Han"],
+      "correctAnswer": "Xia"
+    },
+    {
+      "id": "history-27",
+      "category": "history",
+      "question": "¿En qué año terminó la Guerra Fría?",
+      "answers": ["1991", "1989", "1990", "1992"],
+      "correctAnswer": "1991"
+    },
+    {
+      "id": "history-28",
+      "category": "history",
+      "question": "¿Quién fue el primer rey de España de la dinastía de los Borbones?",
+      "answers": ["Felipe V", "Carlos II", "Felipe IV", "Carlos III"],
+      "correctAnswer": "Felipe V"
+    },
+    {
+      "id": "history-29",
+      "category": "history",
+      "question": "¿Qué civilización construyó Machu Picchu?",
+      "answers": ["Incas", "Mayas", "Aztecas", "Olmecas"],
+      "correctAnswer": "Incas"
+    },
+    {
+      "id": "history-30",
+      "category": "history",
+      "question": "¿Quién fue el primer cosmonauta en viajar al espacio?",
+      "answers": [
+        "Yuri Gagarin",
+        "Neil Armstrong",
+        "Alan Shepard",
+        "John Glenn"
+      ],
+      "correctAnswer": "Yuri Gagarin"
+    },
+    {
+      "id": "science-1",
+      "category": "science",
+      "question": "¿Cuál es el elemento químico más abundante en el universo?",
+      "answers": ["Hidrógeno", "Helio", "Oxígeno", "Carbono"],
+      "correctAnswer": "Hidrógeno"
+    },
+    {
+      "id": "science-2",
+      "category": "science",
+      "question": "¿Cuál es la unidad básica de la vida?",
+      "answers": ["La célula", "El átomo", "La molécula", "El tejido"],
+      "correctAnswer": "La célula"
+    },
+    {
+      "id": "science-3",
+      "category": "science",
+      "question": "¿Qué proceso realizan las plantas para producir su propio alimento?",
+      "answers": ["Fotosíntesis", "Respiración", "Digestión", "Fermentación"],
+      "correctAnswer": "Fotosíntesis"
+    },
+    {
+      "id": "science-4",
+      "category": "science",
+      "question": "¿Cuál es la velocidad de la luz?",
+      "answers": [
+        "299,792 km/s",
+        "199,792 km/s",
+        "399,792 km/s",
+        "499,792 km/s"
+      ],
+      "correctAnswer": "299,792 km/s"
+    },
+    {
+      "id": "science-5",
+      "category": "science",
+      "question": "¿Qué ley de Newton describe la fuerza de gravedad?",
+      "answers": [
+        "Ley de gravitación universal",
+        "Primera ley del movimiento",
+        "Segunda ley del movimiento",
+        "Tercera ley del movimiento"
+      ],
+      "correctAnswer": "Ley de gravitación universal"
+    },
+    {
+      "id": "science-6",
+      "category": "science",
+      "question": "¿Cuál es el órgano más grande del cuerpo humano?",
+      "answers": ["La piel", "El hígado", "Los pulmones", "Los intestinos"],
+      "correctAnswer": "La piel"
+    },
+    {
+      "id": "science-7",
+      "category": "science",
+      "question": "¿Qué gas necesitan las plantas para realizar la fotosíntesis?",
+      "answers": ["Dióxido de carbono", "Oxígeno", "Nitrógeno", "Hidrógeno"],
+      "correctAnswer": "Dióxido de carbono"
+    },
+    {
+      "id": "science-8",
+      "category": "science",
+      "question": "¿Cuál es el hueso más largo del cuerpo humano?",
+      "answers": ["Fémur", "Húmero", "Tibia", "Radio"],
+      "correctAnswer": "Fémur"
+    },
+    {
+      "id": "science-9",
+      "category": "science",
+      "question": "¿Qué planeta del sistema solar tiene más lunas?",
+      "answers": ["Júpiter", "Saturno", "Urano", "Neptuno"],
+      "correctAnswer": "Júpiter"
+    },
+    {
+      "id": "science-10",
+      "category": "science",
+      "question": "¿Cuál es la partícula subatómica con carga positiva?",
+      "answers": ["Protón", "Electrón", "Neutrón", "Quark"],
+      "correctAnswer": "Protón"
+    },
+    {
+      "id": "science-11",
+      "category": "science",
+      "question": "¿Cuál es el proceso por el cual el agua se convierte en vapor?",
+      "answers": [
+        "Evaporación",
+        "Condensación",
+        "Sublimación",
+        "Solidificación"
+      ],
+      "correctAnswer": "Evaporación"
+    },
+    {
+      "id": "science-12",
+      "category": "science",
+      "question": "¿Qué vitamina se produce en la piel cuando nos exponemos al sol?",
+      "answers": ["Vitamina D", "Vitamina C", "Vitamina A", "Vitamina B"],
+      "correctAnswer": "Vitamina D"
+    },
+    {
+      "id": "science-13",
+      "category": "science",
+      "question": "¿Cuál es el nombre del proceso por el cual las plantas liberan agua?",
+      "answers": ["Transpiración", "Respiración", "Fotosíntesis", "Osmosis"],
+      "correctAnswer": "Transpiración"
+    },
+    {
+      "id": "science-14",
+      "category": "science",
+      "question": "¿Qué tipo de ondas son utilizadas en los microondas?",
+      "answers": [
+        "Electromagnéticas",
+        "Sonoras",
+        "Mecánicas",
+        "Gravitacionales"
+      ],
+      "correctAnswer": "Electromagnéticas"
+    },
+    {
+      "id": "science-15",
+      "category": "science",
+      "question": "¿Cuál es la unidad básica de la herencia genética?",
+      "answers": ["Gen", "Cromosoma", "ADN", "Célula"],
+      "correctAnswer": "Gen"
+    },
+    {
+      "id": "science-16",
+      "category": "science",
+      "question": "¿Qué gas es esencial para la respiración?",
+      "answers": ["Oxígeno", "Nitrógeno", "Dióxido de carbono", "Hidrógeno"],
+      "correctAnswer": "Oxígeno"
+    },
+    {
+      "id": "science-17",
+      "category": "science",
+      "question": "¿Cuál es la capa más externa de la Tierra?",
+      "answers": ["Corteza", "Manto", "Núcleo externo", "Núcleo interno"],
+      "correctAnswer": "Corteza"
+    },
+    {
+      "id": "science-18",
+      "category": "science",
+      "question": "¿Qué órgano del cuerpo humano produce la insulina?",
+      "answers": ["Páncreas", "Hígado", "Riñón", "Bazo"],
+      "correctAnswer": "Páncreas"
+    },
+    {
+      "id": "science-19",
+      "category": "science",
+      "question": "¿Cuál es la unidad de medida de la fuerza?",
+      "answers": ["Newton", "Julio", "Pascal", "Vatio"],
+      "correctAnswer": "Newton"
+    },
+    {
+      "id": "science-20",
+      "category": "science",
+      "question": "¿Qué parte del cerebro controla el equilibrio?",
+      "answers": ["Cerebelo", "Cerebro", "Tronco encefálico", "Hipotálamo"],
+      "correctAnswer": "Cerebelo"
+    },
+    {
+      "id": "science-21",
+      "category": "science",
+      "question": "¿Cuál es el metal más abundante en la corteza terrestre?",
+      "answers": ["Aluminio", "Hierro", "Cobre", "Zinc"],
+      "correctAnswer": "Aluminio"
+    },
+    {
+      "id": "science-22",
+      "category": "science",
+      "question": "¿Qué enfermedad se previene con la vacuna BCG?",
+      "answers": ["Tuberculosis", "Polio", "Sarampión", "Varicela"],
+      "correctAnswer": "Tuberculosis"
+    },
+    {
+      "id": "science-23",
+      "category": "science",
+      "question": "¿Cuál es la función principal de los glóbulos rojos?",
+      "answers": [
+        "Transportar oxígeno",
+        "Combatir infecciones",
+        "Coagular la sangre",
+        "Producir anticuerpos"
+      ],
+      "correctAnswer": "Transportar oxígeno"
+    },
+    {
+      "id": "science-24",
+      "category": "science",
+      "question": "¿Qué científico propuso la teoría de la relatividad?",
+      "answers": [
+        "Albert Einstein",
+        "Isaac Newton",
+        "Stephen Hawking",
+        "Niels Bohr"
+      ],
+      "correctAnswer": "Albert Einstein"
+    },
+    {
+      "id": "science-25",
+      "category": "science",
+      "question": "¿Cuál es el proceso de división celular que produce células reproductivas?",
+      "answers": ["Meiosis", "Mitosis", "Citoquinesis", "Apoptosis"],
+      "correctAnswer": "Meiosis"
+    },
+    {
+      "id": "science-26",
+      "category": "science",
+      "question": "¿Qué escala se usa para medir la intensidad de los terremotos?",
+      "answers": ["Richter", "Celsius", "Kelvin", "Fahrenheit"],
+      "correctAnswer": "Richter"
+    },
+    {
+      "id": "science-27",
+      "category": "science",
+      "question": "¿Cuál es el elemento químico más pesado que se encuentra naturalmente en la Tierra?",
+      "answers": ["Uranio", "Plutonio", "Oro", "Plomo"],
+      "correctAnswer": "Uranio"
+    },
+    {
+      "id": "science-28",
+      "category": "science",
+      "question": "¿Qué hormona es conocida como la 'hormona del estrés'?",
+      "answers": ["Cortisol", "Insulina", "Tiroxina", "Adrenalina"],
+      "correctAnswer": "Cortisol"
+    },
+    {
+      "id": "science-29",
+      "category": "science",
+      "question": "¿Cuál es la capa de la atmósfera más cercana a la Tierra?",
+      "answers": ["Troposfera", "Estratosfera", "Mesosfera", "Termosfera"],
+      "correctAnswer": "Troposfera"
+    },
+    {
+      "id": "science-30",
+      "category": "science",
+      "question": "¿Qué tipo de energía se almacena en los enlaces químicos de los alimentos?",
+      "answers": ["Química", "Cinética", "Potencial", "Térmica"],
+      "correctAnswer": "Química"
+    },
+    {
+      "id": "sports-1",
+      "category": "sport",
+      "question": "¿En qué país se inventó el fútbol moderno?",
+      "answers": ["Inglaterra", "Brasil", "España", "Alemania"],
+      "correctAnswer": "Inglaterra"
+    },
+    {
+      "id": "sports-2",
+      "category": "sport",
+      "question": "¿Cuántos jugadores tiene un equipo de baloncesto en la cancha?",
+      "answers": ["5", "6", "7", "4"],
+      "correctAnswer": "5"
+    },
+    {
+      "id": "sports-3",
+      "category": "sport",
+      "question": "¿Qué país ha ganado más Copas Mundiales de Fútbol?",
+      "answers": ["Brasil", "Alemania", "Italia", "Argentina"],
+      "correctAnswer": "Brasil"
+    },
+    {
+      "id": "sports-4",
+      "category": "sport",
+      "question": "¿En qué deporte se utiliza un green?",
+      "answers": ["Golf", "Tenis", "Cricket", "Hockey"],
+      "correctAnswer": "Golf"
+    },
+    {
+      "id": "sports-5",
+      "category": "sport",
+      "question": "¿Cuántos sets se necesitan para ganar un partido de tenis en Grand Slam?",
+      "answers": ["3", "2", "4", "5"],
+      "correctAnswer": "3"
+    },
+    {
+      "id": "sports-6",
+      "category": "sport",
+      "question": "¿Qué atleta tiene el récord de medallas olímpicas?",
+      "answers": [
+        "Michael Phelps",
+        "Usain Bolt",
+        "Carl Lewis",
+        "Larisa Latynina"
+      ],
+      "correctAnswer": "Michael Phelps"
+    },
+    {
+      "id": "sports-7",
+      "category": "sport",
+      "question": "¿En qué ciudad se celebraron los primeros Juegos Olímpicos modernos?",
+      "answers": ["Atenas", "París", "Londres", "Roma"],
+      "correctAnswer": "Atenas"
+    },
+    {
+      "id": "sports-8",
+      "category": "sport",
+      "question": "¿Cuál es la duración de un partido de fútbol sin contar el tiempo extra?",
+      "answers": ["90 minutos", "80 minutos", "85 minutos", "95 minutos"],
+      "correctAnswer": "90 minutos"
+    },
+    {
+      "id": "sports-9",
+      "category": "sport",
+      "question": "¿En qué deporte se usa el término 'smash'?",
+      "answers": ["Bádminton", "Boxeo", "Ciclismo", "Rugby"],
+      "correctAnswer": "Bádminton"
+    },
+    {
+      "id": "sports-10",
+      "category": "sport",
+      "question": "¿Cuántos anillos tiene el símbolo olímpico?",
+      "answers": ["5", "4", "6", "3"],
+      "correctAnswer": "5"
+    },
+    {
+      "id": "sports-11",
+      "category": "sport",
+      "question": "¿Qué equipo de fútbol se conoce como 'Los Merengues'?",
+      "answers": ["Real Madrid", "Barcelona", "Valencia", "Atlético de Madrid"],
+      "correctAnswer": "Real Madrid"
+    },
+    {
+      "id": "sports-12",
+      "category": "sport",
+      "question": "¿En qué deporte se utiliza un octógono?",
+      "answers": ["MMA", "Boxeo", "Lucha libre", "Judo"],
+      "correctAnswer": "MMA"
+    },
+    {
+      "id": "sports-13",
+      "category": "sport",
+      "question": "¿Cuál es el torneo de tenis más antiguo del mundo?",
+      "answers": ["Wimbledon", "Roland Garros", "US Open", "Australian Open"],
+      "correctAnswer": "Wimbledon"
+    },
+    {
+      "id": "sports-14",
+      "category": "sport",
+      "question": "¿Qué país inventó el voleibol?",
+      "answers": ["Estados Unidos", "Brasil", "Rusia", "Italia"],
+      "correctAnswer": "Estados Unidos"
+    },
+    {
+      "id": "sports-15",
+      "category": "sport",
+      "question": "¿Cuántos puntos vale un touchdown en fútbol americano?",
+      "answers": ["6", "7", "5", "4"],
+      "correctAnswer": "6"
+    },
+    {
+      "id": "sports-16",
+      "category": "sport",
+      "question": "¿Qué deporte se juega en el Madison Square Garden?",
+      "answers": ["Baloncesto", "Béisbol", "Fútbol", "Cricket"],
+      "correctAnswer": "Baloncesto"
+    },
+    {
+      "id": "sports-17",
+      "category": "sport",
+      "question": "¿Cuál es el apodo de Muhammad Ali?",
+      "answers": ["The Greatest", "Iron Mike", "The Golden Boy", "Sugar Ray"],
+      "correctAnswer": "The Greatest"
+    },
+    {
+      "id": "sports-18",
+      "category": "sport",
+      "question": "¿En qué deporte se utiliza el término 'strike'?",
+      "answers": ["Béisbol", "Cricket", "Golf", "Bolos"],
+      "correctAnswer": "Béisbol"
+    },
+    {
+      "id": "sports-19",
+      "category": "sport",
+      "question": "¿Cuál es la distancia de una maratón en kilómetros?",
+      "answers": ["42.195", "40", "45", "50"],
+      "correctAnswer": "42.195"
+    },
+    {
+      "id": "sports-20",
+      "category": "sport",
+      "question": "¿Qué selección ganó el primer Mundial de Fútbol?",
+      "answers": ["Uruguay", "Brasil", "Argentina", "Italia"],
+      "correctAnswer": "Uruguay"
+    },
+    {
+      "id": "sports-21",
+      "category": "sport",
+      "question": "¿Qué jugador de baloncesto es conocido como 'Air Jordan'?",
+      "answers": [
+        "Michael Jordan",
+        "LeBron James",
+        "Kobe Bryant",
+        "Magic Johnson"
+      ],
+      "correctAnswer": "Michael Jordan"
+    },
+    {
+      "id": "sports-22",
+      "category": "sport",
+      "question": "¿En qué país se inventó el ping pong?",
+      "answers": ["Inglaterra", "China", "Japón", "Estados Unidos"],
+      "correctAnswer": "Inglaterra"
+    },
+    {
+      "id": "sports-23",
+      "category": "sport",
+      "question": "¿Cuántos jugadores componen un equipo de rugby?",
+      "answers": ["15", "11", "13", "17"],
+      "correctAnswer": "15"
+    },
+    {
+      "id": "sports-24",
+      "category": "sport",
+      "question": "¿Qué país ganó la primera Copa Mundial de Fútbol Femenino?",
+      "answers": ["Estados Unidos", "Alemania", "Noruega", "Brasil"],
+      "correctAnswer": "Estados Unidos"
+    },
+    {
+      "id": "sports-25",
+      "category": "sport",
+      "question": "¿Cuál es el único deporte que se ha jugado en la Luna?",
+      "answers": ["Golf", "Fútbol", "Tenis", "Béisbol"],
+      "correctAnswer": "Golf"
+    },
+    {
+      "id": "sports-26",
+      "category": "sport",
+      "question": "¿Qué equipo de la NBA tiene más campeonatos?",
+      "answers": [
+        "Boston Celtics",
+        "Los Angeles Lakers",
+        "Chicago Bulls",
+        "Golden State Warriors"
+      ],
+      "correctAnswer": "Boston Celtics"
+    },
+    {
+      "id": "sports-27",
+      "category": "sport",
+      "question": "¿En qué año se celebraron los primeros X Games?",
+      "answers": ["1995", "1990", "2000", "1985"],
+      "correctAnswer": "1995"
+    },
+    {
+      "id": "sports-28",
+      "category": "sport",
+      "question": "¿Cuál es el deporte nacional de Japón?",
+      "answers": ["Sumo", "Judo", "Karate", "Kendo"],
+      "correctAnswer": "Sumo"
+    },
+    {
+      "id": "sports-29",
+      "category": "sport",
+      "question": "¿Quién es el máximo goleador histórico de la Liga de Campeones de la UEFA?",
+      "answers": [
+        "Cristiano Ronaldo",
+        "Lionel Messi",
+        "Raúl González",
+        "Robert Lewandowski"
+      ],
+      "correctAnswer": "Cristiano Ronaldo"
+    },
+    {
+      "id": "sports-30",
+      "category": "sport",
+      "question": "¿En qué deporte se compite por la Copa Davis?",
+      "answers": ["Tenis", "Golf", "Polo", "Hockey"],
+      "correctAnswer": "Tenis"
+    }
+  ]
+}
