@@ -34,7 +34,7 @@ export default function Home({
 
   return (
     <div className="p-8 bg-bg-main text-text-main">
-      <h1 className="m-6 text-3xl font-bold text-center">
+      <h1 className="m-6 text-3xl font-bold text-center drop-shadow-lg">
         {t("welcome", { defaultValue: "Bienvenue sur TheQuizQuest" })}
       </h1>
 

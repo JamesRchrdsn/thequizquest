@@ -15,7 +15,7 @@ export default function CategoryCard({
   return (
     <Link
       href={`/quiz?category=${encodeURIComponent(category)}`}
-      className="block p-4 transition border rounded-lg shadow bg-[var(--bg-card)] hover:bg-[var(--accent)] hover:shadow-xl"
+      className="block p-4 transition border rounded-lg shadow-lg bg-[var(--bg-card)] hover:scale-105 hover:bg-[var(--accent)] hover:shadow-2xl"
     >
       <h2 className="mb-1 text-xl font-bold text-center">{title}</h2>
       {description && (
