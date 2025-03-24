@@ -2,6 +2,7 @@
 import Link from "next/link";
 import ThemeToggle from "../ThemeToggle";
 import LocaleSwitcher from "./LocaleSwitcher";
+import MenuBurger from "./MenuBurger";
 
 interface HeaderProps {
   locale: string;
@@ -28,13 +29,24 @@ export default function Header({ locale }: HeaderProps) {
           onClick={handleHomeClick}
           replace
         >
-          <h1 className="text-2xl font-bold">The Quiz Quest</h1>
+          <h1 className="text-xl font-bold md:text-2xl">The Quiz Quest</h1>
         </Link>
       </div>
 
       <div className="flex items-center justify-end flex-1 space-x-2">
-        <LocaleSwitcher currentLocale={locale} />
-        <ThemeToggle />
+        <div className="items-center hidden space-x-2 md:flex">
+          <LocaleSwitcher currentLocale={locale} />
+          <ThemeToggle />
+        </div>
+
+        <div className="flex items-center space-x-2 md:hidden">
+          <ThemeToggle />
+          <MenuBurger>
+            <div className="px-4 py-2">
+              <LocaleSwitcher currentLocale={locale} isMobile={true} />
+            </div>
+          </MenuBurger>
+        </div>
       </div>
     </header>
   );

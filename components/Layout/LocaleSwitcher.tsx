@@ -5,6 +5,7 @@ import Flag from "react-flagkit";
 
 interface LocaleSwitcherProps {
   currentLocale: string;
+  isMobile?: boolean;
 }
 
 const localeToCountry: { [key: string]: string } = {
@@ -13,7 +14,10 @@ const localeToCountry: { [key: string]: string } = {
   es: "ES",
 };
 
-export default function LocaleSwitcher({ currentLocale }: LocaleSwitcherProps) {
+export default function LocaleSwitcher({
+  currentLocale,
+  isMobile = false,
+}: LocaleSwitcherProps) {
   const pathName = usePathname();
   const searchParams = useSearchParams();
 
@@ -30,7 +34,7 @@ export default function LocaleSwitcher({ currentLocale }: LocaleSwitcherProps) {
   };
 
   return (
-    <div className="flex space-x-2">
+    <div className={`flex ${isMobile ? "flex-col space-y-2" : "space-x-2"}`}>
       {Object.entries(localeToCountry).map(([loc, country]) => (
         <Link
           key={loc}
@@ -39,9 +43,12 @@ export default function LocaleSwitcher({ currentLocale }: LocaleSwitcherProps) {
             currentLocale === loc
               ? "bg-blue-500 text-white"
               : "bg-gray-200 dark:bg-gray-700 text-black dark:text-white"
-          } cursor-pointer p-1 rounded`}
+          } cursor-pointer p-1 rounded flex items-center ${
+            isMobile ? "justify-start space-x-2 w-full" : ""
+          }`}
         >
           <Flag country={country} size={24} />
+          {isMobile && <span className="ml-2">{loc.toUpperCase()}</span>}
         </Link>
       ))}
     </div>
