@@ -1554,6 +1554,1195 @@
       "question": "Quelle est la durée d'un round en boxe professionnelle ?",
       "answers": ["3 minutes", "2 minutes", "4 minutes", "5 minutes"],
       "correctAnswer": "3 minutes"
+    },
+    {
+      "id": "cinema-31",
+      "category": "cinema",
+      "question": "Quel réalisateur français est célèbre pour ses films 'Le Fabuleux Destin d'Amélie Poulain' et 'Delicatessen' ?",
+      "answers": [
+        "Luc Besson",
+        "François Ozon",
+        "Jean-Pierre Jeunet",
+        "Cédric Klapisch"
+      ],
+      "correctAnswer": "Jean-Pierre Jeunet"
+    },
+    {
+      "id": "cinema-32",
+      "category": "cinema",
+      "question": "Qui a remporté l'Oscar du meilleur acteur pour le film 'Joker' en 2020 ?",
+      "answers": [
+        "Joaquin Phoenix",
+        "Adam Driver",
+        "Brad Pitt",
+        "Leonardo DiCaprio"
+      ],
+      "correctAnswer": "Joaquin Phoenix"
+    },
+    {
+      "id": "cinema-33",
+      "category": "cinema",
+      "question": "Dans quel film voit-on un personnage nommé Marty McFly voyager dans le temps ?",
+      "answers": [
+        "Terminator",
+        "L'Effet papillon",
+        "Looper",
+        "Retour vers le futur"
+      ],
+      "correctAnswer": "Retour vers le futur"
+    },
+    {
+      "id": "cinema-34",
+      "category": "cinema",
+      "question": "Quel est le métier du personnage principal dans 'Le Discours d'un roi' ?",
+      "answers": ["Roi", "Professeur", "Premier ministre", "Journaliste"],
+      "correctAnswer": "Roi"
+    },
+    {
+      "id": "cinema-35",
+      "category": "cinema",
+      "question": "Quel film français a remporté la Palme d'Or à Cannes en 2019 ?",
+      "answers": [
+        "Parasite",
+        "Portrait de la jeune fille en feu",
+        "Atlantique",
+        "Les Misérables"
+      ],
+      "correctAnswer": "Parasite"
+    },
+    {
+      "id": "cinema-36",
+      "category": "cinema",
+      "question": "Quel acteur incarne Wolverine dans la série de films X-Men ?",
+      "answers": [
+        "Robert Downey Jr.",
+        "Hugh Jackman",
+        "Tom Hardy",
+        "Chris Hemsworth"
+      ],
+      "correctAnswer": "Hugh Jackman"
+    },
+    {
+      "id": "cinema-37",
+      "category": "cinema",
+      "question": "Dans quel film d'animation retrouve-t-on le personnage Woody ?",
+      "answers": ["Cars", "Monstres & Cie", "Toy Story", "Le Roi Lion"],
+      "correctAnswer": "Toy Story"
+    },
+    {
+      "id": "cinema-38",
+      "category": "cinema",
+      "question": "Qui a réalisé le film 'Dunkerque' sorti en 2017 ?",
+      "answers": [
+        "Sam Mendes",
+        "Christopher Nolan",
+        "Ridley Scott",
+        "Steven Spielberg"
+      ],
+      "correctAnswer": "Christopher Nolan"
+    },
+    {
+      "id": "cinema-39",
+      "category": "cinema",
+      "question": "Quelle actrice a joué dans 'Pretty Woman' aux côtés de Richard Gere ?",
+      "answers": [
+        "Sandra Bullock",
+        "Nicole Kidman",
+        "Julia Roberts",
+        "Cameron Diaz"
+      ],
+      "correctAnswer": "Julia Roberts"
+    },
+    {
+      "id": "cinema-40",
+      "category": "cinema",
+      "question": "Quel compositeur célèbre est associé aux musiques de films de Tim Burton ?",
+      "answers": [
+        "Danny Elfman",
+        "Hans Zimmer",
+        "James Horner",
+        "John Williams"
+      ],
+      "correctAnswer": "Danny Elfman"
+    },
+    {
+      "id": "cinema-41",
+      "category": "cinema",
+      "question": "Dans quel film Tom Cruise joue-t-il un pilote de chasse nommé Maverick ?",
+      "answers": ["Oblivion", "Mission Impossible", "Jack Reacher", "Top Gun"],
+      "correctAnswer": "Top Gun"
+    },
+    {
+      "id": "cinema-42",
+      "category": "cinema",
+      "question": "Quel acteur français est connu pour son rôle dans 'Intouchables' ?",
+      "answers": ["Gad Elmaleh", "Kad Merad", "Omar Sy", "François Cluzet"],
+      "correctAnswer": "Omar Sy"
+    },
+    {
+      "id": "cinema-43",
+      "category": "cinema",
+      "question": "Quel film a remporté l'Oscar du meilleur film en 2020 ?",
+      "answers": ["Parasite", "Joker", "Once Upon a Time in Hollywood", "1917"],
+      "correctAnswer": "Parasite"
+    },
+    {
+      "id": "cinema-44",
+      "category": "cinema",
+      "question": "Dans quel film retrouve-t-on les personnages Elsa et Anna ?",
+      "answers": ["Raiponce", "Vaiana", "Mulan", "La Reine des Neiges"],
+      "correctAnswer": "La Reine des Neiges"
+    },
+    {
+      "id": "cinema-45",
+      "category": "cinema",
+      "question": "Qui incarne James Bond dans 'Skyfall' ?",
+      "answers": [
+        "Sean Connery",
+        "Daniel Craig",
+        "Roger Moore",
+        "Pierce Brosnan"
+      ],
+      "correctAnswer": "Daniel Craig"
+    },
+    {
+      "id": "cinema-46",
+      "category": "cinema",
+      "question": "Quel réalisateur est à l'origine du film 'Kill Bill' ?",
+      "answers": [
+        "Robert Rodriguez",
+        "Martin Scorsese",
+        "Guy Ritchie",
+        "Quentin Tarantino"
+      ],
+      "correctAnswer": "Quentin Tarantino"
+    },
+    {
+      "id": "science-31",
+      "category": "science",
+      "question": "Quel physicien a formulé la loi de la gravitation universelle ?",
+      "answers": ["Galilée", "Niels Bohr", "Isaac Newton", "Albert Einstein"],
+      "correctAnswer": "Isaac Newton"
+    },
+    {
+      "id": "science-32",
+      "category": "science",
+      "question": "Quelle molécule porte l'information génétique ?",
+      "answers": ["Glucose", "Protéine", "ADN", "ARN"],
+      "correctAnswer": "ADN"
+    },
+    {
+      "id": "science-33",
+      "category": "science",
+      "question": "Quelle planète du système solaire a la plus courte période orbitale ?",
+      "answers": ["Mercure", "Mars", "Terre", "Vénus"],
+      "correctAnswer": "Mercure"
+    },
+    {
+      "id": "science-34",
+      "category": "science",
+      "question": "Quel gaz est principalement responsable du réchauffement climatique ?",
+      "answers": ["Dioxyde de carbone", "Hélium", "Azote", "Oxygène"],
+      "correctAnswer": "Dioxyde de carbone"
+    },
+    {
+      "id": "science-35",
+      "category": "science",
+      "question": "Quel est le métal le plus léger ?",
+      "answers": ["Aluminium", "Fer", "Cuivre", "Lithium"],
+      "correctAnswer": "Lithium"
+    },
+    {
+      "id": "science-36",
+      "category": "science",
+      "question": "Qui a découvert la pénicilline ?",
+      "answers": [
+        "Gregor Mendel",
+        "Alexander Fleming",
+        "Marie Curie",
+        "Louis Pasteur"
+      ],
+      "correctAnswer": "Alexander Fleming"
+    },
+    {
+      "id": "science-37",
+      "category": "science",
+      "question": "Quel est le pH de l'eau pure à température ambiante ?",
+      "answers": ["5", "6", "9", "7"],
+      "correctAnswer": "7"
+    },
+    {
+      "id": "science-38",
+      "category": "science",
+      "question": "Quelle particule atomique a une charge positive ?",
+      "answers": ["Photon", "Proton", "Neutron", "Électron"],
+      "correctAnswer": "Proton"
+    },
+    {
+      "id": "science-39",
+      "category": "science",
+      "question": "Quel organe produit l'insuline dans le corps humain ?",
+      "answers": ["Reins", "Foie", "Pancréas", "Cœur"],
+      "correctAnswer": "Pancréas"
+    },
+    {
+      "id": "science-40",
+      "category": "science",
+      "question": "Quelle science étudie les tremblements de terre ?",
+      "answers": ["Météorologie", "Sismologie", "Biologie", "Astronomie"],
+      "correctAnswer": "Sismologie"
+    },
+    {
+      "id": "science-41",
+      "category": "science",
+      "question": "Combien de dents possède un adulte normalement ?",
+      "answers": ["32", "30", "28", "34"],
+      "correctAnswer": "32"
+    },
+    {
+      "id": "science-42",
+      "category": "science",
+      "question": "Quelle partie de la plante permet la photosynthèse ?",
+      "answers": ["La feuille", "La fleur", "La racine", "La tige"],
+      "correctAnswer": "La feuille"
+    },
+    {
+      "id": "science-43",
+      "category": "science",
+      "question": "Quel chimiste est célèbre pour son tableau périodique ?",
+      "answers": [
+        "Dmitri Mendeleïev",
+        "Michael Faraday",
+        "Antoine Lavoisier",
+        "John Dalton"
+      ],
+      "correctAnswer": "Dmitri Mendeleïev"
+    },
+    {
+      "id": "science-44",
+      "category": "science",
+      "question": "Qu'est-ce qui est mesuré en Hertz ?",
+      "answers": ["Longueur", "Fréquence", "Tension", "Masse"],
+      "correctAnswer": "Fréquence"
+    },
+    {
+      "id": "science-45",
+      "category": "science",
+      "question": "Quelle est la couche la plus externe de la Terre ?",
+      "answers": ["La lithosphère", "Le noyau", "Le manteau", "La croûte"],
+      "correctAnswer": "La croûte"
+    },
+    {
+      "id": "science-46",
+      "category": "science",
+      "question": "Quelle planète est surnommée 'étoile du berger' ?",
+      "answers": ["Jupiter", "Saturne", "Vénus", "Mars"],
+      "correctAnswer": "Vénus"
+    },
+    {
+      "id": "sports-31",
+      "category": "sports",
+      "question": "Quel pays a gagné la Coupe du monde de football en 2018 ?",
+      "answers": ["Allemagne", "Croatie", "Brésil", "France"],
+      "correctAnswer": "France"
+    },
+    {
+      "id": "sports-32",
+      "category": "sports",
+      "question": "Dans quel sport Mohamed Ali était-il champion du monde ?",
+      "answers": ["Lutte", "Boxe", "Kickboxing", "Taekwondo"],
+      "correctAnswer": "Boxe"
+    },
+    {
+      "id": "sports-33",
+      "category": "sports",
+      "question": "Quel joueur de tennis détient le record du plus grand nombre de titres du Grand Chelem chez les hommes ?",
+      "answers": [
+        "Pete Sampras",
+        "Rafael Nadal",
+        "Roger Federer",
+        "Novak Djokovic"
+      ],
+      "correctAnswer": "Novak Djokovic"
+    },
+    {
+      "id": "sports-34",
+      "category": "sports",
+      "question": "Combien de joueurs composent une équipe de basketball sur le terrain ?",
+      "answers": ["6", "5", "8", "7"],
+      "correctAnswer": "5"
+    },
+    {
+      "id": "sports-35",
+      "category": "sports",
+      "question": "Quel pays accueille traditionnellement le Tournoi des Six Nations ?",
+      "answers": [
+        "Uniquement France",
+        "Multiples pays européens",
+        "Uniquement Royaume-Uni",
+        "Uniquement Italie"
+      ],
+      "correctAnswer": "Multiples pays européens"
+    },
+    {
+      "id": "sports-36",
+      "category": "sports",
+      "question": "Dans quelle ville se trouve le stade de football Camp Nou ?",
+      "answers": ["Barcelone", "Lisbonne", "Rome", "Madrid"],
+      "correctAnswer": "Barcelone"
+    },
+    {
+      "id": "sports-37",
+      "category": "sports",
+      "question": "Quel sport est associé à Michael Jordan ?",
+      "answers": ["Football américain", "Basketball", "Baseball", "Golf"],
+      "correctAnswer": "Basketball"
+    },
+    {
+      "id": "sports-38",
+      "category": "sports",
+      "question": "Quelle discipline sportive associe natation, cyclisme et course à pied ?",
+      "answers": ["Triathlon", "Décathlon", "Pentathlon", "Biathlon"],
+      "correctAnswer": "Triathlon"
+    },
+    {
+      "id": "sports-39",
+      "category": "sports",
+      "question": "Qui est surnommé 'la fusée jamaïcaine' ?",
+      "answers": ["Carl Lewis", "Justin Gatlin", "Usain Bolt", "Tyson Gay"],
+      "correctAnswer": "Usain Bolt"
+    },
+    {
+      "id": "sports-40",
+      "category": "sports",
+      "question": "Quelle équipe de football est surnommée 'Les Reds' ?",
+      "answers": [
+        "Chelsea FC",
+        "Arsenal FC",
+        "Liverpool FC",
+        "Manchester United"
+      ],
+      "correctAnswer": "Liverpool FC"
+    },
+    {
+      "id": "sports-41",
+      "category": "sports",
+      "question": "Quelle est la couleur traditionnelle du maillot du leader au Tour de France ?",
+      "answers": ["À pois", "Vert", "Jaune", "Blanc"],
+      "correctAnswer": "Jaune"
+    },
+    {
+      "id": "sports-42",
+      "category": "sports",
+      "question": "Quel sport est associé au terme 'grand chelem' ?",
+      "answers": ["Tennis", "Golf", "Cricket", "Football"],
+      "correctAnswer": "Tennis"
+    },
+    {
+      "id": "sports-43",
+      "category": "sports",
+      "question": "Quel pilote de Formule 1 a remporté le plus de championnats du monde ?",
+      "answers": [
+        "Michael Schumacher",
+        "Lewis Hamilton",
+        "Ayrton Senna",
+        "Sebastian Vettel"
+      ],
+      "correctAnswer": "Lewis Hamilton"
+    },
+    {
+      "id": "sports-44",
+      "category": "sports",
+      "question": "Combien de périodes compte un match de hockey sur glace ?",
+      "answers": ["3", "5", "2", "4"],
+      "correctAnswer": "3"
+    },
+    {
+      "id": "sports-45",
+      "category": "sports",
+      "question": "Quel pays a inventé le rugby ?",
+      "answers": ["Nouvelle-Zélande", "Angleterre", "France", "Australie"],
+      "correctAnswer": "Angleterre"
+    },
+    {
+      "id": "sports-46",
+      "category": "sports",
+      "question": "Dans quel sport peut-on entendre le terme 'albatros' ?",
+      "answers": ["Cricket", "Football", "Rugby", "Golf"],
+      "correctAnswer": "Golf"
+    },
+    {
+      "id": "general-31",
+      "category": "general",
+      "question": "Quelle langue est principalement parlée au Brésil ?",
+      "answers": ["Portugais", "Français", "Anglais", "Espagnol"],
+      "correctAnswer": "Portugais"
+    },
+    {
+      "id": "general-32",
+      "category": "general",
+      "question": "Quel est l'auteur de la série de romans 'Harry Potter' ?",
+      "answers": [
+        "Stephen King",
+        "George R.R. Martin",
+        "J.K. Rowling",
+        "Suzanne Collins"
+      ],
+      "correctAnswer": "J.K. Rowling"
+    },
+    {
+      "id": "general-33",
+      "category": "general",
+      "question": "Quelle mer borde l'Égypte au nord ?",
+      "answers": [
+        "Mer Noire",
+        "Mer Rouge",
+        "Océan Atlantique",
+        "Mer Méditerranée"
+      ],
+      "correctAnswer": "Mer Méditerranée"
+    },
+    {
+      "id": "general-34",
+      "category": "general",
+      "question": "Quelle est la monnaie officielle du Japon ?",
+      "answers": ["Won", "Yen", "Dollar", "Yuan"],
+      "correctAnswer": "Yen"
+    },
+    {
+      "id": "general-35",
+      "category": "general",
+      "question": "Dans quelle ville se situe la statue de la Liberté originale ?",
+      "answers": ["Londres", "New York", "Paris", "Rome"],
+      "correctAnswer": "New York"
+    },
+    {
+      "id": "general-36",
+      "category": "general",
+      "question": "Quel animal est le symbole du WWF ?",
+      "answers": ["Panda géant", "Koala", "Tigre", "Ours polaire"],
+      "correctAnswer": "Panda géant"
+    },
+    {
+      "id": "general-37",
+      "category": "general",
+      "question": "Quelle est la capitale du Canada ?",
+      "answers": ["Toronto", "Montréal", "Vancouver", "Ottawa"],
+      "correctAnswer": "Ottawa"
+    },
+    {
+      "id": "general-38",
+      "category": "general",
+      "question": "Quel est le premier élément du tableau périodique ?",
+      "answers": ["Carbone", "Oxygène", "Hélium", "Hydrogène"],
+      "correctAnswer": "Hydrogène"
+    },
+    {
+      "id": "general-39",
+      "category": "general",
+      "question": "Quelle invention est attribuée à Johannes Gutenberg ?",
+      "answers": [
+        "La lampe électrique",
+        "La machine à vapeur",
+        "Le téléphone",
+        "L'imprimerie"
+      ],
+      "correctAnswer": "L'imprimerie"
+    },
+    {
+      "id": "general-40",
+      "category": "general",
+      "question": "Quelle ville est connue pour son carnaval annuel au Brésil ?",
+      "answers": ["Rio de Janeiro", "São Paulo", "Salvador", "Brasília"],
+      "correctAnswer": "Rio de Janeiro"
+    },
+    {
+      "id": "general-41",
+      "category": "general",
+      "question": "Quelle montagne est la plus haute d'Afrique ?",
+      "answers": ["Mont Kenya", "Table Mountain", "Atlas", "Kilimandjaro"],
+      "correctAnswer": "Kilimandjaro"
+    },
+    {
+      "id": "general-42",
+      "category": "general",
+      "question": "Quelle couleur obtient-on en mélangeant du rouge et du bleu ?",
+      "answers": ["Violet", "Jaune", "Vert", "Orange"],
+      "correctAnswer": "Violet"
+    },
+    {
+      "id": "general-43",
+      "category": "general",
+      "question": "Qui est le dieu grec de la mer ?",
+      "answers": ["Hadès", "Zeus", "Poséidon", "Apollon"],
+      "correctAnswer": "Poséidon"
+    },
+    {
+      "id": "general-44",
+      "category": "general",
+      "question": "Quelle planète est la plus grande du système solaire ?",
+      "answers": ["Saturne", "Jupiter", "Neptune", "Uranus"],
+      "correctAnswer": "Jupiter"
+    },
+    {
+      "id": "general-45",
+      "category": "general",
+      "question": "Quelle est la langue officielle de l'Australie ?",
+      "answers": ["Espagnol", "Français", "Anglais", "Australien"],
+      "correctAnswer": "Anglais"
+    },
+    {
+      "id": "general-46",
+      "category": "general",
+      "question": "Dans quelle ville peut-on trouver le Colisée ?",
+      "answers": ["Paris", "Madrid", "Rome", "Athènes"],
+      "correctAnswer": "Rome"
+    },
+    {
+      "id": "history-31",
+      "category": "history",
+      "question": "Quel empereur français a été exilé sur l'île de Sainte-Hélène ?",
+      "answers": [
+        "Charles de Gaulle",
+        "Napoléon Bonaparte",
+        "Louis XVI",
+        "Henri IV"
+      ],
+      "correctAnswer": "Napoléon Bonaparte"
+    },
+    {
+      "id": "history-32",
+      "category": "history",
+      "question": "En quelle année Christophe Colomb a-t-il découvert l'Amérique ?",
+      "answers": ["1492", "1515", "1789", "1453"],
+      "correctAnswer": "1492"
+    },
+    {
+      "id": "history-33",
+      "category": "history",
+      "question": "Quelle civilisation antique est connue pour ses pharaons ?",
+      "answers": ["Égyptienne", "Grecque", "Romaine", "Perse"],
+      "correctAnswer": "Égyptienne"
+    },
+    {
+      "id": "history-34",
+      "category": "history",
+      "question": "Quel président américain a été assassiné en 1963 ?",
+      "answers": [
+        "Abraham Lincoln",
+        "Ronald Reagan",
+        "Theodore Roosevelt",
+        "John F. Kennedy"
+      ],
+      "correctAnswer": "John F. Kennedy"
+    },
+    {
+      "id": "history-35",
+      "category": "history",
+      "question": "Quelle guerre s'est terminée par le Traité de Versailles ?",
+      "answers": [
+        "Première Guerre mondiale",
+        "Guerre froide",
+        "Seconde Guerre mondiale",
+        "Guerre de Cent Ans"
+      ],
+      "correctAnswer": "Première Guerre mondiale"
+    },
+    {
+      "id": "history-36",
+      "category": "history",
+      "question": "Quelle ville a été détruite par une éruption volcanique en 79 après J.-C. ?",
+      "answers": ["Carthage", "Athènes", "Rome", "Pompéi"],
+      "correctAnswer": "Pompéi"
+    },
+    {
+      "id": "history-37",
+      "category": "history",
+      "question": "Qui fut le principal leader politique de l'Inde lors de son indépendance ?",
+      "answers": [
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Subhas Chandra Bose",
+        "Indira Gandhi"
+      ],
+      "correctAnswer": "Mahatma Gandhi"
+    },
+    {
+      "id": "history-38",
+      "category": "history",
+      "question": "Quel mur est tombé le 9 novembre 1989 ?",
+      "answers": [
+        "Mur de Chine",
+        "Mur d'Hadrien",
+        "Mur des lamentations",
+        "Mur de Berlin"
+      ],
+      "correctAnswer": "Mur de Berlin"
+    },
+    {
+      "id": "history-39",
+      "category": "history",
+      "question": "Quel empire était dirigé par Attila ?",
+      "answers": [
+        "Empire perse",
+        "Empire hunnique",
+        "Empire romain",
+        "Empire ottoman"
+      ],
+      "correctAnswer": "Empire hunnique"
+    },
+    {
+      "id": "history-40",
+      "category": "history",
+      "question": "Quel explorateur a effectué le premier tour du monde ?",
+      "answers": [
+        "Fernand de Magellan",
+        "Marco Polo",
+        "Vasco de Gama",
+        "James Cook"
+      ],
+      "correctAnswer": "Fernand de Magellan"
+    },
+    {
+      "id": "history-41",
+      "category": "history",
+      "question": "Qui a dirigé l'Union soviétique durant la majeure partie de la Seconde Guerre mondiale ?",
+      "answers": [
+        "Nikita Khrouchtchev",
+        "Mikhaïl Gorbatchev",
+        "Vladimir Lénine",
+        "Joseph Staline"
+      ],
+      "correctAnswer": "Joseph Staline"
+    },
+    {
+      "id": "history-42",
+      "category": "history",
+      "question": "Quel roi français était surnommé le 'Roi-Soleil' ?",
+      "answers": ["Louis XIV", "Louis XVI", "François Ier", "Charles IX"],
+      "correctAnswer": "Louis XIV"
+    },
+    {
+      "id": "history-43",
+      "category": "history",
+      "question": "Quelle bataille célèbre marque la fin de Napoléon ?",
+      "answers": ["Trafalgar", "Austerlitz", "Waterloo", "Verdun"],
+      "correctAnswer": "Waterloo"
+    },
+    {
+      "id": "history-44",
+      "category": "history",
+      "question": "Quel traité a officiellement mis fin à la Seconde Guerre mondiale en Europe ?",
+      "answers": [
+        "Traité de Yalta",
+        "Traité de Rome",
+        "Traité de Versailles",
+        "Capitulation allemande"
+      ],
+      "correctAnswer": "Capitulation allemande"
+    },
+    {
+      "id": "history-45",
+      "category": "history",
+      "question": "Quel pays a été divisé en deux en 1945 ?",
+      "answers": ["Corée", "Pologne", "Vietnam", "Allemagne"],
+      "correctAnswer": "Allemagne"
+    },
+    {
+      "id": "history-46",
+      "category": "history",
+      "question": "Qui a proclamé l'indépendance des États-Unis en 1776 ?",
+      "answers": [
+        "Thomas Jefferson",
+        "John Adams",
+        "Benjamin Franklin",
+        "George Washington"
+      ],
+      "correctAnswer": "Thomas Jefferson"
+    },
+    {
+      "id": "technology-31",
+      "category": "technology",
+      "question": "Quel réseau social a été créé par Mark Zuckerberg ?",
+      "answers": ["Twitter", "Instagram", "Facebook", "LinkedIn"],
+      "correctAnswer": "Facebook"
+    },
+    {
+      "id": "technology-32",
+      "category": "technology",
+      "question": "Quelle entreprise a inventé le Walkman ?",
+      "answers": ["Samsung", "Sony", "Apple", "Panasonic"],
+      "correctAnswer": "Sony"
+    },
+    {
+      "id": "technology-33",
+      "category": "technology",
+      "question": "Quel langage est utilisé principalement pour créer des pages web ?",
+      "answers": ["Java", "C++", "Python", "HTML"],
+      "correctAnswer": "HTML"
+    },
+    {
+      "id": "technology-34",
+      "category": "technology",
+      "question": "Qui est considéré comme l'inventeur du World Wide Web ?",
+      "answers": ["Bill Gates", "Steve Jobs", "Larry Page", "Tim Berners-Lee"],
+      "correctAnswer": "Tim Berners-Lee"
+    },
+    {
+      "id": "technology-35",
+      "category": "technology",
+      "question": "Quel appareil utilise-t-on pour mesurer la vitesse d'une connexion internet ?",
+      "answers": ["Modem", "Routeur", "Speedtest", "Serveur"],
+      "correctAnswer": "Speedtest"
+    },
+    {
+      "id": "technology-36",
+      "category": "technology",
+      "question": "Que signifie l'acronyme 'USB' ?",
+      "answers": [
+        "Universal Service Band",
+        "Universal Serial Bus",
+        "United System Board",
+        "Ultra Speed Broadband"
+      ],
+      "correctAnswer": "Universal Serial Bus"
+    },
+    {
+      "id": "technology-37",
+      "category": "technology",
+      "question": "Quel est le moteur de recherche le plus utilisé au monde ?",
+      "answers": ["Google", "Bing", "Yahoo", "DuckDuckGo"],
+      "correctAnswer": "Google"
+    },
+    {
+      "id": "technology-38",
+      "category": "technology",
+      "question": "Quel est le système d'exploitation majoritairement utilisé sur les smartphones Samsung ?",
+      "answers": ["iOS", "Windows Phone", "Tizen", "Android"],
+      "correctAnswer": "Android"
+    },
+    {
+      "id": "technology-39",
+      "category": "technology",
+      "question": "Quel composant informatique effectue principalement les calculs dans un ordinateur ?",
+      "answers": [
+        "Le processeur (CPU)",
+        "La mémoire RAM",
+        "Le disque dur",
+        "La carte graphique"
+      ],
+      "correctAnswer": "Le processeur (CPU)"
+    },
+    {
+      "id": "technology-40",
+      "category": "technology",
+      "question": "Quelle technologie permet la localisation par satellite ?",
+      "answers": ["NFC", "Wi-Fi", "GPS", "Bluetooth"],
+      "correctAnswer": "GPS"
+    },
+    {
+      "id": "technology-41",
+      "category": "technology",
+      "question": "Quel service de streaming vidéo est connu pour ses séries originales comme 'Stranger Things' ?",
+      "answers": ["Netflix", "Disney+", "Hulu", "Amazon Prime"],
+      "correctAnswer": "Netflix"
+    },
+    {
+      "id": "technology-42",
+      "category": "technology",
+      "question": "Que signifie le terme 'IA' en informatique ?",
+      "answers": [
+        "Intelligence Artificielle",
+        "Interface Avancée",
+        "Interaction Automatique",
+        "Internet Actif"
+      ],
+      "correctAnswer": "Intelligence Artificielle"
+    },
+    {
+      "id": "technology-43",
+      "category": "technology",
+      "question": "Quel langage de programmation est connu pour son utilisation en intelligence artificielle ?",
+      "answers": ["Java", "PHP", "Ruby", "Python"],
+      "correctAnswer": "Python"
+    },
+    {
+      "id": "technology-44",
+      "category": "technology",
+      "question": "Quelle société a développé l'assistant vocal Alexa ?",
+      "answers": ["Amazon", "Google", "Microsoft", "Apple"],
+      "correctAnswer": "Amazon"
+    },
+    {
+      "id": "technology-45",
+      "category": "technology",
+      "question": "Quel appareil est nécessaire pour connecter plusieurs ordinateurs à Internet dans une maison ?",
+      "answers": ["Routeur", "Switch", "Hub", "Modem"],
+      "correctAnswer": "Routeur"
+    },
+    {
+      "id": "technology-46",
+      "category": "technology",
+      "question": "Quelle entreprise est célèbre pour ses cartes graphiques 'GeForce' ?",
+      "answers": ["AMD", "NVIDIA", "Intel", "Asus"],
+      "correctAnswer": "NVIDIA"
+    },
+    {
+      "id": "manga-1",
+      "category": "manga",
+      "question": "Quel est le nom du capitaine des Chapeaux de paille dans One Piece ?",
+      "answers": ["Monkey D. Luffy", "Zoro", "Sanji", "Shanks"],
+      "correctAnswer": "Monkey D. Luffy"
+    },
+    {
+      "id": "manga-2",
+      "category": "manga",
+      "question": "Dans Naruto, quel est le démon renard à neuf queues ?",
+      "answers": ["Kurama", "Shukaku", "Matatabi", "Gyūki"],
+      "correctAnswer": "Kurama"
+    },
+    {
+      "id": "manga-3",
+      "category": "manga",
+      "question": "Quel manga met en scène un carnet permettant de tuer en écrivant un nom ?",
+      "answers": ["Death Note", "Bleach", "One Piece", "Tokyo Ghoul"],
+      "correctAnswer": "Death Note"
+    },
+    {
+      "id": "manga-4",
+      "category": "manga",
+      "question": "Qui est le frère aîné de Sasuke Uchiwa ?",
+      "answers": ["Itachi", "Kakashi", "Naruto", "Obito"],
+      "correctAnswer": "Itachi"
+    },
+    {
+      "id": "manga-5",
+      "category": "manga",
+      "question": "Dans quel manga trouve-t-on le personnage Goku ?",
+      "answers": ["Dragon Ball", "Naruto", "Bleach", "One Piece"],
+      "correctAnswer": "Dragon Ball"
+    },
+    {
+      "id": "manga-6",
+      "category": "manga",
+      "question": "Quel est le pouvoir de Gon dans Hunter x Hunter ?",
+      "answers": ["Jajanken", "Sharingan", "Bankai", "Rasengan"],
+      "correctAnswer": "Jajanken"
+    },
+    {
+      "id": "manga-7",
+      "category": "manga",
+      "question": "Quel est le métier de Light Yagami dans Death Note ?",
+      "answers": ["Lycéen", "Policier", "Détective", "Avocat"],
+      "correctAnswer": "Lycéen"
+    },
+    {
+      "id": "manga-8",
+      "category": "manga",
+      "question": "Qui est le rival principal de Luffy dans One Piece ?",
+      "answers": ["Barbe Noire", "Naruto", "Ichigo", "Gon"],
+      "correctAnswer": "Barbe Noire"
+    },
+    {
+      "id": "manga-9",
+      "category": "manga",
+      "question": "Dans My Hero Academia, comment s'appelle le pouvoir de base de Deku ?",
+      "answers": ["One For All", "All For One", "Quirk", "Gear 5"],
+      "correctAnswer": "One For All"
+    },
+    {
+      "id": "manga-10",
+      "category": "manga",
+      "question": "Dans quel manga les titans sont-ils une menace ?",
+      "answers": ["L'Attaque des Titans", "Bleach", "Naruto", "One Punch Man"],
+      "correctAnswer": "L'Attaque des Titans"
+    },
+    {
+      "id": "manga-11",
+      "category": "manga",
+      "question": "Quel est le nom de famille d’Edward dans Fullmetal Alchemist ?",
+      "answers": ["Elric", "Armstrong", "Mustang", "Hughes"],
+      "correctAnswer": "Elric"
+    },
+    {
+      "id": "manga-12",
+      "category": "manga",
+      "question": "Qui est le chef des Akatsuki ?",
+      "answers": ["Pain", "Itachi", "Kisame", "Sasori"],
+      "correctAnswer": "Pain"
+    },
+    {
+      "id": "manga-13",
+      "category": "manga",
+      "question": "Dans One Punch Man, quel est le nom du héros principal ?",
+      "answers": ["Saitama", "Genos", "Garou", "Bang"],
+      "correctAnswer": "Saitama"
+    },
+    {
+      "id": "manga-14",
+      "category": "manga",
+      "question": "Dans Bleach, quel est le pouvoir d’Ichigo ?",
+      "answers": ["Shinigami", "Ninja", "Alchimiste", "Saiyan"],
+      "correctAnswer": "Shinigami"
+    },
+    {
+      "id": "manga-15",
+      "category": "manga",
+      "question": "Dans Fairy Tail, qui utilise la magie de feu du Dragon ?",
+      "answers": ["Natsu", "Gray", "Lucy", "Erza"],
+      "correctAnswer": "Natsu"
+    },
+    {
+      "id": "manga-16",
+      "category": "manga",
+      "question": "Quel est le nom du détective masqué dans Death Note ?",
+      "answers": ["L", "N", "K", "R"],
+      "correctAnswer": "L"
+    },
+    {
+      "id": "manga-17",
+      "category": "manga",
+      "question": "Qui est l’auteur de One Piece ?",
+      "answers": [
+        "Eiichiro Oda",
+        "Masashi Kishimoto",
+        "Tite Kubo",
+        "Akira Toriyama"
+      ],
+      "correctAnswer": "Eiichiro Oda"
+    },
+    {
+      "id": "manga-18",
+      "category": "manga",
+      "question": "Dans Tokyo Ghoul, que devient Ken Kaneki ?",
+      "answers": ["Un ghoul", "Un ninja", "Un shinigami", "Un héros"],
+      "correctAnswer": "Un ghoul"
+    },
+    {
+      "id": "manga-19",
+      "category": "manga",
+      "question": "Dans Naruto, qui est le sensei de l’équipe 7 ?",
+      "answers": ["Kakashi", "Iruka", "Gai", "Asuma"],
+      "correctAnswer": "Kakashi"
+    },
+    {
+      "id": "manga-20",
+      "category": "manga",
+      "question": "Comment s’appelle le titan principal dans L’Attaque des Titans ?",
+      "answers": ["Eren", "Levi", "Armin", "Jean"],
+      "correctAnswer": "Eren"
+    },
+    {
+      "id": "manga-21",
+      "category": "manga",
+      "question": "Quelle est la profession d'Izuku Midoriya ?",
+      "answers": ["Étudiant", "Policier", "Professeur", "Journaliste"],
+      "correctAnswer": "Étudiant"
+    },
+    {
+      "id": "manga-22",
+      "category": "manga",
+      "question": "Dans One Piece, quel est le pouvoir du fruit de Luffy ?",
+      "answers": ["Gm Gum", "Feu Feu", "Sable Sable", "Foudre Foudre"],
+      "correctAnswer": "Gum Gum"
+    },
+    {
+      "id": "manga-23",
+      "category": "manga",
+      "question": "Dans quel manga rencontre-t-on un club d’hôtes ?",
+      "answers": [
+        "Ouran High School Host Club",
+        "Naruto",
+        "Bleach",
+        "One Piece"
+      ],
+      "correctAnswer": "Ouran High School Host Club"
+    },
+    {
+      "id": "manga-24",
+      "category": "manga",
+      "question": "Quel est le nom de la guilde principale dans Fairy Tail ?",
+      "answers": ["Fairy Tail", "Sabertooth", "Blue Pegasus", "Lamia Scale"],
+      "correctAnswer": "Fairy Tail"
+    },
+    {
+      "id": "manga-25",
+      "category": "manga",
+      "question": "Dans Death Note, qui est l'ennemi principal de Light ?",
+      "answers": ["L", "Misa", "Ryuk", "Near"],
+      "correctAnswer": "L"
+    },
+    {
+      "id": "manga-26",
+      "category": "manga",
+      "question": "Qui est l’auteur de Naruto ?",
+      "answers": [
+        "Masashi Kishimoto",
+        "Eiichiro Oda",
+        "Akira Toriyama",
+        "Tite Kubo"
+      ],
+      "correctAnswer": "Masashi Kishimoto"
+    },
+    {
+      "id": "manga-27",
+      "category": "manga",
+      "question": "Quel est le nom de l'école dans My Hero Academia ?",
+      "answers": ["UA", "Shujin", "Totsuki", "Kame House"],
+      "correctAnswer": "UA"
+    },
+    {
+      "id": "manga-28",
+      "category": "manga",
+      "question": "Dans One Piece, qui est le cuisinier de l’équipage ?",
+      "answers": ["Sanji", "Zoro", "Brook", "Chopper"],
+      "correctAnswer": "Sanji"
+    },
+    {
+      "id": "manga-29",
+      "category": "manga",
+      "question": "Quel manga met en scène des alchimistes ?",
+      "answers": ["Fullmetal Alchemist", "Bleach", "Naruto", "Death Note"],
+      "correctAnswer": "Fullmetal Alchemist"
+    },
+    {
+      "id": "manga-30",
+      "category": "manga",
+      "question": "Dans One Punch Man, qui est le disciple de Saitama ?",
+      "answers": ["Genos", "Garou", "Sonic", "Mumen Rider"],
+      "correctAnswer": "Genos"
+    },
+    {
+      "id": "manga-31",
+      "category": "manga",
+      "question": "Dans L’Attaque des Titans, qui est le capitaine du Bataillon d’Exploration ?",
+      "answers": ["Levi", "Eren", "Jean", "Connie"],
+      "correctAnswer": "Levi"
+    },
+    {
+      "id": "manga-32",
+      "category": "manga",
+      "question": "Quel est le rêve de Naruto ?",
+      "answers": [
+        "Devenir Hokage",
+        "Devenir riche",
+        "Trouver le One Piece",
+        "Vivre tranquille"
+      ],
+      "correctAnswer": "Devenir Hokage"
+    },
+    {
+      "id": "manga-33",
+      "category": "manga",
+      "question": "Dans Bleach, comment s'appelle le capitaine au haori rose ?",
+      "answers": [
+        "Shunsui Kyōraku",
+        "Tōshirō Hitsugaya",
+        "Byakuya Kuchiki",
+        "Kenpachi Zaraki"
+      ],
+      "correctAnswer": "Shunsui Kyōraku"
+    },
+    {
+      "id": "manga-34",
+      "category": "manga",
+      "question": "Quel est le nom complet de Goku ?",
+      "answers": ["Son Goku", "Goku Uchiwa", "Goku Hatake", "Goku Midoriya"],
+      "correctAnswer": "Son Goku"
+    },
+    {
+      "id": "manga-35",
+      "category": "manga",
+      "question": "Dans Hunter x Hunter, quel est le nom de l'examen pour devenir chasseur ?",
+      "answers": [
+        "Examen Hunter",
+        "Examen Ninja",
+        "Examen Alchimiste",
+        "Examen Shinigami"
+      ],
+      "correctAnswer": "Examen Hunter"
+    },
+    {
+      "id": "manga-36",
+      "category": "manga",
+      "question": "Dans Tokyo Ghoul, quelle est la nourriture préférée des goules ?",
+      "answers": ["Chair humaine", "Ramen", "Pain", "Sushi"],
+      "correctAnswer": "Chair humaine"
+    },
+    {
+      "id": "manga-37",
+      "category": "manga",
+      "question": "Qui est le frère de Natsu dans Fairy Tail ?",
+      "answers": ["Zeref", "Gajeel", "Laxus", "Gray"],
+      "correctAnswer": "Zeref"
+    },
+    {
+      "id": "manga-38",
+      "category": "manga",
+      "question": "Dans Naruto, qui possède le Byakugan ?",
+      "answers": ["Hinata", "Sasuke", "Naruto", "Gaara"],
+      "correctAnswer": "Hinata"
+    },
+    {
+      "id": "manga-39",
+      "category": "manga",
+      "question": "Quel est le nom de la transformation ultime de Goku ?",
+      "answers": ["Ultra Instinct", "Super Saiyan 1", "Kaioken", "Fusion"],
+      "correctAnswer": "Ultra Instinct"
+    },
+    {
+      "id": "manga-40",
+      "category": "manga",
+      "question": "Dans One Piece, qui est l’épéiste de l’équipage ?",
+      "answers": ["Zoro", "Luffy", "Brook", "Usopp"],
+      "correctAnswer": "Zoro"
+    },
+    {
+      "id": "manga-41",
+      "category": "manga",
+      "question": "Quel est le nom de la fille aux cheveux roses dans Naruto ?",
+      "answers": ["Sakura", "Ino", "Hinata", "Temari"],
+      "correctAnswer": "Sakura"
+    },
+    {
+      "id": "manga-42",
+      "category": "manga",
+      "question": "Dans Fullmetal Alchemist, quelle est la loi suprême de l'alchimie ?",
+      "answers": [
+        "Échange équivalent",
+        "Ne pas tuer",
+        "Travail acharné",
+        "Sincérité"
+      ],
+      "correctAnswer": "Échange équivalent"
+    },
+    {
+      "id": "manga-43",
+      "category": "manga",
+      "question": "Quel personnage de manga dit souvent 'Je vais devenir le roi des pirates' ?",
+      "answers": ["Luffy", "Naruto", "Goku", "Ichigo"],
+      "correctAnswer": "Luffy"
+    },
+    {
+      "id": "manga-44",
+      "category": "manga",
+      "question": "Quel manga suit un joueur de volley nommé Hinata ?",
+      "answers": ["Haikyuu!!", "Kuroko no Basket", "Slam Dunk", "Blue Lock"],
+      "correctAnswer": "Haikyuu!!"
+    },
+    {
+      "id": "manga-45",
+      "category": "manga",
+      "question": "Dans quel manga les personnages utilisent des 'stand' ?",
+      "answers": ["JoJo's Bizarre Adventure", "Bleach", "Naruto", "Death Note"],
+      "correctAnswer": "JoJo's Bizarre Adventure"
+    },
+    {
+      "id": "manga-46",
+      "category": "manga",
+      "question": "Dans My Hero Academia, qui est le professeur emblématique aux lunettes ?",
+      "answers": ["Aizawa", "All Might", "Endeavor", "Hawks"],
+      "correctAnswer": "Aizawa"
     }
   ]
 }

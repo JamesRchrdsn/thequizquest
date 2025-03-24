@@ -34,7 +34,7 @@ export function QuizAnswer({ question, onAnswer }: QuizAnswerProps) {
             <button
               key={answer}
               onClick={() => setSelectedAnswer(answer)}
-              className={`w-full p-3 text-left cursor-pointer rounded-md transition-colors ${
+              className={`w-full p-3 cursor-pointer text-center rounded-md transition-colors ${
                 selectedAnswer === answer
                   ? "bg-[var(--accent)] text-white"
                   : "bg-[var(--second-bg)] hover:bg-[var(--accent)]"

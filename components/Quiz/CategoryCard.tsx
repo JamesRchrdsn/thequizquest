@@ -29,8 +29,8 @@ export function CategoryCard({
       onClick={handleCategoryClick}
       className="p-6 bg-[var(--bg-card)] rounded-lg shadow-md hover:shadow-lg hover:scale-105 transition-all duration-300"
     >
-      <h2 className="mb-2 text-xl font-bold">{title}</h2>
-      <p className="text-sm">{description}</p>
+      <h2 className="mb-2 text-xl font-bold text-center">{title}</h2>
+      <p className="text-sm text-center">{description}</p>
     </Link>
   );
 }

@@ -39,6 +39,11 @@
       "id": "sports",
       "title": "Sports",
       "description": "Test your sports knowledge"
+    },
+    {
+      "id": "manga",
+      "title": "Mangas",
+      "description": "Test your manga knowledge"
     }
   ]
 }
