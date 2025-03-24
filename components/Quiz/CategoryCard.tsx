@@ -27,7 +27,7 @@ export function CategoryCard({
     <Link
       href={`/${locale}/quiz?category=${encodeURIComponent(category)}`}
       onClick={handleCategoryClick}
-      className="p-6 bg-[var(--bg-card)] rounded-lg shadow-md hover:shadow-lg transition-shadow"
+      className="p-6 bg-[var(--bg-card)] rounded-lg shadow-md hover:shadow-lg hover:scale-105 transition-all duration-300"
     >
       <h2 className="mb-2 text-xl font-bold">{title}</h2>
       <p className="text-sm">{description}</p>
