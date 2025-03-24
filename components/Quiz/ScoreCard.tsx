@@ -18,8 +18,8 @@ export default function ScoreCard({
   const percentage = (score / total) * 100;
 
   return (
-    <div className="w-full max-w-md p-6 bg-[var(--bg-card)] rounded-lg shadow-lg">
-      <div className="space-y-4 text-center">
+    <div className="w-full  max-w-md p-6 bg-[var(--bg-card)] rounded-lg shadow-lg">
+      <div className="space-y-8 text-center">
         <h2 className="text-2xl font-bold">{scoreText}</h2>
 
         <div className="flex flex-col items-center space-y-2">

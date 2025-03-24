@@ -3,17 +3,12 @@ import Header from "@/components/Layout/Header";
 import ThemeProvider from "@/components/ThemeProvider";
 import type { Metadata } from "next";
 import { NextIntlClientProvider } from "next-intl";
-import { Geist, Geist_Mono } from "next/font/google";
+import { Inter } from "next/font/google";
 import "../globals.css";
 
-const geistSans = Geist({
-  variable: "--font-geist-sans",
+const inter = Inter({
   subsets: ["latin"],
-});
-
-const geistMono = Geist_Mono({
-  variable: "--font-geist-mono",
-  subsets: ["latin"],
+  variable: "--font-inter",
 });
 
 export const metadata: Metadata = {
@@ -21,32 +16,34 @@ export const metadata: Metadata = {
   description: "Quiz interactif",
 };
 
-export default async function RootLayout({
-  children,
-  params: { locale },
-}: {
+interface LayoutProps {
   children: React.ReactNode;
-  params: { locale: string };
-}) {
+  params: {
+    locale: string;
+  };
+}
+
+export default async function Layout({ children, params }: LayoutProps) {
   let messages;
   try {
-    messages = (await import(`../../data/messages/${locale}.json`)).default;
+    messages = (await import(`../../data/messages/${params.locale}.json`))
+      .default;
   } catch (error) {
     console.error(
-      `Erreur lors du chargement des traductions pour ${locale}:`,
+      `Erreur lors du chargement des traductions pour ${params.locale}:`,
       error
     );
     messages = (await import(`../../data/messages/en.json`)).default;
   }
 
   return (
-    <html lang={locale} suppressHydrationWarning>
+    <html lang={params.locale} suppressHydrationWarning>
       <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased min-h-screen flex flex-col`}
+        className={`${inter.variable} antialiased min-h-screen flex flex-col`}
       >
         <ThemeProvider>
-          <NextIntlClientProvider locale={locale} messages={messages}>
-            <Header locale={locale} />
+          <NextIntlClientProvider locale={params.locale} messages={messages}>
+            <Header locale={params.locale} />
             <main className="flex-1">{children}</main>
             <Footer />
           </NextIntlClientProvider>

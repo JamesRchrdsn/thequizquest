@@ -2,14 +2,16 @@
 import ScoreCard from "@/components/Quiz/ScoreCard";
 import { useTranslations } from "next-intl";
 import { useRouter } from "next/navigation";
-import { use, useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 
 interface ScoreboardPageProps {
-  params: Promise<{ locale: string }>;
+  params: {
+    locale: string;
+  };
 }
 
 export default function ScoreboardPage({ params }: ScoreboardPageProps) {
-  const { locale } = use(params);
+  const { locale } = params;
   const t = useTranslations("quiz");
   const router = useRouter();
   const [score, setScore] = useState(0);
