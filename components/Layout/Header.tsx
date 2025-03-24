@@ -8,6 +8,15 @@ interface HeaderProps {
 }
 
 export default function Header({ locale }: HeaderProps) {
+  const handleHomeClick = () => {
+    const keys = Object.keys(sessionStorage);
+    keys.forEach((key) => {
+      if (key.startsWith("quiz_session_")) {
+        sessionStorage.removeItem(key);
+      }
+    });
+  };
+
   return (
     <header className="flex items-center justify-between p-4 bg-[var(--second-bg)] shadow-lg">
       <div className="flex-1"></div>
@@ -16,6 +25,7 @@ export default function Header({ locale }: HeaderProps) {
         <Link
           href={`/${locale}`}
           className="transition-opacity cursor-pointer hover:opacity-80"
+          onClick={handleHomeClick}
           replace
         >
           <h1 className="text-2xl font-bold">The Quiz Quest</h1>

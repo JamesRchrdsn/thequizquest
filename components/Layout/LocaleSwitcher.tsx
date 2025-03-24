@@ -1,7 +1,7 @@
 "use client";
-import { usePathname, useRouter } from "next/navigation";
+import Link from "next/link";
+import { usePathname, useSearchParams } from "next/navigation";
 import Flag from "react-flagkit";
-import { locales } from "../../next-intl.config";
 
 interface LocaleSwitcherProps {
   currentLocale: string;
@@ -14,38 +14,35 @@ const localeToCountry: { [key: string]: string } = {
 };
 
 export default function LocaleSwitcher({ currentLocale }: LocaleSwitcherProps) {
-  const router = useRouter();
-  const pathname = usePathname();
+  const pathName = usePathname();
+  const searchParams = useSearchParams();
 
-  const handleLocaleChange = (newLocale: string) => {
-    let newPath: string;
-    if (pathname.startsWith(`/${currentLocale}`)) {
-      newPath = pathname.replace(`/${currentLocale}`, `/${newLocale}`);
-    } else {
-      newPath = `/${newLocale}${pathname}`;
-    }
-    router.replace(newPath);
+  const redirectedPathName = (locale: string) => {
+    if (!pathName) return "/";
+
+    const segments = pathName.split("/");
+    segments[1] = locale;
+
+    const params = searchParams.toString();
+    const newPath = segments.join("/");
+
+    return params ? `${newPath}?${params}` : newPath;
   };
 
   return (
     <div className="flex space-x-2">
-      {locales.map((loc) => (
-        <button
+      {Object.entries(localeToCountry).map(([loc, country]) => (
+        <Link
           key={loc}
-          onClick={() => handleLocaleChange(loc)}
-          disabled={loc === currentLocale}
-          className={`p-1 rounded ${
-            loc === currentLocale
-              ? "bg-[var(--accent)] text-white"
+          href={redirectedPathName(loc)}
+          className={`${
+            currentLocale === loc
+              ? "bg-blue-500 text-white"
               : "bg-gray-200 dark:bg-gray-700 text-black dark:text-white"
-          }`}
+          } cursor-pointer p-1 rounded`}
         >
-          <Flag
-            className="cursor-pointer"
-            country={localeToCountry[loc]}
-            size={24}
-          />
-        </button>
+          <Flag country={country} size={24} />
+        </Link>
       ))}
     </div>
   );

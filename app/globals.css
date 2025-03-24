@@ -3,10 +3,11 @@
 :root {
   --bg-main: #e3faff; /* Fond principal en light mode */
   --second-bg: #a1d9e6; /* Cartes/sections en light mode */
-  --bg-card: #92ccda; /* Cartes/sections en light mode */
+  --bg-card: #59a5b8; /* Cartes/sections en light mode */
   --text-main: #181c1d; /* Texte principal en light mode */
   --text-secondary: #22282b; /* Texte secondaire en light mode */
   --accent: #00d0ff; /* Couleur d'accent */
+  --accent-2: #205b68; /* Couleur d'accent */
 }
 
 html.dark {
@@ -15,11 +16,29 @@ html.dark {
   --bg-card: #396670; /* Cartes/sections en dark mode */
   --text-main: #d5e7eb; /* Texte principal en dark mode */
   --text-secondary: #b3e9f5; /* Texte secondaire en dark mode */
-  --accent: #00586c; /* Couleur d'accent */
+  --accent-2: #00586c; /* Couleur d'accent */
+  --accent: #2997af; /* Couleur d'accent */
 }
 
 body {
   background: var(--bg-main);
   color: var(--text-main);
   font-family: Arial, Helvetica, sans-serif;
+}
+
+@keyframes shake {
+  0%,
+  100% {
+    transform: translateX(0);
+  }
+  25% {
+    transform: translateX(-8px);
+  }
+  75% {
+    transform: translateX(8px);
+  }
+}
+
+.shake-animation {
+  animation: shake 0.5s ease-in-out;
 }

@@ -5,24 +5,32 @@ interface CategoryCardProps {
   category: string;
   title: string;
   description?: string;
+  locale: string;
 }
 
-export default function CategoryCard({
+export function CategoryCard({
   category,
   title,
   description,
+  locale,
 }: CategoryCardProps) {
+  const handleCategoryClick = () => {
+    const keys = Object.keys(sessionStorage);
+    keys.forEach((key) => {
+      if (key.startsWith("quiz_session_")) {
+        sessionStorage.removeItem(key);
+      }
+    });
+  };
+
   return (
     <Link
-      href={`/quiz?category=${encodeURIComponent(category)}`}
-      className="block p-4 transition border rounded-lg shadow-lg bg-[var(--bg-card)] hover:scale-105 hover:bg-[var(--accent)] hover:shadow-2xl"
+      href={`/${locale}/quiz?category=${encodeURIComponent(category)}`}
+      onClick={handleCategoryClick}
+      className="p-6 bg-[var(--bg-card)] rounded-lg shadow-md hover:shadow-lg transition-shadow"
     >
-      <h2 className="mb-1 text-xl font-bold text-center">{title}</h2>
-      {description && (
-        <p className="text-sm text-center text-[var(--text-secondary)]">
-          {description}
-        </p>
-      )}
+      <h2 className="mb-2 text-xl font-bold">{title}</h2>
+      <p className="text-sm">{description}</p>
     </Link>
   );
 }

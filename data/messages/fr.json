@@ -1,6 +1,19 @@
 {
   "home": {
-    "welcome": "Bienvenue sur TheQuizQuest"
+    "welcome": "Bienvenue sur TheQuizQuest",
+    "allCategories": "Toutes catégories",
+    "allCategoriesDescription": "Questions de toutes catégories",
+    "random": "Aléatoire",
+    "randomDescription": "Questions aléatoires d'une catégorie sélectionnée au hasard"
+  },
+  "quiz": {
+    "correct": "Correct !",
+    "score": "Score",
+    "incorrect": "Incorrect !",
+    "question": "Question",
+    "submit": "Valider",
+    "scoreboardTitle": "Votre Score",
+    "home": "Accueil"
   },
   "footer": {
     "copyright": "Tous droits réservés"
