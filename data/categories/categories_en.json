@@ -44,6 +44,41 @@
       "id": "manga",
       "title": "Mangas",
       "description": "Test your manga knowledge"
+    },
+    {
+      "id": "video-games",
+      "title": "Video Games",
+      "description": "Test your video games knowledge"
+    },
+    {
+      "id": "architecture",
+      "title": "Architecture",
+      "description": "Test your architecture knowledge"
+    },
+    {
+      "id": "geography",
+      "title": "Geography",
+      "description": "Test your geography knowledge"
+    },
+    {
+      "id": "music",
+      "title": "Music",
+      "description": "Test your music knowledge"
+    },
+    {
+      "id": "animals",
+      "title": "Animals",
+      "description": "Test your knowledge about animals"
+    },
+    {
+      "id": "tv_series",
+      "title": "TV Series",
+      "description": "Test your knowledge about television series"
+    },
+    {
+      "id": "pop_culture",
+      "title": "Pop Culture",
+      "description": "Test your knowledge about popular culture"
     }
   ]
 }

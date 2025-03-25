@@ -30,16 +30,18 @@ export function useQuiz(locale: string, categoryParam: string) {
         const existingSession = sessionStorage.getItem(sessionKey);
         if (existingSession) {
           const sessionData = JSON.parse(existingSession);
-          const selectedQuestions = sessionData.questionIds.map(
-            (id: string) => {
-              const question = allQuestions.find((q) => q.id === id)!;
+          const selectedQuestions = sessionData.questionIds
+            .map((id: string) => {
+              const question = allQuestions.find((q) => q.id === id);
+              if (!question) return null;
               return {
                 ...question,
                 answers: shuffleArray([...question.answers]),
                 correctAnswer: question.correctAnswer,
               };
-            }
-          );
+            })
+            .filter(Boolean);
+
           setQuestions(selectedQuestions);
           setCurrentIndex(sessionData.currentIndex);
           setScore(sessionData.score);
@@ -65,16 +67,11 @@ export function useQuiz(locale: string, categoryParam: string) {
         const shuffledQuestions = shuffleArray([...allQuestions]);
         const selected = shuffledQuestions.slice(0, 10);
 
-        const selectedWithShuffledAnswers = selected.map((question) => {
-          const answers = [...question.answers];
-          const shuffledAnswers = shuffleArray(answers);
-
-          return {
-            ...question,
-            answers: shuffledAnswers,
-            correctAnswer: question.correctAnswer,
-          };
-        });
+        const selectedWithShuffledAnswers = selected.map((question) => ({
+          ...question,
+          answers: shuffleArray([...question.answers]),
+          correctAnswer: question.correctAnswer,
+        }));
 
         sessionStorage.setItem(
           sessionKey,
@@ -88,7 +85,6 @@ export function useQuiz(locale: string, categoryParam: string) {
         setQuestions(selectedWithShuffledAnswers);
         setLoading(false);
       } catch (error) {
-        console.error("Error loading questions:", error);
         setLoading(false);
       }
     }

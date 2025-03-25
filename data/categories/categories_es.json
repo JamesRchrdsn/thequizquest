@@ -44,6 +44,41 @@
       "id": "manga",
       "title": "Mangas",
       "description": "Pon a prueba tus conocimientos sobre mangas"
+    },
+    {
+      "id": "video-games",
+      "title": "Videojuegos",
+      "description": "Pon a prueba tus conocimientos sobre videojuegos"
+    },
+    {
+      "id": "architecture",
+      "title": "Arquitectura",
+      "description": "Pon a prueba tus conocimientos en arquitectura"
+    },
+    {
+      "id": "geography",
+      "title": "Geografía",
+      "description": "Pon a prueba tus conocimientos en geografía"
+    },
+    {
+      "id": "music",
+      "title": "Música",
+      "description": "Pon a prueba tus conocimientos musicales"
+    },
+    {
+      "id": "animals",
+      "title": "Animales",
+      "description": "Pon a prueba tus conocimientos sobre los animales"
+    },
+    {
+      "id": "tv_series",
+      "title": "Series de TV",
+      "description": "Pon a prueba tus conocimientos sobre las series de televisión"
+    },
+    {
+      "id": "pop_culture",
+      "title": "Cultura Pop",
+      "description": "Pon a prueba tus conocimientos sobre la cultura popular"
     }
   ]
 }

@@ -2460,7 +2460,7 @@
     {
       "id": "manga-11",
       "category": "manga",
-      "question": "Quel est le nom de famille d’Edward dans Fullmetal Alchemist ?",
+      "question": "Quel est le nom de famille d'Edward dans Fullmetal Alchemist ?",
       "answers": ["Elric", "Armstrong", "Mustang", "Hughes"],
       "correctAnswer": "Elric"
     },
@@ -2481,7 +2481,7 @@
     {
       "id": "manga-14",
       "category": "manga",
-      "question": "Dans Bleach, quel est le pouvoir d’Ichigo ?",
+      "question": "Dans Bleach, quel est le pouvoir d'Ichigo ?",
       "answers": ["Shinigami", "Ninja", "Alchimiste", "Saiyan"],
       "correctAnswer": "Shinigami"
     },
@@ -2502,7 +2502,7 @@
     {
       "id": "manga-17",
       "category": "manga",
-      "question": "Qui est l’auteur de One Piece ?",
+      "question": "Qui est l'auteur de One Piece ?",
       "answers": [
         "Eiichiro Oda",
         "Masashi Kishimoto",
@@ -2521,14 +2521,14 @@
     {
       "id": "manga-19",
       "category": "manga",
-      "question": "Dans Naruto, qui est le sensei de l’équipe 7 ?",
+      "question": "Dans Naruto, qui est le sensei de l'équipe 7 ?",
       "answers": ["Kakashi", "Iruka", "Gai", "Asuma"],
       "correctAnswer": "Kakashi"
     },
     {
       "id": "manga-20",
       "category": "manga",
-      "question": "Comment s’appelle le titan principal dans L’Attaque des Titans ?",
+      "question": "Comment s'appelle le titan principal dans L'Attaque des Titans ?",
       "answers": ["Eren", "Levi", "Armin", "Jean"],
       "correctAnswer": "Eren"
     },
@@ -2549,7 +2549,7 @@
     {
       "id": "manga-23",
       "category": "manga",
-      "question": "Dans quel manga rencontre-t-on un club d’hôtes ?",
+      "question": "Dans quel manga rencontre-t-on un club d'hôtes ?",
       "answers": [
         "Ouran High School Host Club",
         "Naruto",
@@ -2575,7 +2575,7 @@
     {
       "id": "manga-26",
       "category": "manga",
-      "question": "Qui est l’auteur de Naruto ?",
+      "question": "Qui est l'auteur de Naruto ?",
       "answers": [
         "Masashi Kishimoto",
         "Eiichiro Oda",
@@ -2594,7 +2594,7 @@
     {
       "id": "manga-28",
       "category": "manga",
-      "question": "Dans One Piece, qui est le cuisinier de l’équipage ?",
+      "question": "Dans One Piece, qui est le cuisinier de l'équipage ?",
       "answers": ["Sanji", "Zoro", "Brook", "Chopper"],
       "correctAnswer": "Sanji"
     },
@@ -2615,7 +2615,7 @@
     {
       "id": "manga-31",
       "category": "manga",
-      "question": "Dans L’Attaque des Titans, qui est le capitaine du Bataillon d’Exploration ?",
+      "question": "Dans L'Attaque des Titans, qui est le capitaine du Bataillon d'Exploration ?",
       "answers": ["Levi", "Eren", "Jean", "Connie"],
       "correctAnswer": "Levi"
     },
@@ -2693,7 +2693,7 @@
     {
       "id": "manga-40",
       "category": "manga",
-      "question": "Dans One Piece, qui est l’épéiste de l’équipage ?",
+      "question": "Dans One Piece, qui est l'épéiste de l'équipage ?",
       "answers": ["Zoro", "Luffy", "Brook", "Usopp"],
       "correctAnswer": "Zoro"
     },
@@ -2743,6 +2743,2795 @@
       "question": "Dans My Hero Academia, qui est le professeur emblématique aux lunettes ?",
       "answers": ["Aizawa", "All Might", "Endeavor", "Hawks"],
       "correctAnswer": "Aizawa"
+    },
+    {
+      "id": "geography-1",
+      "category": "geography",
+      "question": "Quelle est la capitale de l'Australie ?",
+      "answers": ["Sydney", "Canberra", "Melbourne", "Brisbane"],
+      "correctAnswer": "Canberra"
+    },
+    {
+      "id": "geography-2",
+      "category": "geography",
+      "question": "Quel est le plus grand désert du monde ?",
+      "answers": ["Sahara", "Antarctique", "Gobi", "Kalahari"],
+      "correctAnswer": "Antarctique"
+    },
+    {
+      "id": "geography-3",
+      "category": "geography",
+      "question": "Quel fleuve traverse Paris ?",
+      "answers": ["La Seine", "La Loire", "Le Rhône", "La Garonne"],
+      "correctAnswer": "La Seine"
+    },
+    {
+      "id": "geography-4",
+      "category": "geography",
+      "question": "Quel est le plus grand pays du monde en superficie ?",
+      "answers": ["Canada", "États-Unis", "Chine", "Russie"],
+      "correctAnswer": "Russie"
+    },
+    {
+      "id": "geography-5",
+      "category": "geography",
+      "question": "Quelle est la montagne la plus haute du monde ?",
+      "answers": ["Mont Everest", "Mont Blanc", "K2", "Mont McKinley"],
+      "correctAnswer": "Mont Everest"
+    },
+    {
+      "id": "geography-6",
+      "category": "geography",
+      "question": "Quel océan borde la côte est des États-Unis ?",
+      "answers": [
+        "Océan Atlantique",
+        "Océan Pacifique",
+        "Océan Indien",
+        "Mer des Caraïbes"
+      ],
+      "correctAnswer": "Océan Atlantique"
+    },
+    {
+      "id": "geography-7",
+      "category": "geography",
+      "question": "Dans quel pays se trouve la grande pyramide de Gizeh ?",
+      "answers": ["Mexique", "Égypte", "Pérou", "Grèce"],
+      "correctAnswer": "Égypte"
+    },
+    {
+      "id": "geography-8",
+      "category": "geography",
+      "question": "Quel est le plus long fleuve du monde ?",
+      "answers": ["Nil", "Amazone", "Mississippi", "Yangtsé"],
+      "correctAnswer": "Amazone"
+    },
+    {
+      "id": "geography-9",
+      "category": "geography",
+      "question": "Quel pays possède le plus d'îles ?",
+      "answers": ["Norvège", "Canada", "Suède", "Indonésie"],
+      "correctAnswer": "Suède"
+    },
+    {
+      "id": "geography-10",
+      "category": "geography",
+      "question": "Quelle mer sépare l'Europe de l'Afrique ?",
+      "answers": [
+        "Mer Méditerranée",
+        "Mer Rouge",
+        "Mer Noire",
+        "Mer Caspienne"
+      ],
+      "correctAnswer": "Mer Méditerranée"
+    },
+    {
+      "id": "geography-11",
+      "category": "geography",
+      "question": "Quel est le plus petit pays du monde ?",
+      "answers": ["Monaco", "Liechtenstein", "Vatican", "Saint-Marin"],
+      "correctAnswer": "Vatican"
+    },
+    {
+      "id": "geography-12",
+      "category": "geography",
+      "question": "Quel pays est surnommé le 'pays du soleil levant' ?",
+      "answers": ["Chine", "Japon", "Thaïlande", "Corée du Sud"],
+      "correctAnswer": "Japon"
+    },
+    {
+      "id": "geography-13",
+      "category": "geography",
+      "question": "Quelle capitale européenne est traversée par la Tamise ?",
+      "answers": ["Londres", "Paris", "Berlin", "Rome"],
+      "correctAnswer": "Londres"
+    },
+    {
+      "id": "geography-14",
+      "category": "geography",
+      "question": "Dans quel pays se trouve la ville de Marrakech ?",
+      "answers": ["Égypte", "Maroc", "Tunisie", "Algérie"],
+      "correctAnswer": "Maroc"
+    },
+    {
+      "id": "geography-15",
+      "category": "geography",
+      "question": "Quelle est la plus grande mer du monde ?",
+      "answers": [
+        "Mer Méditerranée",
+        "Mer des Philippines",
+        "Mer de Chine méridionale",
+        "Mer d'Arabie"
+      ],
+      "correctAnswer": "Mer des Philippines"
+    },
+    {
+      "id": "geography-16",
+      "category": "geography",
+      "question": "Quel pays possède la plus grande forêt tropicale ?",
+      "answers": ["Brésil", "Indonésie", "Congo", "Australie"],
+      "correctAnswer": "Brésil"
+    },
+    {
+      "id": "geography-17",
+      "category": "geography",
+      "question": "Quel est le point le plus bas sur Terre ?",
+      "answers": [
+        "Grand Canyon",
+        "Fosse des Mariannes",
+        "Mer Morte",
+        "Lac Baïkal"
+      ],
+      "correctAnswer": "Fosse des Mariannes"
+    },
+    {
+      "id": "geography-18",
+      "category": "geography",
+      "question": "Dans quel pays se trouve la ville de Reykjavik ?",
+      "answers": ["Norvège", "Islande", "Finlande", "Suède"],
+      "correctAnswer": "Islande"
+    },
+    {
+      "id": "geography-19",
+      "category": "geography",
+      "question": "Quel est le plus grand lac d'eau douce au monde ?",
+      "answers": [
+        "Lac Victoria",
+        "Lac Baïkal",
+        "Lac Supérieur",
+        "Lac Tanganyika"
+      ],
+      "correctAnswer": "Lac Supérieur"
+    },
+    {
+      "id": "geography-20",
+      "category": "geography",
+      "question": "Quel est le pays le plus peuplé du monde ?",
+      "answers": ["Chine", "Inde", "États-Unis", "Indonésie"],
+      "correctAnswer": "Chine"
+    },
+    {
+      "id": "geography-21",
+      "category": "geography",
+      "question": "Quel continent est entièrement recouvert de glace ?",
+      "answers": ["Asie", "Amérique du Nord", "Antarctique", "Europe"],
+      "correctAnswer": "Antarctique"
+    },
+    {
+      "id": "geography-22",
+      "category": "geography",
+      "question": "Quel pays d'Amérique du Sud a la forme d'un long ruban ?",
+      "answers": ["Argentine", "Chili", "Brésil", "Pérou"],
+      "correctAnswer": "Chili"
+    },
+    {
+      "id": "geography-23",
+      "category": "geography",
+      "question": "Quel est le plus grand archipel du monde ?",
+      "answers": ["Japon", "Indonésie", "Philippines", "Nouvelle-Zélande"],
+      "correctAnswer": "Indonésie"
+    },
+    {
+      "id": "geography-24",
+      "category": "geography",
+      "question": "Quel pays compte le plus de fuseaux horaires ?",
+      "answers": ["États-Unis", "France", "Russie", "Chine"],
+      "correctAnswer": "France"
+    },
+    {
+      "id": "geography-25",
+      "category": "geography",
+      "question": "Dans quel pays peut-on visiter la Grande Muraille ?",
+      "answers": ["Corée du Sud", "Mongolie", "Chine", "Japon"],
+      "correctAnswer": "Chine"
+    },
+    {
+      "id": "geography-26",
+      "category": "geography",
+      "question": "Quel est le plus haut sommet des Alpes ?",
+      "answers": [
+        "Mont Blanc",
+        "Matterhorn",
+        "Grossglockner",
+        "Dôme du Goûter"
+      ],
+      "correctAnswer": "Mont Blanc"
+    },
+    {
+      "id": "geography-27",
+      "category": "geography",
+      "question": "Quelle ville est surnommée 'La ville éternelle' ?",
+      "answers": ["Athènes", "Paris", "Rome", "Venise"],
+      "correctAnswer": "Rome"
+    },
+    {
+      "id": "geography-28",
+      "category": "geography",
+      "question": "Quelle ville est la plus peuplée du monde ?",
+      "answers": ["Tokyo", "Shanghai", "New York", "Delhi"],
+      "correctAnswer": "Tokyo"
+    },
+    {
+      "id": "geography-29",
+      "category": "geography",
+      "question": "Quel est le plus grand état des États-Unis ?",
+      "answers": ["Texas", "Alaska", "Californie", "Montana"],
+      "correctAnswer": "Alaska"
+    },
+    {
+      "id": "geography-30",
+      "category": "geography",
+      "question": "Quelle mer entoure la péninsule italienne ?",
+      "answers": [
+        "Mer du Nord",
+        "Mer Méditerranée",
+        "Mer Baltique",
+        "Mer Noire"
+      ],
+      "correctAnswer": "Mer Méditerranée"
+    },
+    {
+      "id": "geography-31",
+      "category": "geography",
+      "question": "Quelle est la capitale du Canada ?",
+      "answers": ["Toronto", "Ottawa", "Vancouver", "Montréal"],
+      "correctAnswer": "Ottawa"
+    },
+    {
+      "id": "geography-32",
+      "category": "geography",
+      "question": "Quel est le plus grand pays d'Afrique ?",
+      "answers": ["Nigéria", "Afrique du Sud", "Algérie", "Égypte"],
+      "correctAnswer": "Algérie"
+    },
+    {
+      "id": "geography-33",
+      "category": "geography",
+      "question": "Quel est le fleuve qui traverse l'Égypte ?",
+      "answers": ["Nil", "Congo", "Zambèze", "Orange"],
+      "correctAnswer": "Nil"
+    },
+    {
+      "id": "geography-34",
+      "category": "geography",
+      "question": "Quel désert couvre la majeure partie de l'Afrique du Nord ?",
+      "answers": ["Désert du Kalahari", "Sahara", "Désert de Gobi", "Atacama"],
+      "correctAnswer": "Sahara"
+    },
+    {
+      "id": "geography-35",
+      "category": "geography",
+      "question": "Dans quel pays se situe la ville de Rio de Janeiro ?",
+      "answers": ["Argentine", "Mexique", "Brésil", "Colombie"],
+      "correctAnswer": "Brésil"
+    },
+    {
+      "id": "geography-36",
+      "category": "geography",
+      "question": "Quelle est la deuxième plus grande île du monde après le Groenland ?",
+      "answers": ["Madagascar", "Nouvelle-Guinée", "Borneo", "Sumatra"],
+      "correctAnswer": "Nouvelle-Guinée"
+    },
+    {
+      "id": "geography-37",
+      "category": "geography",
+      "question": "Dans quel pays se trouvent les temples d'Angkor ?",
+      "answers": ["Thaïlande", "Vietnam", "Cambodge", "Laos"],
+      "correctAnswer": "Cambodge"
+    },
+    {
+      "id": "geography-38",
+      "category": "geography",
+      "question": "Quel est le plus grand pays d'Amérique du Sud ?",
+      "answers": ["Argentine", "Colombie", "Pérou", "Brésil"],
+      "correctAnswer": "Brésil"
+    },
+    {
+      "id": "geography-39",
+      "category": "geography",
+      "question": "Quelle chaîne de montagnes traverse l'Amérique du Sud ?",
+      "answers": ["Rocheuses", "Alpes", "Andes", "Himalaya"],
+      "correctAnswer": "Andes"
+    },
+    {
+      "id": "geography-40",
+      "category": "geography",
+      "question": "Quel est le plus grand lac d'Amérique du Sud ?",
+      "answers": [
+        "Lac Titicaca",
+        "Lac Poopó",
+        "Lac Maracaibo",
+        "Lac Nahuel Huapi"
+      ],
+      "correctAnswer": "Lac Titicaca"
+    },
+    {
+      "id": "geography-41",
+      "category": "geography",
+      "question": "Quelle ville est célèbre pour son opéra en forme de voiles ?",
+      "answers": ["Melbourne", "Sydney", "Auckland", "Brisbane"],
+      "correctAnswer": "Sydney"
+    },
+    {
+      "id": "geography-42",
+      "category": "geography",
+      "question": "Quel pays d'Afrique possède la plus grande population ?",
+      "answers": ["Afrique du Sud", "Nigéria", "Égypte", "Éthiopie"],
+      "correctAnswer": "Nigéria"
+    },
+    {
+      "id": "geography-43",
+      "category": "geography",
+      "question": "Dans quel océan se trouve l'île de Madagascar ?",
+      "answers": ["Atlantique", "Pacifique", "Indien", "Arctique"],
+      "correctAnswer": "Indien"
+    },
+    {
+      "id": "geography-44",
+      "category": "geography",
+      "question": "Quelle est la plus grande île du monde ?",
+      "answers": ["Groenland", "Australie", "Madagascar", "Nouvelle-Zélande"],
+      "correctAnswer": "Groenland"
+    },
+    {
+      "id": "geography-45",
+      "category": "geography",
+      "question": "Quel pays est traversé par le plus grand nombre de fuseaux horaires ?",
+      "answers": ["États-Unis", "Russie", "France", "Canada"],
+      "correctAnswer": "France"
+    },
+    {
+      "id": "geography-46",
+      "category": "geography",
+      "question": "Quel est le pays avec la plus grande densité de population ?",
+      "answers": ["Inde", "Bangladesh", "Japon", "Pays-Bas"],
+      "correctAnswer": "Bangladesh"
+    },
+    {
+      "id": "architecture-1",
+      "category": "architecture",
+      "question": "Quel architecte a conçu la tour Eiffel ?",
+      "answers": [
+        "Gustave Eiffel",
+        "Le Corbusier",
+        "Antoni Gaudí",
+        "Frank Lloyd Wright"
+      ],
+      "correctAnswer": "Gustave Eiffel"
+    },
+    {
+      "id": "architecture-2",
+      "category": "architecture",
+      "question": "Dans quelle ville se trouve la Sagrada Familia ?",
+      "answers": ["Barcelone", "Madrid", "Valence", "Séville"],
+      "correctAnswer": "Barcelone"
+    },
+    {
+      "id": "architecture-3",
+      "category": "architecture",
+      "question": "Quel célèbre monument parisien a été conçu par Jean Chalgrin ?",
+      "answers": ["Arc de Triomphe", "Panthéon", "Notre-Dame", "Opéra Garnier"],
+      "correctAnswer": "Arc de Triomphe"
+    },
+    {
+      "id": "architecture-4",
+      "category": "architecture",
+      "question": "Quel architecte est connu pour avoir conçu la basilique Saint-Pierre de Rome ?",
+      "answers": ["Michel-Ange", "Bernini", "Bramante", "Raphaël"],
+      "correctAnswer": "Michel-Ange"
+    },
+    {
+      "id": "architecture-5",
+      "category": "architecture",
+      "question": "Quelle est la plus haute tour du monde en 2024 ?",
+      "answers": [
+        "Burj Khalifa",
+        "Shanghai Tower",
+        "One World Trade Center",
+        "Petronas Towers"
+      ],
+      "correctAnswer": "Burj Khalifa"
+    },
+    {
+      "id": "architecture-6",
+      "category": "architecture",
+      "question": "Quel pays est célèbre pour son architecture coloniale de style andalou ?",
+      "answers": ["Mexique", "Espagne", "Portugal", "Italie"],
+      "correctAnswer": "Mexique"
+    },
+    {
+      "id": "architecture-7",
+      "category": "architecture",
+      "question": "Quel bâtiment est une icône du mouvement Bauhaus ?",
+      "answers": [
+        "Dessau Bauhaus",
+        "Fallingwater",
+        "Villa Savoye",
+        "Palais de Versailles"
+      ],
+      "correctAnswer": "Dessau Bauhaus"
+    },
+    {
+      "id": "architecture-8",
+      "category": "architecture",
+      "question": "Quel architecte a conçu la villa Savoye ?",
+      "answers": [
+        "Le Corbusier",
+        "Gustave Eiffel",
+        "Ludwig Mies van der Rohe",
+        "Antoni Gaudí"
+      ],
+      "correctAnswer": "Le Corbusier"
+    },
+    {
+      "id": "architecture-9",
+      "category": "architecture",
+      "question": "Quel est le style architectural dominant de la cathédrale Notre-Dame de Paris ?",
+      "answers": ["Gothique", "Roman", "Renaissance", "Baroque"],
+      "correctAnswer": "Gothique"
+    },
+    {
+      "id": "architecture-10",
+      "category": "architecture",
+      "question": "Quel architecte américain est connu pour la maison Fallingwater ?",
+      "answers": [
+        "Frank Lloyd Wright",
+        "Louis Sullivan",
+        "Philip Johnson",
+        "Norman Foster"
+      ],
+      "correctAnswer": "Frank Lloyd Wright"
+    },
+    {
+      "id": "architecture-11",
+      "category": "architecture",
+      "question": "Dans quelle ville trouve-t-on le Colisée ?",
+      "answers": ["Rome", "Athènes", "Paris", "Venise"],
+      "correctAnswer": "Rome"
+    },
+    {
+      "id": "architecture-12",
+      "category": "architecture",
+      "question": "Quel est le matériau principal utilisé dans l'architecture gothique ?",
+      "answers": ["Pierre", "Bois", "Brique", "Béton"],
+      "correctAnswer": "Pierre"
+    },
+    {
+      "id": "architecture-13",
+      "category": "architecture",
+      "question": "Quel est le nom du célèbre temple d'Athènes dédié à Athéna ?",
+      "answers": ["Parthénon", "Panthéon", "Colisée", "Acropole"],
+      "correctAnswer": "Parthénon"
+    },
+    {
+      "id": "architecture-14",
+      "category": "architecture",
+      "question": "Quel monument de Londres abrite Big Ben ?",
+      "answers": [
+        "Palais de Westminster",
+        "Buckingham Palace",
+        "Tour de Londres",
+        "Cathédrale Saint-Paul"
+      ],
+      "correctAnswer": "Palais de Westminster"
+    },
+    {
+      "id": "architecture-15",
+      "category": "architecture",
+      "question": "Quelle ville est connue pour ses gratte-ciel emblématiques comme l'Empire State Building ?",
+      "answers": ["New York", "Chicago", "Los Angeles", "San Francisco"],
+      "correctAnswer": "New York"
+    },
+    {
+      "id": "architecture-16",
+      "category": "architecture",
+      "question": "Quel mouvement architectural privilégie le minimalisme et les formes épurées ?",
+      "answers": ["Modernisme", "Baroque", "Art déco", "Rococo"],
+      "correctAnswer": "Modernisme"
+    },
+    {
+      "id": "architecture-17",
+      "category": "architecture",
+      "question": "Quel architecte espagnol est à l'origine du parc Güell ?",
+      "answers": [
+        "Antoni Gaudí",
+        "Santiago Calatrava",
+        "Rafael Moneo",
+        "Norman Foster"
+      ],
+      "correctAnswer": "Antoni Gaudí"
+    },
+    {
+      "id": "architecture-18",
+      "category": "architecture",
+      "question": "Quel est le nom de la célèbre pagode dorée de Birmanie ?",
+      "answers": ["Shwedagon", "Borobudur", "Angkor Wat", "Wat Arun"],
+      "correctAnswer": "Shwedagon"
+    },
+    {
+      "id": "architecture-19",
+      "category": "architecture",
+      "question": "Quel bâtiment parisien abrite une pyramide de verre emblématique ?",
+      "answers": ["Louvre", "Musée d'Orsay", "Palais Royal", "Centre Pompidou"],
+      "correctAnswer": "Louvre"
+    },
+    {
+      "id": "architecture-20",
+      "category": "architecture",
+      "question": "Quel est le nom du célèbre architecte du musée Guggenheim de Bilbao ?",
+      "answers": ["Frank Gehry", "Renzo Piano", "Zaha Hadid", "Jean Nouvel"],
+      "correctAnswer": "Frank Gehry"
+    },
+    {
+      "id": "architecture-21",
+      "category": "architecture",
+      "question": "Quel est le plus grand temple bouddhiste du monde ?",
+      "answers": ["Borobudur", "Angkor Wat", "Shwedagon", "Wat Pho"],
+      "correctAnswer": "Borobudur"
+    },
+    {
+      "id": "architecture-22",
+      "category": "architecture",
+      "question": "Quel pays est célèbre pour ses pagodes ?",
+      "answers": ["Japon", "Russie", "Italie", "Brésil"],
+      "correctAnswer": "Japon"
+    },
+    {
+      "id": "architecture-23",
+      "category": "architecture",
+      "question": "Quel est le nom du célèbre bâtiment en forme de voile à Dubaï ?",
+      "answers": [
+        "Burj Al Arab",
+        "Burj Khalifa",
+        "Marina Bay Sands",
+        "The Shard"
+      ],
+      "correctAnswer": "Burj Al Arab"
+    },
+    {
+      "id": "architecture-24",
+      "category": "architecture",
+      "question": "Quel est le style architectural dominant de Versailles ?",
+      "answers": ["Baroque", "Gothique", "Rococo", "Renaissance"],
+      "correctAnswer": "Baroque"
+    },
+    {
+      "id": "architecture-25",
+      "category": "architecture",
+      "question": "Quelle ville italienne est célèbre pour sa tour penchée ?",
+      "answers": ["Pise", "Rome", "Venise", "Milan"],
+      "correctAnswer": "Pise"
+    },
+    {
+      "id": "architecture-26",
+      "category": "architecture",
+      "question": "Dans quel pays se trouve la cathédrale Saint-Basile ?",
+      "answers": ["Russie", "France", "Espagne", "Pologne"],
+      "correctAnswer": "Russie"
+    },
+    {
+      "id": "architecture-27",
+      "category": "architecture",
+      "question": "Quel est le nom du palais qui abrite la salle des miroirs ?",
+      "answers": [
+        "Château de Versailles",
+        "Palais du Louvre",
+        "Palais de Buckingham",
+        "Château de Chambord"
+      ],
+      "correctAnswer": "Château de Versailles"
+    },
+    {
+      "id": "architecture-28",
+      "category": "architecture",
+      "question": "Quelle structure est considérée comme la plus ancienne pyramide d'Égypte ?",
+      "answers": [
+        "Pyramide de Djéser",
+        "Grande Pyramide de Gizeh",
+        "Pyramide de Khéphren",
+        "Pyramide de Mykérinos"
+      ],
+      "correctAnswer": "Pyramide de Djéser"
+    },
+    {
+      "id": "architecture-29",
+      "category": "architecture",
+      "question": "Quelle ville est célèbre pour son Opéra en forme de voiles ?",
+      "answers": ["Sydney", "Londres", "New York", "Milan"],
+      "correctAnswer": "Sydney"
+    },
+    {
+      "id": "architecture-30",
+      "category": "architecture",
+      "question": "Quelle cathédrale russe est caractérisée par ses dômes colorés ?",
+      "answers": [
+        "Saint-Basile",
+        "Notre-Dame",
+        "Sagrada Familia",
+        "Cathédrale de Chartres"
+      ],
+      "correctAnswer": "Saint-Basile"
+    },
+    {
+      "id": "architecture-31",
+      "category": "architecture",
+      "question": "Dans quel pays trouve-t-on le Machu Picchu ?",
+      "answers": ["Pérou", "Mexique", "Guatemala", "Chili"],
+      "correctAnswer": "Pérou"
+    },
+    {
+      "id": "architecture-32",
+      "category": "architecture",
+      "question": "Quel est le nom du célèbre temple d'Angkor ?",
+      "answers": ["Angkor Wat", "Wat Arun", "Borobudur", "Shwedagon"],
+      "correctAnswer": "Angkor Wat"
+    },
+    {
+      "id": "architecture-33",
+      "category": "architecture",
+      "question": "Quel est le style architectural du Taj Mahal ?",
+      "answers": ["Moghol", "Gothique", "Roman", "Baroque"],
+      "correctAnswer": "Moghol"
+    },
+    {
+      "id": "architecture-34",
+      "category": "architecture",
+      "question": "Quel architecte est connu pour le Centre Pompidou ?",
+      "answers": [
+        "Renzo Piano",
+        "Jean Nouvel",
+        "Zaha Hadid",
+        "Santiago Calatrava"
+      ],
+      "correctAnswer": "Renzo Piano"
+    },
+    {
+      "id": "architecture-35",
+      "category": "architecture",
+      "question": "Quelle est la particularité du Flatiron Building de New York ?",
+      "answers": [
+        "Forme triangulaire",
+        "Plus haut du monde",
+        "Verre intégral",
+        "Flottant"
+      ],
+      "correctAnswer": "Forme triangulaire"
+    },
+    {
+      "id": "architecture-36",
+      "category": "architecture",
+      "question": "Quelle ville abrite la Basilique Saint-Marc ?",
+      "answers": ["Venise", "Rome", "Florence", "Naples"],
+      "correctAnswer": "Venise"
+    },
+    {
+      "id": "architecture-37",
+      "category": "architecture",
+      "question": "Quel est le plus haut gratte-ciel d'Europe ?",
+      "answers": ["Lakhta Center", "The Shard", "Tour First", "Messeturm"],
+      "correctAnswer": "Lakhta Center"
+    },
+    {
+      "id": "architecture-38",
+      "category": "architecture",
+      "question": "Dans quel pays se trouve la Mosquée-Cathédrale de Cordoue ?",
+      "answers": ["Espagne", "Turquie", "Italie", "France"],
+      "correctAnswer": "Espagne"
+    },
+    {
+      "id": "architecture-39",
+      "category": "architecture",
+      "question": "Quel monument est un mausolée pour l'empereur Qin Shi Huang ?",
+      "answers": [
+        "L'armée de terre cuite",
+        "La Cité interdite",
+        "Le Temple du Ciel",
+        "Le Grand Bouddha de Leshan"
+      ],
+      "correctAnswer": "L'armée de terre cuite"
+    },
+    {
+      "id": "architecture-40",
+      "category": "architecture",
+      "question": "Dans quel pays se trouve le Palais du Potala ?",
+      "answers": ["Tibet", "Mongolie", "Inde", "Chine"],
+      "correctAnswer": "Tibet"
+    },
+    {
+      "id": "architecture-41",
+      "category": "architecture",
+      "question": "Quel est le style architectural du Chrysler Building ?",
+      "answers": ["Art déco", "Gothique", "Baroque", "Moderne"],
+      "correctAnswer": "Art déco"
+    },
+    {
+      "id": "architecture-42",
+      "category": "architecture",
+      "question": "Quel est le surnom de la tour CCT de Pékin ?",
+      "answers": [
+        "Shorts géants",
+        "La spirale",
+        "L'œil du dragon",
+        "Le cube doré"
+      ],
+      "correctAnswer": "Shorts géants"
+    },
+    {
+      "id": "architecture-43",
+      "category": "architecture",
+      "question": "Quel architecte est connu pour le concept de 'Cité Radieuse' ?",
+      "answers": [
+        "Le Corbusier",
+        "Frank Gehry",
+        "Norman Foster",
+        "Richard Rogers"
+      ],
+      "correctAnswer": "Le Corbusier"
+    },
+    {
+      "id": "architecture-44",
+      "category": "architecture",
+      "question": "Quelle est la plus ancienne université encore en activité ?",
+      "answers": [
+        "Université de Al Quaraouiyine",
+        "Oxford",
+        "Sorbonne",
+        "Harvard"
+      ],
+      "correctAnswer": "Université de Al Quaraouiyine"
+    },
+    {
+      "id": "architecture-45",
+      "category": "architecture",
+      "question": "Quelle célèbre structure architecturale est située sur la place Rouge à Moscou ?",
+      "answers": [
+        "Cathédrale Saint-Basile",
+        "Kremlin",
+        "Tour Spasskaya",
+        "Musée de l'Ermitage"
+      ],
+      "correctAnswer": "Cathédrale Saint-Basile"
+    },
+    {
+      "id": "architecture-46",
+      "category": "architecture",
+      "question": "Quel bâtiment emblématique de Chicago a été l'un des plus hauts du monde ?",
+      "answers": [
+        "Willis Tower",
+        "Empire State Building",
+        "One World Trade Center",
+        "Transamerica Pyramid"
+      ],
+      "correctAnswer": "Willis Tower"
+    },
+    {
+      "id": "video-games-1",
+      "category": "video-games",
+      "question": "Quel est le nom du héros principal de la série The Legend of Zelda ?",
+      "answers": ["Link", "Zelda", "Ganon", "Epona"],
+      "correctAnswer": "Link"
+    },
+    {
+      "id": "video-games-2",
+      "category": "video-games",
+      "question": "Quel studio a développé la série Grand Theft Auto ?",
+      "answers": ["Rockstar Games", "Ubisoft", "Bethesda", "Electronic Arts"],
+      "correctAnswer": "Rockstar Games"
+    },
+    {
+      "id": "video-games-3",
+      "category": "video-games",
+      "question": "Dans quel jeu incarne-t-on un tueur de monstres nommé Geralt de Riv ?",
+      "answers": ["The Witcher", "Skyrim", "Dark Souls", "Dragon Age"],
+      "correctAnswer": "The Witcher"
+    },
+    {
+      "id": "video-games-4",
+      "category": "video-games",
+      "question": "Quel est le premier jeu vidéo commercialisé ?",
+      "answers": ["Pong", "Space Invaders", "Pac-Man", "Tetris"],
+      "correctAnswer": "Pong"
+    },
+    {
+      "id": "video-games-5",
+      "category": "video-games",
+      "question": "Quel est le nom du plombier moustachu le plus célèbre des jeux vidéo ?",
+      "answers": ["Mario", "Luigi", "Wario", "Toad"],
+      "correctAnswer": "Mario"
+    },
+    {
+      "id": "video-games-6",
+      "category": "video-games",
+      "question": "Quel jeu de battle royale a popularisé le genre en 2017 ?",
+      "answers": ["Fortnite", "PUBG", "Apex Legends", "Call of Duty: Warzone"],
+      "correctAnswer": "Fortnite"
+    },
+    {
+      "id": "video-games-7",
+      "category": "video-games",
+      "question": "Quel est le nom du protagoniste de la série Halo ?",
+      "answers": ["Master Chief", "Cortana", "Arbiter", "Sergeant Johnson"],
+      "correctAnswer": "Master Chief"
+    },
+    {
+      "id": "video-games-8",
+      "category": "video-games",
+      "question": "Dans quel jeu incarne-t-on un chasseur de trésors nommé Nathan Drake ?",
+      "answers": ["Uncharted", "Tomb Raider", "Far Cry", "Assassin's Creed"],
+      "correctAnswer": "Uncharted"
+    },
+    {
+      "id": "video-games-9",
+      "category": "video-games",
+      "question": "Quel jeu de combat met en scène des personnages comme Ryu et Chun-Li ?",
+      "answers": [
+        "Street Fighter",
+        "Tekken",
+        "Mortal Kombat",
+        "Super Smash Bros"
+      ],
+      "correctAnswer": "Street Fighter"
+    },
+    {
+      "id": "video-games-10",
+      "category": "video-games",
+      "question": "Quel est le nom du studio derrière la série The Elder Scrolls ?",
+      "answers": ["Bethesda", "CD Projekt Red", "Square Enix", "Bioware"],
+      "correctAnswer": "Bethesda"
+    },
+    {
+      "id": "video-games-11",
+      "category": "video-games",
+      "question": "Quel jeu de survie met en scène des zombies et un père protégeant une jeune fille ?",
+      "answers": [
+        "The Last of Us",
+        "Resident Evil",
+        "Days Gone",
+        "Dying Light"
+      ],
+      "correctAnswer": "The Last of Us"
+    },
+    {
+      "id": "video-games-12",
+      "category": "video-games",
+      "question": "Quel jeu est souvent considéré comme le premier RPG japonais ?",
+      "answers": [
+        "Dragon Quest",
+        "Final Fantasy",
+        "Chrono Trigger",
+        "Secret of Mana"
+      ],
+      "correctAnswer": "Dragon Quest"
+    },
+    {
+      "id": "video-games-13",
+      "category": "video-games",
+      "question": "Quel personnage est le rival de Sonic dans la série Sonic the Hedgehog ?",
+      "answers": ["Shadow", "Knuckles", "Tails", "Dr. Eggman"],
+      "correctAnswer": "Shadow"
+    },
+    {
+      "id": "video-games-14",
+      "category": "video-games",
+      "question": "Dans quel jeu doit-on sauver la princesse Peach ?",
+      "answers": ["Super Mario", "Donkey Kong", "Kirby", "Yoshi's Island"],
+      "correctAnswer": "Super Mario"
+    },
+    {
+      "id": "video-games-15",
+      "category": "video-games",
+      "question": "Quel jeu a été le plus vendu de tous les temps ?",
+      "answers": ["Minecraft", "GTA V", "Tetris", "Wii Sports"],
+      "correctAnswer": "Minecraft"
+    },
+    {
+      "id": "video-games-16",
+      "category": "video-games",
+      "question": "Quelle console a popularisé la 3D dans les jeux vidéo ?",
+      "answers": ["PlayStation", "Nintendo 64", "Dreamcast", "Xbox"],
+      "correctAnswer": "PlayStation"
+    },
+    {
+      "id": "video-games-17",
+      "category": "video-games",
+      "question": "Dans quel jeu peut-on capturer des créatures appelées Pokémon ?",
+      "answers": ["Pokémon", "Digimon", "Yu-Gi-Oh!", "Monster Hunter"],
+      "correctAnswer": "Pokémon"
+    },
+    {
+      "id": "video-games-18",
+      "category": "video-games",
+      "question": "Quel jeu vidéo a pour but de créer et gérer sa propre ville ?",
+      "answers": ["SimCity", "Cities: Skylines", "Tropico", "Anno"],
+      "correctAnswer": "SimCity"
+    },
+    {
+      "id": "video-games-19",
+      "category": "video-games",
+      "question": "Quel est le nom du protagoniste dans la série Metal Gear Solid ?",
+      "answers": ["Solid Snake", "Big Boss", "Raiden", "Ocelot"],
+      "correctAnswer": "Solid Snake"
+    },
+    {
+      "id": "video-games-20",
+      "category": "video-games",
+      "question": "Quel jeu a introduit le mode battle royale en premier ?",
+      "answers": ["PUBG", "Fortnite", "H1Z1", "Apex Legends"],
+      "correctAnswer": "PUBG"
+    },
+    {
+      "id": "video-games-21",
+      "category": "video-games",
+      "question": "Dans quel jeu peut-on jouer un tueur à gages appelé Agent 47 ?",
+      "answers": ["Hitman", "Dishonored", "Splinter Cell", "Assassin's Creed"],
+      "correctAnswer": "Hitman"
+    },
+    {
+      "id": "video-games-22",
+      "category": "video-games",
+      "question": "Quel est le jeu emblématique de Valve mettant en scène un scientifique avec un pied-de-biche ?",
+      "answers": ["Half-Life", "Portal", "Left 4 Dead", "Counter-Strike"],
+      "correctAnswer": "Half-Life"
+    },
+    {
+      "id": "video-games-23",
+      "category": "video-games",
+      "question": "Dans quel jeu peut-on jouer un dieu de la guerre nommé Kratos ?",
+      "answers": ["God of War", "Diablo", "Dark Souls", "Darksiders"],
+      "correctAnswer": "God of War"
+    },
+    {
+      "id": "video-games-24",
+      "category": "video-games",
+      "question": "Quel jeu en monde ouvert permet de construire et miner dans un univers en blocs ?",
+      "answers": ["Minecraft", "Terraria", "Roblox", "Lego Worlds"],
+      "correctAnswer": "Minecraft"
+    },
+    {
+      "id": "video-games-25",
+      "category": "video-games",
+      "question": "Quel est le jeu de tir multijoueur développé par Blizzard où chaque héros a une capacité unique ?",
+      "answers": ["Overwatch", "Valorant", "Team Fortress 2", "Paladins"],
+      "correctAnswer": "Overwatch"
+    },
+    {
+      "id": "video-games-26",
+      "category": "video-games",
+      "question": "Dans quel jeu doit-on survivre face à des animatroniques effrayants ?",
+      "answers": [
+        "Five Nights at Freddy's",
+        "Silent Hill",
+        "Outlast",
+        "Resident Evil"
+      ],
+      "correctAnswer": "Five Nights at Freddy's"
+    },
+    {
+      "id": "video-games-27",
+      "category": "video-games",
+      "question": "Quel jeu de stratégie en temps réel met en scène les Zergs, les Terrans et les Protoss ?",
+      "answers": [
+        "StarCraft",
+        "Warcraft",
+        "Command & Conquer",
+        "Age of Empires"
+      ],
+      "correctAnswer": "StarCraft"
+    },
+    {
+      "id": "video-games-28",
+      "category": "video-games",
+      "question": "Quel jeu d'horreur psychologique se déroule dans une ville brumeuse ?",
+      "answers": ["Silent Hill", "Resident Evil", "Amnesia", "The Evil Within"],
+      "correctAnswer": "Silent Hill"
+    },
+    {
+      "id": "video-games-29",
+      "category": "video-games",
+      "question": "Quel jeu de course met en scène des voitures réalistes et est exclusif à PlayStation ?",
+      "answers": ["Gran Turismo", "Forza Horizon", "Need for Speed", "Burnout"],
+      "correctAnswer": "Gran Turismo"
+    },
+    {
+      "id": "video-games-30",
+      "category": "video-games",
+      "question": "Dans quel jeu incarne-t-on un mercenaire cybernétique dans une ville futuriste ?",
+      "answers": ["Cyberpunk 2077", "Deus Ex", "Ghostrunner", "Shadowrun"],
+      "correctAnswer": "Cyberpunk 2077"
+    },
+    {
+      "id": "video-games-31",
+      "category": "video-games",
+      "question": "Quel jeu de plateforme met en scène un chevalier en armure affrontant des spectres ?",
+      "answers": ["Hollow Knight", "Shovel Knight", "Celeste", "Dead Cells"],
+      "correctAnswer": "Hollow Knight"
+    },
+    {
+      "id": "video-games-32",
+      "category": "video-games",
+      "question": "Quel est le nom du célèbre jeu de combat Nintendo mettant en scène plusieurs franchises ?",
+      "answers": [
+        "Super Smash Bros",
+        "Tekken",
+        "Mortal Kombat",
+        "Dragon Ball FighterZ"
+      ],
+      "correctAnswer": "Super Smash Bros"
+    },
+    {
+      "id": "video-games-33",
+      "category": "video-games",
+      "question": "Quel jeu d'exploration spatiale a été développé par Hello Games ?",
+      "answers": [
+        "No Man's Sky",
+        "Elite Dangerous",
+        "Star Citizen",
+        "EVE Online"
+      ],
+      "correctAnswer": "No Man's Sky"
+    },
+    {
+      "id": "video-games-34",
+      "category": "video-games",
+      "question": "Quel est le nom du studio qui a développé The Witcher et Cyberpunk 2077 ?",
+      "answers": ["CD Projekt Red", "Ubisoft", "Rockstar Games", "Square Enix"],
+      "correctAnswer": "CD Projekt Red"
+    },
+    {
+      "id": "video-games-35",
+      "category": "video-games",
+      "question": "Quel est le but principal dans Dark Souls ?",
+      "answers": [
+        "Survivre et vaincre des boss",
+        "Construire une ville",
+        "Gagner des courses",
+        "Sauver des otages"
+      ],
+      "correctAnswer": "Survivre et vaincre des boss"
+    },
+    {
+      "id": "video-games-36",
+      "category": "video-games",
+      "question": "Dans quel jeu peut-on chasser des créatures gigantesques avec des armes colossales ?",
+      "answers": [
+        "Monster Hunter",
+        "Horizon Zero Dawn",
+        "Dark Souls",
+        "God Eater"
+      ],
+      "correctAnswer": "Monster Hunter"
+    },
+    {
+      "id": "video-games-37",
+      "category": "video-games",
+      "question": "Quel jeu a popularisé le genre des roguelikes modernes avec des donjons générés aléatoirement ?",
+      "answers": [
+        "The Binding of Isaac",
+        "Hades",
+        "Dead Cells",
+        "Enter the Gungeon"
+      ],
+      "correctAnswer": "The Binding of Isaac"
+    },
+    {
+      "id": "video-games-38",
+      "category": "video-games",
+      "question": "Quel jeu de Nintendo met en scène des habitants animaux et un maire joueur ?",
+      "answers": [
+        "Animal Crossing",
+        "Harvest Moon",
+        "Stardew Valley",
+        "The Sims"
+      ],
+      "correctAnswer": "Animal Crossing"
+    },
+    {
+      "id": "video-games-39",
+      "category": "video-games",
+      "question": "Quel jeu multijoueur consiste à trahir et éliminer discrètement les autres joueurs ?",
+      "answers": [
+        "Among Us",
+        "Mafia",
+        "Trouble in Terrorist Town",
+        "Dead by Daylight"
+      ],
+      "correctAnswer": "Among Us"
+    },
+    {
+      "id": "video-games-40",
+      "category": "video-games",
+      "question": "Quel jeu propose un monde post-apocalyptique peuplé de créatures mécaniques inspirées des dinosaures ?",
+      "answers": [
+        "Horizon Zero Dawn",
+        "The Last of Us",
+        "Days Gone",
+        "Fallout"
+      ],
+      "correctAnswer": "Horizon Zero Dawn"
+    },
+    {
+      "id": "video-games-41",
+      "category": "video-games",
+      "question": "Quel est le nom du jeu d'horreur où le joueur doit fuir une créature dans un laboratoire sous-marin ?",
+      "answers": ["SOMA", "Amnesia", "Outlast", "Resident Evil"],
+      "correctAnswer": "SOMA"
+    },
+    {
+      "id": "video-games-42",
+      "category": "video-games",
+      "question": "Dans quel jeu peut-on incarner un chevalier anthropomorphe équipé d'une pelle ?",
+      "answers": ["Shovel Knight", "Hollow Knight", "Dark Souls", "Cuphead"],
+      "correctAnswer": "Shovel Knight"
+    },
+    {
+      "id": "video-games-43",
+      "category": "video-games",
+      "question": "Quel est le jeu de survie multijoueur développé par Studio Wildcard ?",
+      "answers": ["ARK: Survival Evolved", "Rust", "DayZ", "Valheim"],
+      "correctAnswer": "ARK: Survival Evolved"
+    },
+    {
+      "id": "video-games-44",
+      "category": "video-games",
+      "question": "Quel jeu d'horreur en coopération met en scène des survivants fuyant un tueur ?",
+      "answers": [
+        "Dead by Daylight",
+        "Friday the 13th",
+        "Phasmophobia",
+        "The Forest"
+      ],
+      "correctAnswer": "Dead by Daylight"
+    },
+    {
+      "id": "video-games-45",
+      "category": "video-games",
+      "question": "Quel jeu de rôle en ligne massivement multijoueur est sorti en 2004 et est toujours populaire ?",
+      "answers": [
+        "World of Warcraft",
+        "Final Fantasy XIV",
+        "Guild Wars 2",
+        "The Elder Scrolls Online"
+      ],
+      "correctAnswer": "World of Warcraft"
+    },
+    {
+      "id": "video-games-46",
+      "category": "video-games",
+      "question": "Quel jeu de gestion vous met dans la peau d'un maire construisant une ville ?",
+      "answers": ["SimCity", "Cities: Skylines", "Tropico", "Anno"],
+      "correctAnswer": "SimCity"
+    },
+    {
+      "id": "animals-1",
+      "category": "animals",
+      "question": "Quel est le plus grand mammifère terrestre ?",
+      "answers": [
+        "Éléphant d'Afrique",
+        "Rhinocéros blanc",
+        "Hippopotame",
+        "Bison"
+      ],
+      "correctAnswer": "Éléphant d'Afrique"
+    },
+    {
+      "id": "animals-2",
+      "category": "animals",
+      "question": "Quel animal est connu pour hiberner pendant l'hiver ?",
+      "answers": ["Ours brun", "Renard polaire", "Hérisson", "Écureuil"],
+      "correctAnswer": "Ours brun"
+    },
+    {
+      "id": "animals-3",
+      "category": "animals",
+      "question": "Quel est le seul mammifère capable de voler ?",
+      "answers": ["Chauve-souris", "Écureuil volant", "Pigeon", "Papillon"],
+      "correctAnswer": "Chauve-souris"
+    },
+    {
+      "id": "animals-4",
+      "category": "animals",
+      "question": "Quel est le félin le plus rapide du monde ?",
+      "answers": ["Guépard", "Léopard", "Puma", "Lion"],
+      "correctAnswer": "Guépard"
+    },
+    {
+      "id": "animals-5",
+      "category": "animals",
+      "question": "Quel animal est surnommé 'le roi de la jungle' ?",
+      "answers": ["Lion", "Tigre", "Panthère", "Jaguar"],
+      "correctAnswer": "Lion"
+    },
+    {
+      "id": "animals-6",
+      "category": "animals",
+      "question": "Quel animal possède la plus longue durée de vie ?",
+      "answers": [
+        "Tortue géante des Seychelles",
+        "Baleine bleue",
+        "Éléphant",
+        "Perroquet ara"
+      ],
+      "correctAnswer": "Tortue géante des Seychelles"
+    },
+    {
+      "id": "animals-7",
+      "category": "animals",
+      "question": "Quel est l'animal le plus rapide dans l'eau ?",
+      "answers": ["Voilier", "Marlin bleu", "Thon rouge", "Requin mako"],
+      "correctAnswer": "Voilier"
+    },
+    {
+      "id": "animals-8",
+      "category": "animals",
+      "question": "Quel est le plus grand oiseau du monde ?",
+      "answers": ["Autruche", "Condor", "Albatros", "Aigle royal"],
+      "correctAnswer": "Autruche"
+    },
+    {
+      "id": "animals-9",
+      "category": "animals",
+      "question": "Quel animal est connu pour sa mémoire exceptionnelle ?",
+      "answers": ["Éléphant", "Dauphin", "Chimpanzé", "Pieuvre"],
+      "correctAnswer": "Éléphant"
+    },
+    {
+      "id": "animals-10",
+      "category": "animals",
+      "question": "Quel est l'animal qui dort le plus par jour ?",
+      "answers": ["Koala", "Chat", "Paresseux", "Hérisson"],
+      "correctAnswer": "Koala"
+    },
+    {
+      "id": "animals-11",
+      "category": "animals",
+      "question": "Quel oiseau est capable d'imiter la voix humaine ?",
+      "answers": ["Perroquet", "Corbeau", "Mainate", "Étourneau"],
+      "correctAnswer": "Perroquet"
+    },
+    {
+      "id": "animals-12",
+      "category": "animals",
+      "question": "Quel animal est connu pour sa capacité à changer de couleur ?",
+      "answers": ["Caméléon", "Pieuvre", "Seiche", "Grenouille"],
+      "correctAnswer": "Caméléon"
+    },
+    {
+      "id": "animals-13",
+      "category": "animals",
+      "question": "Quelle espèce de requin est considérée comme la plus dangereuse pour l'homme ?",
+      "answers": [
+        "Grand requin blanc",
+        "Requin-tigre",
+        "Requin-bouledogue",
+        "Requin-marteau"
+      ],
+      "correctAnswer": "Grand requin blanc"
+    },
+    {
+      "id": "animals-14",
+      "category": "animals",
+      "question": "Quel animal peut survivre sans boire d'eau pendant plusieurs mois ?",
+      "answers": ["Chameau", "Kangourou", "Serpent", "Lézard du désert"],
+      "correctAnswer": "Chameau"
+    },
+    {
+      "id": "animals-15",
+      "category": "animals",
+      "question": "Quel animal a la morsure la plus puissante ?",
+      "answers": [
+        "Crocodile du Nil",
+        "Grand requin blanc",
+        "Hyène",
+        "Ours brun"
+      ],
+      "correctAnswer": "Crocodile du Nil"
+    },
+    {
+      "id": "animals-16",
+      "category": "animals",
+      "question": "Quel animal a le plus grand cœur proportionnellement à sa taille ?",
+      "answers": ["Baleine bleue", "Girafe", "Pigeon", "Cheval"],
+      "correctAnswer": "Baleine bleue"
+    },
+    {
+      "id": "animals-17",
+      "category": "animals",
+      "question": "Quel est l'animal national de l'Australie ?",
+      "answers": ["Kangourou", "Koala", "Émeu", "Dingo"],
+      "correctAnswer": "Kangourou"
+    },
+    {
+      "id": "animals-18",
+      "category": "animals",
+      "question": "Quel animal utilise des outils pour chercher de la nourriture ?",
+      "answers": ["Chimpanzé", "Loutre", "Corbeau", "Pieuvre"],
+      "correctAnswer": "Chimpanzé"
+    },
+    {
+      "id": "animals-19",
+      "category": "animals",
+      "question": "Quelle est la plus grande espèce de serpent ?",
+      "answers": [
+        "Anaconda",
+        "Python réticulé",
+        "Boa constricteur",
+        "Mamba noir"
+      ],
+      "correctAnswer": "Anaconda"
+    },
+    {
+      "id": "animals-20",
+      "category": "animals",
+      "question": "Quel mammifère marin est connu pour ses chants ?",
+      "answers": ["Baleine à bosse", "Dauphin", "Orque", "Phoque"],
+      "correctAnswer": "Baleine à bosse"
+    },
+    {
+      "id": "animals-21",
+      "category": "animals",
+      "question": "Quel animal est le symbole de la sagesse dans de nombreuses cultures ?",
+      "answers": ["Hibou", "Renard", "Corbeau", "Loup"],
+      "correctAnswer": "Hibou"
+    },
+    {
+      "id": "animals-22",
+      "category": "animals",
+      "question": "Quel animal est connu pour sa vitesse impressionnante sous l'eau ?",
+      "answers": ["Manchot empereur", "Dauphin", "Orque", "Phoque"],
+      "correctAnswer": "Manchot empereur"
+    },
+    {
+      "id": "animals-23",
+      "category": "animals",
+      "question": "Quel est l'animal le plus bruyant du monde ?",
+      "answers": ["Cachalot", "Hyène", "Chauve-souris", "Grillon"],
+      "correctAnswer": "Cachalot"
+    },
+    {
+      "id": "animals-24",
+      "category": "animals",
+      "question": "Quel est le seul oiseau capable de voler en marche arrière ?",
+      "answers": ["Colibri", "Martinet", "Faucon", "Merle"],
+      "correctAnswer": "Colibri"
+    },
+    {
+      "id": "animals-25",
+      "category": "animals",
+      "question": "Quel est l'animal le plus petit du monde ?",
+      "answers": [
+        "Paedophryne amauensis (grenouille)",
+        "Pygmée souris",
+        "Colibri-abeille",
+        "Micro caméléon"
+      ],
+      "correctAnswer": "Paedophryne amauensis (grenouille)"
+    },
+    {
+      "id": "animals-26",
+      "category": "animals",
+      "question": "Quel animal est le plus proche génétiquement de l'homme ?",
+      "answers": ["Chimpanzé", "Gorille", "Bonobo", "Orang-outan"],
+      "correctAnswer": "Chimpanzé"
+    },
+    {
+      "id": "animals-27",
+      "category": "animals",
+      "question": "Quelle est la plus grande espèce d'ours ?",
+      "answers": ["Ours polaire", "Ours kodiak", "Ours brun", "Ours noir"],
+      "correctAnswer": "Ours polaire"
+    },
+    {
+      "id": "animals-28",
+      "category": "animals",
+      "question": "Quel animal peut survivre dans des températures extrêmement basses ?",
+      "answers": [
+        "Manchot empereur",
+        "Ours polaire",
+        "Renard arctique",
+        "Caribou"
+      ],
+      "correctAnswer": "Manchot empereur"
+    },
+    {
+      "id": "animals-29",
+      "category": "animals",
+      "question": "Quel est le principal aliment du panda géant ?",
+      "answers": ["Bambou", "Feuilles", "Fruits", "Insectes"],
+      "correctAnswer": "Bambou"
+    },
+    {
+      "id": "animals-30",
+      "category": "animals",
+      "question": "Quel est le seul mammifère capable de produire du venin ?",
+      "answers": ["Ornithorynque", "Musaraigne", "Solenodon", "Taupe"],
+      "correctAnswer": "Ornithorynque"
+    },
+    {
+      "id": "animals-31",
+      "category": "animals",
+      "question": "Quel poisson peut produire de l'électricité ?",
+      "answers": [
+        "Anguille électrique",
+        "Raie électrique",
+        "Poisson-chat électrique",
+        "Poisson globe"
+      ],
+      "correctAnswer": "Anguille électrique"
+    },
+    {
+      "id": "animals-32",
+      "category": "animals",
+      "question": "Quel est l'animal national du Canada ?",
+      "answers": ["Castor", "Caribou", "Loup", "Aigle royal"],
+      "correctAnswer": "Castor"
+    },
+    {
+      "id": "animals-33",
+      "category": "animals",
+      "question": "Quel animal est connu pour sa capacité à jouer avec des bulles ?",
+      "answers": ["Dauphin", "Phoque", "Loutre", "Poulpe"],
+      "correctAnswer": "Dauphin"
+    },
+    {
+      "id": "animals-34",
+      "category": "animals",
+      "question": "Quel est l'animal terrestre le plus intelligent ?",
+      "answers": ["Chimpanzé", "Éléphant", "Dauphin", "Pieuvre"],
+      "correctAnswer": "Chimpanzé"
+    },
+    {
+      "id": "animals-35",
+      "category": "animals",
+      "question": "Quel est le seul mammifère qui pond des œufs ?",
+      "answers": ["Ornithorynque", "Échidné", "Tatou", "Opossum"],
+      "correctAnswer": "Ornithorynque"
+    },
+    {
+      "id": "animals-36",
+      "category": "animals",
+      "question": "Quel est le plus grand carnivore terrestre ?",
+      "answers": ["Ours polaire", "Tigre de Sibérie", "Lion", "Loup gris"],
+      "correctAnswer": "Ours polaire"
+    },
+    {
+      "id": "animals-37",
+      "category": "animals",
+      "question": "Quel est le plus grand rongeur du monde ?",
+      "answers": ["Capybara", "Castor", "Rat musqué", "Porc-épic"],
+      "correctAnswer": "Capybara"
+    },
+    {
+      "id": "animals-38",
+      "category": "animals",
+      "question": "Quel est l'animal qui peut survivre à une explosion nucléaire ?",
+      "answers": ["Tardigrade", "Cafard", "Scorpion", "Rat"],
+      "correctAnswer": "Tardigrade"
+    },
+    {
+      "id": "animals-39",
+      "category": "animals",
+      "question": "Quel animal est connu pour avoir trois cœurs ?",
+      "answers": ["Poulpe", "Seiche", "Calmar géant", "Étoile de mer"],
+      "correctAnswer": "Poulpe"
+    },
+    {
+      "id": "animals-40",
+      "category": "animals",
+      "question": "Quel mammifère marin est surnommé 'licorne des mers' ?",
+      "answers": ["Narval", "Béluga", "Orque", "Lamantin"],
+      "correctAnswer": "Narval"
+    },
+    {
+      "id": "animals-41",
+      "category": "animals",
+      "question": "Quel animal est capable de régénérer une partie de son corps ?",
+      "answers": ["Axolotl", "Étoile de mer", "Crabe", "Lézard"],
+      "correctAnswer": "Axolotl"
+    },
+    {
+      "id": "animals-42",
+      "category": "animals",
+      "question": "Quel animal marin est connu pour ses huit bras ?",
+      "answers": ["Poulpe", "Calmar", "Seiche", "Méduse"],
+      "correctAnswer": "Poulpe"
+    },
+    {
+      "id": "animals-43",
+      "category": "animals",
+      "question": "Quel animal a une carapace en forme de dôme ?",
+      "answers": ["Tortue terrestre", "Tatou", "Hérisson", "Escargot"],
+      "correctAnswer": "Tortue terrestre"
+    },
+    {
+      "id": "animals-44",
+      "category": "animals",
+      "question": "Quel animal a la langue la plus longue proportionnellement à son corps ?",
+      "answers": ["Caméléon", "Fourmilier", "Girafe", "Serpent"],
+      "correctAnswer": "Caméléon"
+    },
+    {
+      "id": "animals-45",
+      "category": "animals",
+      "question": "Quel animal est surnommé le 'fantôme de la montagne' ?",
+      "answers": ["Léopard des neiges", "Puma", "Loup arctique", "Lynx"],
+      "correctAnswer": "Léopard des neiges"
+    },
+    {
+      "id": "animals-46",
+      "category": "animals",
+      "question": "Quel est l'animal le plus venimeux du monde ?",
+      "answers": [
+        "Méduse-boîte",
+        "Cobra royal",
+        "Grenouille poison",
+        "Poulpe à anneaux bleus"
+      ],
+      "correctAnswer": "Méduse-boîte"
+    },
+    {
+      "id": "music-1",
+      "category": "music",
+      "question": "Quel compositeur est connu pour sa Symphonie n°9, 'Ode à la joie' ?",
+      "answers": ["Beethoven", "Mozart", "Chopin", "Bach"],
+      "correctAnswer": "Beethoven"
+    },
+    {
+      "id": "music-2",
+      "category": "music",
+      "question": "Quel groupe de rock britannique a sorti l'album 'The Dark Side of the Moon' ?",
+      "answers": [
+        "Pink Floyd",
+        "The Beatles",
+        "Led Zeppelin",
+        "The Rolling Stones"
+      ],
+      "correctAnswer": "Pink Floyd"
+    },
+    {
+      "id": "music-3",
+      "category": "music",
+      "question": "Quel est le nom du célèbre festival de musique aux États-Unis qui a eu lieu en 1969 ?",
+      "answers": ["Woodstock", "Coachella", "Lollapalooza", "Glastonbury"],
+      "correctAnswer": "Woodstock"
+    },
+    {
+      "id": "music-4",
+      "category": "music",
+      "question": "Qui est l'auteur-compositeur de la chanson 'Imagine' ?",
+      "answers": ["John Lennon", "Paul McCartney", "Bob Dylan", "Elton John"],
+      "correctAnswer": "John Lennon"
+    },
+    {
+      "id": "music-5",
+      "category": "music",
+      "question": "Quel instrument est principalement associé à Ludwig van Beethoven ?",
+      "answers": ["Piano", "Violon", "Orgue", "Flûte"],
+      "correctAnswer": "Piano"
+    },
+    {
+      "id": "music-6",
+      "category": "music",
+      "question": "Dans quel pays est né le tango ?",
+      "answers": ["Argentine", "Espagne", "Brésil", "Italie"],
+      "correctAnswer": "Argentine"
+    },
+    {
+      "id": "music-7",
+      "category": "music",
+      "question": "Qui a composé 'La Flûte enchantée' ?",
+      "answers": ["Mozart", "Bach", "Vivaldi", "Tchaïkovski"],
+      "correctAnswer": "Mozart"
+    },
+    {
+      "id": "music-8",
+      "category": "music",
+      "question": "Quel artiste est surnommé le 'Roi de la Pop' ?",
+      "answers": ["Michael Jackson", "Prince", "Elvis Presley", "Madonna"],
+      "correctAnswer": "Michael Jackson"
+    },
+    {
+      "id": "music-9",
+      "category": "music",
+      "question": "Quel est le nom de l'orchestre symphonique de Vienne ?",
+      "answers": [
+        "Philharmonique de Vienne",
+        "London Symphony Orchestra",
+        "New York Philharmonic",
+        "Berliner Philharmoniker"
+      ],
+      "correctAnswer": "Philharmonique de Vienne"
+    },
+    {
+      "id": "music-10",
+      "category": "music",
+      "question": "Quel genre musical est originaire de la Jamaïque ?",
+      "answers": ["Reggae", "Ska", "Salsa", "Blues"],
+      "correctAnswer": "Reggae"
+    },
+    {
+      "id": "music-11",
+      "category": "music",
+      "question": "Qui a interprété 'Bohemian Rhapsody' ?",
+      "answers": ["Queen", "The Beatles", "Pink Floyd", "Led Zeppelin"],
+      "correctAnswer": "Queen"
+    },
+    {
+      "id": "music-12",
+      "category": "music",
+      "question": "Quel est le nom du premier opéra de l'histoire ?",
+      "answers": ["Orfeo", "La Traviata", "Carmen", "Don Giovanni"],
+      "correctAnswer": "Orfeo"
+    },
+    {
+      "id": "music-13",
+      "category": "music",
+      "question": "Quel instrument a six cordes et est souvent utilisé dans le rock ?",
+      "answers": ["Guitare", "Basse", "Ukulélé", "Mandoline"],
+      "correctAnswer": "Guitare"
+    },
+    {
+      "id": "music-14",
+      "category": "music",
+      "question": "Qui a composé 'Les Quatre Saisons' ?",
+      "answers": ["Vivaldi", "Bach", "Mozart", "Schubert"],
+      "correctAnswer": "Vivaldi"
+    },
+    {
+      "id": "music-15",
+      "category": "music",
+      "question": "Quel groupe est à l'origine de la chanson 'Hotel California' ?",
+      "answers": [
+        "The Eagles",
+        "Fleetwood Mac",
+        "The Rolling Stones",
+        "The Beach Boys"
+      ],
+      "correctAnswer": "The Eagles"
+    },
+    {
+      "id": "music-16",
+      "category": "music",
+      "question": "Quel style de musique a été popularisé par Elvis Presley ?",
+      "answers": ["Rock'n'Roll", "Blues", "Jazz", "Country"],
+      "correctAnswer": "Rock'n'Roll"
+    },
+    {
+      "id": "music-17",
+      "category": "music",
+      "question": "Quel instrument joue principalement Louis Armstrong ?",
+      "answers": ["Trompette", "Piano", "Saxophone", "Guitare"],
+      "correctAnswer": "Trompette"
+    },
+    {
+      "id": "music-18",
+      "category": "music",
+      "question": "Quel compositeur russe a écrit 'Le Lac des cygnes' ?",
+      "answers": ["Tchaïkovski", "Stravinsky", "Chostakovitch", "Rachmaninov"],
+      "correctAnswer": "Tchaïkovski"
+    },
+    {
+      "id": "music-19",
+      "category": "music",
+      "question": "Quel est le genre musical du groupe Metallica ?",
+      "answers": ["Heavy Metal", "Punk Rock", "Blues Rock", "Jazz Fusion"],
+      "correctAnswer": "Heavy Metal"
+    },
+    {
+      "id": "music-20",
+      "category": "music",
+      "question": "Quel pays est connu pour son style de musique appelé le fado ?",
+      "answers": ["Portugal", "Espagne", "Italie", "Brésil"],
+      "correctAnswer": "Portugal"
+    },
+    {
+      "id": "music-21",
+      "category": "music",
+      "question": "Quel chanteur français est surnommé 'Le Taulier' ?",
+      "answers": [
+        "Johnny Hallyday",
+        "Serge Gainsbourg",
+        "Charles Aznavour",
+        "Claude François"
+      ],
+      "correctAnswer": "Johnny Hallyday"
+    },
+    {
+      "id": "music-22",
+      "category": "music",
+      "question": "Quel festival de musique électronique se déroule à Boom, en Belgique ?",
+      "answers": [
+        "Tomorrowland",
+        "Ultra Music Festival",
+        "Coachella",
+        "Burning Man"
+      ],
+      "correctAnswer": "Tomorrowland"
+    },
+    {
+      "id": "music-23",
+      "category": "music",
+      "question": "Quel musicien est associé au 'Moonwalk' ?",
+      "answers": ["Michael Jackson", "James Brown", "Prince", "Usher"],
+      "correctAnswer": "Michael Jackson"
+    },
+    {
+      "id": "music-24",
+      "category": "music",
+      "question": "Quel genre musical est originaire de la Nouvelle-Orléans ?",
+      "answers": ["Jazz", "Blues", "Gospel", "Country"],
+      "correctAnswer": "Jazz"
+    },
+    {
+      "id": "music-25",
+      "category": "music",
+      "question": "Qui a écrit l'opéra 'Carmen' ?",
+      "answers": [
+        "Georges Bizet",
+        "Giuseppe Verdi",
+        "Richard Wagner",
+        "Johann Strauss"
+      ],
+      "correctAnswer": "Georges Bizet"
+    },
+    {
+      "id": "music-26",
+      "category": "music",
+      "question": "Quel est le vrai nom de Bob Dylan ?",
+      "answers": [
+        "Robert Zimmerman",
+        "David Bowie",
+        "Elton John",
+        "Eric Clapton"
+      ],
+      "correctAnswer": "Robert Zimmerman"
+    },
+    {
+      "id": "music-27",
+      "category": "music",
+      "question": "Quel groupe a chanté 'Smells Like Teen Spirit' ?",
+      "answers": ["Nirvana", "Pearl Jam", "The Offspring", "Foo Fighters"],
+      "correctAnswer": "Nirvana"
+    },
+    {
+      "id": "music-28",
+      "category": "music",
+      "question": "Quelle chanteuse est connue pour 'Rolling in the Deep' ?",
+      "answers": ["Adele", "Beyoncé", "Taylor Swift", "Lady Gaga"],
+      "correctAnswer": "Adele"
+    },
+    {
+      "id": "music-29",
+      "category": "music",
+      "question": "Quel compositeur est connu pour sa symphonie 'Inachevée' ?",
+      "answers": ["Schubert", "Beethoven", "Brahms", "Mahler"],
+      "correctAnswer": "Schubert"
+    },
+    {
+      "id": "music-30",
+      "category": "music",
+      "question": "Quel artiste a chanté 'Purple Rain' ?",
+      "answers": ["Prince", "David Bowie", "Elton John", "Stevie Wonder"],
+      "correctAnswer": "Prince"
+    },
+    {
+      "id": "music-31",
+      "category": "music",
+      "question": "Quel style de musique est caractérisé par des improvisations et des solos d'instruments ?",
+      "answers": ["Jazz", "Classique", "Electro", "Pop"],
+      "correctAnswer": "Jazz"
+    },
+    {
+      "id": "music-32",
+      "category": "music",
+      "question": "Quel groupe de rock est célèbre pour son logo avec une langue rouge ?",
+      "answers": ["The Rolling Stones", "AC/DC", "KISS", "Guns N' Roses"],
+      "correctAnswer": "The Rolling Stones"
+    },
+    {
+      "id": "music-33",
+      "category": "music",
+      "question": "Quel chanteur français a interprété 'Je l'aime à mourir' ?",
+      "answers": [
+        "Francis Cabrel",
+        "Jean-Jacques Goldman",
+        "Patrick Bruel",
+        "Julien Clerc"
+      ],
+      "correctAnswer": "Francis Cabrel"
+    },
+    {
+      "id": "music-34",
+      "category": "music",
+      "question": "Quel musicien est connu pour son 'Boléro' ?",
+      "answers": [
+        "Maurice Ravel",
+        "Claude Debussy",
+        "Erik Satie",
+        "Camille Saint-Saëns"
+      ],
+      "correctAnswer": "Maurice Ravel"
+    },
+    {
+      "id": "music-35",
+      "category": "music",
+      "question": "Quel chanteur est surnommé 'Le Boss' ?",
+      "answers": [
+        "Bruce Springsteen",
+        "Mick Jagger",
+        "Rod Stewart",
+        "Billy Joel"
+      ],
+      "correctAnswer": "Bruce Springsteen"
+    },
+    {
+      "id": "music-36",
+      "category": "music",
+      "question": "Quel genre musical est associé aux rythmes syncopés et aux cuivres ?",
+      "answers": ["Ska", "Reggae", "Blues", "Country"],
+      "correctAnswer": "Ska"
+    },
+    {
+      "id": "music-37",
+      "category": "music",
+      "question": "Quel instrument est principalement utilisé dans la musique classique indienne ?",
+      "answers": ["Sitar", "Didgeridoo", "Balalaïka", "Harpe"],
+      "correctAnswer": "Sitar"
+    },
+    {
+      "id": "music-38",
+      "category": "music",
+      "question": "Quel opéra de Verdi met en scène le duc de Mantoue ?",
+      "answers": ["Rigoletto", "Aida", "La Traviata", "Nabucco"],
+      "correctAnswer": "Rigoletto"
+    },
+    {
+      "id": "music-39",
+      "category": "music",
+      "question": "Qui a chanté 'La Vie en Rose' ?",
+      "answers": ["Édith Piaf", "Jacques Brel", "Charles Aznavour", "Dalida"],
+      "correctAnswer": "Édith Piaf"
+    },
+    {
+      "id": "music-40",
+      "category": "music",
+      "question": "Quel compositeur a écrit 'La Marche funèbre' ?",
+      "answers": ["Chopin", "Bach", "Schumann", "Liszt"],
+      "correctAnswer": "Chopin"
+    },
+    {
+      "id": "music-41",
+      "category": "music",
+      "question": "Quel chanteur est célèbre pour sa voix grave et sa chanson 'What a Wonderful World' ?",
+      "answers": [
+        "Louis Armstrong",
+        "Ray Charles",
+        "Frank Sinatra",
+        "Nat King Cole"
+      ],
+      "correctAnswer": "Louis Armstrong"
+    },
+    {
+      "id": "music-42",
+      "category": "music",
+      "question": "Quel instrument est utilisé pour jouer du blues avec un bottleneck ?",
+      "answers": ["Guitare", "Basse", "Harmonica", "Violon"],
+      "correctAnswer": "Guitare"
+    },
+    {
+      "id": "music-43",
+      "category": "music",
+      "question": "Quel groupe est connu pour la chanson 'Wonderwall' ?",
+      "answers": ["Oasis", "Coldplay", "Blur", "The Verve"],
+      "correctAnswer": "Oasis"
+    },
+    {
+      "id": "music-44",
+      "category": "music",
+      "question": "Quelle chanteuse américaine a popularisé 'Like a Virgin' ?",
+      "answers": ["Madonna", "Whitney Houston", "Cyndi Lauper", "Mariah Carey"],
+      "correctAnswer": "Madonna"
+    },
+    {
+      "id": "music-45",
+      "category": "music",
+      "question": "Quel groupe a sorti l'album 'Abbey Road' en 1969 ?",
+      "answers": ["The Beatles", "The Rolling Stones", "The Doors", "The Who"],
+      "correctAnswer": "The Beatles"
+    },
+    {
+      "id": "music-46",
+      "category": "music",
+      "question": "Quel compositeur allemand est connu pour 'La Chevauchée des Walkyries' ?",
+      "answers": [
+        "Richard Wagner",
+        "Johann Strauss",
+        "Ludwig van Beethoven",
+        "Johannes Brahms"
+      ],
+      "correctAnswer": "Richard Wagner"
+    },
+    {
+      "id": "serie-1",
+      "category": "tv_series",
+      "question": "Quelle série TV met en scène le personnage de Walter White ?",
+      "answers": [
+        "Breaking Bad",
+        "Better Call Saul",
+        "Dexter",
+        "Sons of Anarchy"
+      ],
+      "correctAnswer": "Breaking Bad"
+    },
+    {
+      "id": "serie-2",
+      "category": "tv_series",
+      "question": "Dans 'Friends', quel est le nom de la deuxième femme de Ross ?",
+      "answers": ["Emily", "Rachel", "Carol", "Monica"],
+      "correctAnswer": "Emily"
+    },
+    {
+      "id": "serie-3",
+      "category": "tv_series",
+      "question": "Quelle série TV se déroule dans la ville fictive de Hawkins, Indiana ?",
+      "answers": ["Stranger Things", "Twin Peaks", "Riverdale", "The X-Files"],
+      "correctAnswer": "Stranger Things"
+    },
+    {
+      "id": "serie-4",
+      "category": "tv_series",
+      "question": "Qui joue le rôle de Tyrion Lannister dans 'Game of Thrones' ?",
+      "answers": [
+        "Peter Dinklage",
+        "Kit Harington",
+        "Nikolaj Coster-Waldau",
+        "Sean Bean"
+      ],
+      "correctAnswer": "Peter Dinklage"
+    },
+    {
+      "id": "serie-5",
+      "category": "tv_series",
+      "question": "Quel est le nom du café dans 'Friends' ?",
+      "answers": [
+        "Central Perk",
+        "Café Nervosa",
+        "Luke's Diner",
+        "Monk’s Café"
+      ],
+      "correctAnswer": "Central Perk"
+    },
+    {
+      "id": "serie-6",
+      "category": "tv_series",
+      "question": "Quelle série suit un professeur de chimie devenu baron de la drogue ?",
+      "answers": ["Breaking Bad", "Narcos", "Ozark", "The Wire"],
+      "correctAnswer": "Breaking Bad"
+    },
+    {
+      "id": "serie-7",
+      "category": "tv_series",
+      "question": "Quelle sitcom met en scène un personnage nommé Sheldon Cooper ?",
+      "answers": [
+        "The Big Bang Theory",
+        "How I Met Your Mother",
+        "Brooklyn Nine-Nine",
+        "Modern Family"
+      ],
+      "correctAnswer": "The Big Bang Theory"
+    },
+    {
+      "id": "serie-8",
+      "category": "tv_series",
+      "question": "Quel est le nom de l’entreprise de papier fictive dans 'The Office' ?",
+      "answers": [
+        "Dunder Mifflin",
+        "Pied Piper",
+        "Sterling Cooper",
+        "Vandelay Industries"
+      ],
+      "correctAnswer": "Dunder Mifflin"
+    },
+    {
+      "id": "serie-9",
+      "category": "tv_series",
+      "question": "Quelle série suit un groupe de survivants dans une apocalypse zombie ?",
+      "answers": [
+        "The Walking Dead",
+        "Z Nation",
+        "Black Summer",
+        "Fear the Walking Dead"
+      ],
+      "correctAnswer": "The Walking Dead"
+    },
+    {
+      "id": "serie-10",
+      "category": "tv_series",
+      "question": "Qui est le personnage principal de 'Sherlock' ?",
+      "answers": [
+        "Benedict Cumberbatch",
+        "David Tennant",
+        "Martin Freeman",
+        "Matt Smith"
+      ],
+      "correctAnswer": "Benedict Cumberbatch"
+    },
+    {
+      "id": "serie-11",
+      "category": "tv_series",
+      "question": "Quelle série raconte l’histoire d’un lycéen qui écrit des noms dans un cahier surnaturel ?",
+      "answers": [
+        "Death Note",
+        "The Vampire Diaries",
+        "Teen Wolf",
+        "Supernatural"
+      ],
+      "correctAnswer": "Death Note"
+    },
+    {
+      "id": "serie-12",
+      "category": "tv_series",
+      "question": "Quelle série fantastique est basée sur les livres de George R.R. Martin ?",
+      "answers": [
+        "Game of Thrones",
+        "The Witcher",
+        "Shadow and Bone",
+        "The Wheel of Time"
+      ],
+      "correctAnswer": "Game of Thrones"
+    },
+    {
+      "id": "serie-13",
+      "category": "tv_series",
+      "question": "Quelle série met en scène un groupe de scientifiques travaillant à Caltech ?",
+      "answers": [
+        "The Big Bang Theory",
+        "Young Sheldon",
+        "Silicon Valley",
+        "Scorpion"
+      ],
+      "correctAnswer": "The Big Bang Theory"
+    },
+    {
+      "id": "serie-14",
+      "category": "tv_series",
+      "question": "Quel personnage de 'Doctor Who' voyage à bord d’un TARDIS ?",
+      "answers": ["Le Docteur", "Captain Jack Harkness", "Dalek", "Cyberman"],
+      "correctAnswer": "Le Docteur"
+    },
+    {
+      "id": "serie-15",
+      "category": "tv_series",
+      "question": "Quelle série suit la vie d’un chef de la mafia nommé Tony Soprano ?",
+      "answers": [
+        "The Sopranos",
+        "Boardwalk Empire",
+        "Peaky Blinders",
+        "Fargo"
+      ],
+      "correctAnswer": "The Sopranos"
+    },
+    {
+      "id": "serie-16",
+      "category": "tv_series",
+      "question": "Quelle série met en scène un professeur de chimie qui devient trafiquant de drogue ?",
+      "answers": ["Breaking Bad", "Weeds", "Narcos", "Better Call Saul"],
+      "correctAnswer": "Breaking Bad"
+    },
+    {
+      "id": "serie-17",
+      "category": "tv_series",
+      "question": "Dans 'How I Met Your Mother', quelle est la phrase fétiche de Barney Stinson ?",
+      "answers": ["Légendaire !", "Bazinga !", "Comment ça va ?", "D’oh !"],
+      "correctAnswer": "Légendaire !"
+    },
+    {
+      "id": "serie-18",
+      "category": "tv_series",
+      "question": "Quelle série TV suit un groupe de six amis vivant à New York ?",
+      "answers": [
+        "Friends",
+        "How I Met Your Mother",
+        "Seinfeld",
+        "Brooklyn Nine-Nine"
+      ],
+      "correctAnswer": "Friends"
+    },
+    {
+      "id": "serie-19",
+      "category": "tv_series",
+      "question": "Quelle série raconte la vie de la reine Elizabeth II ?",
+      "answers": ["The Crown", "Victoria", "Downton Abbey", "Reign"],
+      "correctAnswer": "The Crown"
+    },
+    {
+      "id": "serie-20",
+      "category": "tv_series",
+      "question": "Quelle série animée suit les aventures de Rick et Morty ?",
+      "answers": [
+        "Rick et Morty",
+        "Futurama",
+        "BoJack Horseman",
+        "The Simpsons"
+      ],
+      "correctAnswer": "Rick et Morty"
+    },
+    {
+      "id": "serie-21",
+      "category": "tv_series",
+      "question": "Qui est le personnage principal de 'House M.D.' ?",
+      "answers": [
+        "Dr. Gregory House",
+        "Dr. Derek Shepherd",
+        "Dr. Shaun Murphy",
+        "Dr. John Watson"
+      ],
+      "correctAnswer": "Dr. Gregory House"
+    },
+    {
+      "id": "serie-22",
+      "category": "tv_series",
+      "question": "Quelle série de science-fiction met en scène un vaisseau spatial nommé USS Enterprise ?",
+      "answers": [
+        "Star Trek",
+        "The Expanse",
+        "Battlestar Galactica",
+        "Stargate SG-1"
+      ],
+      "correctAnswer": "Star Trek"
+    },
+    {
+      "id": "serie-23",
+      "category": "tv_series",
+      "question": "Quelle série suit une équipe du FBI traquant des tueurs en série ?",
+      "answers": ["Esprits criminels", "Les Experts", "Bones", "Dexter"],
+      "correctAnswer": "Esprits criminels"
+    },
+    {
+      "id": "serie-24",
+      "category": "tv_series",
+      "question": "Quelle série est basée sur la vie de Pablo Escobar ?",
+      "answers": ["Narcos", "El Chapo", "Breaking Bad", "Suits"],
+      "correctAnswer": "Narcos"
+    },
+    {
+      "id": "serie-25",
+      "category": "tv_series",
+      "question": "Quel drame policier suit un professeur de chimie devenu fabricant de méthamphétamine ?",
+      "answers": ["Breaking Bad", "Ozark", "Better Call Saul", "The Wire"],
+      "correctAnswer": "Breaking Bad"
+    },
+    {
+      "id": "serie-26",
+      "category": "tv_series",
+      "question": "Quel est le nom de la reine des dragons dans 'Game of Thrones' ?",
+      "answers": [
+        "Daenerys Targaryen",
+        "Cersei Lannister",
+        "Arya Stark",
+        "Sansa Stark"
+      ],
+      "correctAnswer": "Daenerys Targaryen"
+    },
+    {
+      "id": "serie-27",
+      "category": "tv_series",
+      "question": "Quel drame judiciaire met en vedette un avocat nommé Harvey Specter ?",
+      "answers": ["Suits", "The Good Wife", "Boston Legal", "Murder"],
+      "correctAnswer": "Suits"
+    },
+    {
+      "id": "serie-28",
+      "category": "tv_series",
+      "question": "Quelle série met en scène un meurtre mystérieux dans une petite ville ?",
+      "answers": ["Twin Peaks", "Fargo", "True Detective", "The Killing"],
+      "correctAnswer": "Twin Peaks"
+    },
+    {
+      "id": "serie-29",
+      "category": "tv_series",
+      "question": "Quelle série TV suit un groupe de hackers dirigé par Elliot Alderson ?",
+      "answers": [
+        "Mr. Robot",
+        "Black Mirror",
+        "Person of Interest",
+        "Scorpion"
+      ],
+      "correctAnswer": "Mr. Robot"
+    },
+    {
+      "id": "serie-30",
+      "category": "tv_series",
+      "question": "Quelle série Netflix suit un groupe d’enfants combattant des forces surnaturelles ?",
+      "answers": [
+        "Stranger Things",
+        "Locke & Key",
+        "Dark",
+        "Chilling Adventures of Sabrina"
+      ],
+      "correctAnswer": "Stranger Things"
+    },
+    {
+      "id": "serie-31",
+      "category": "tv_series",
+      "question": "Quelle série est située dans le monde post-apocalyptique de Westeros ?",
+      "answers": ["Game of Thrones", "The Last Kingdom", "Vikings", "See"],
+      "correctAnswer": "Game of Thrones"
+    },
+    {
+      "id": "serie-32",
+      "category": "tv_series",
+      "question": "Quel est le nom du professeur dans 'La Casa de Papel' ?",
+      "answers": ["Le Professeur", "Berlin", "Rio", "Tokyo"],
+      "correctAnswer": "Le Professeur"
+    },
+    {
+      "id": "serie-33",
+      "category": "tv_series",
+      "question": "Quelle série suit la vie des médecins du Grey Sloan Memorial Hospital ?",
+      "answers": ["Grey’s Anatomy", "ER", "House", "Scrubs"],
+      "correctAnswer": "Grey’s Anatomy"
+    },
+    {
+      "id": "serie-34",
+      "category": "tv_series",
+      "question": "Quelle série suit la famille Pearson à travers différentes époques ?",
+      "answers": [
+        "This Is Us",
+        "A Million Little Things",
+        "Parenthood",
+        "Brothers & Sisters"
+      ],
+      "correctAnswer": "This Is Us"
+    },
+    {
+      "id": "serie-35",
+      "category": "tv_series",
+      "question": "Quelle série raconte l’histoire d’un guerrier médiéval nommé Uhtred ?",
+      "answers": [
+        "The Last Kingdom",
+        "Vikings",
+        "Knightfall",
+        "Game of Thrones"
+      ],
+      "correctAnswer": "The Last Kingdom"
+    },
+    {
+      "id": "serie-36",
+      "category": "tv_series",
+      "question": "Quelle série met en scène un avocat aveugle devenu justicier ?",
+      "answers": ["Daredevil", "Jessica Jones", "The Punisher", "Arrow"],
+      "correctAnswer": "Daredevil"
+    },
+    {
+      "id": "serie-37",
+      "category": "tv_series",
+      "question": "Quelle sitcom met en scène une famille dysfonctionnelle dirigée par Homer ?",
+      "answers": ["Les Simpson", "Family Guy", "South Park", "American Dad!"],
+      "correctAnswer": "Les Simpson"
+    },
+    {
+      "id": "serie-38",
+      "category": "tv_series",
+      "question": "Quelle série britannique de science-fiction explore des futurs dystopiques ?",
+      "answers": [
+        "Black Mirror",
+        "Doctor Who",
+        "The Expanse",
+        "Altered Carbon"
+      ],
+      "correctAnswer": "Black Mirror"
+    },
+    {
+      "id": "serie-39",
+      "category": "tv_series",
+      "question": "Quelle série criminelle suit le commerce de la drogue à Baltimore ?",
+      "answers": ["The Wire", "Breaking Bad", "Narcos", "Better Call Saul"],
+      "correctAnswer": "The Wire"
+    },
+    {
+      "id": "serie-40",
+      "category": "tv_series",
+      "question": "Quelle comédie suit des employés du gouvernement d’une petite ville ?",
+      "answers": [
+        "Parks and Recreation",
+        "Brooklyn Nine-Nine",
+        "The Office",
+        "30 Rock"
+      ],
+      "correctAnswer": "Parks and Recreation"
+    },
+    {
+      "id": "serie-41",
+      "category": "tv_series",
+      "question": "Quelle série fantastique suit un chasseur de monstres nommé Geralt ?",
+      "answers": [
+        "The Witcher",
+        "Game of Thrones",
+        "Shadow and Bone",
+        "The Mandalorian"
+      ],
+      "correctAnswer": "The Witcher"
+    },
+    {
+      "id": "serie-42",
+      "category": "tv_series",
+      "question": "Quel est le nom du personnage principal dans 'Dexter' ?",
+      "answers": [
+        "Dexter Morgan",
+        "Hannibal Lecter",
+        "Patrick Bateman",
+        "Norman Bates"
+      ],
+      "correctAnswer": "Dexter Morgan"
+    },
+    {
+      "id": "serie-43",
+      "category": "tv_series",
+      "question": "Quelle série TV suit les aventures d’un Seigneur du Temps voyageant dans une cabine téléphonique bleue ?",
+      "answers": [
+        "Doctor Who",
+        "The Twilight Zone",
+        "Stranger Things",
+        "Black Mirror"
+      ],
+      "correctAnswer": "Doctor Who"
+    },
+    {
+      "id": "serie-44",
+      "category": "tv_series",
+      "question": "Quelle série animée suit une famille vivant dans la ville fictive de Quahog ?",
+      "answers": ["Family Guy", "Les Simpson", "American Dad!", "South Park"],
+      "correctAnswer": "Family Guy"
+    },
+    {
+      "id": "serie-45",
+      "category": "tv_series",
+      "question": "Quelle série fantastique met en scène un personnage nommé Geralt de Riv ?",
+      "answers": [
+        "The Witcher",
+        "Game of Thrones",
+        "Shadow and Bone",
+        "His Dark Materials"
+      ],
+      "correctAnswer": "The Witcher"
+    },
+    {
+      "id": "serie-46",
+      "category": "tv_series",
+      "question": "Quelle comédie policière met en scène Andy Samberg dans le rôle de Jake Peralta ?",
+      "answers": [
+        "Brooklyn Nine-Nine",
+        "The Office",
+        "Parks and Recreation",
+        "Scrubs"
+      ],
+      "correctAnswer": "Brooklyn Nine-Nine"
+    },
+    {
+      "id": "popculture-1",
+      "category": "pop_culture",
+      "question": "Quel artiste est connu sous le nom de 'Roi de la Pop' ?",
+      "answers": [
+        "Michael Jackson",
+        "Elvis Presley",
+        "Prince",
+        "Justin Timberlake"
+      ],
+      "correctAnswer": "Michael Jackson"
+    },
+    {
+      "id": "popculture-2",
+      "category": "pop_culture",
+      "question": "Quelle franchise de films met en scène les personnages Luke Skywalker et Dark Vador ?",
+      "answers": [
+        "Star Wars",
+        "Star Trek",
+        "Les Gardiens de la Galaxie",
+        "Avengers"
+      ],
+      "correctAnswer": "Star Wars"
+    },
+    {
+      "id": "popculture-3",
+      "category": "pop_culture",
+      "question": "Quel super-héros est également connu sous le nom de 'Chevalier Noir' ?",
+      "answers": ["Batman", "Superman", "Iron Man", "Spider-Man"],
+      "correctAnswer": "Batman"
+    },
+    {
+      "id": "popculture-4",
+      "category": "pop_culture",
+      "question": "Quel est le nom de l'école des sorciers dans 'Harry Potter' ?",
+      "answers": ["Poudlard", "Narnia", "Terre du Milieu", "Avalon"],
+      "correctAnswer": "Poudlard"
+    },
+    {
+      "id": "popculture-5",
+      "category": "pop_culture",
+      "question": "Quel célèbre personnage de jeu vidéo porte une casquette rouge et est plombier ?",
+      "answers": ["Mario", "Sonic", "Crash Bandicoot", "Donkey Kong"],
+      "correctAnswer": "Mario"
+    },
+    {
+      "id": "popculture-6",
+      "category": "pop_culture",
+      "question": "Quelle série TV met en scène les personnages Rachel, Ross, Monica, Chandler, Joey et Phoebe ?",
+      "answers": [
+        "Friends",
+        "How I Met Your Mother",
+        "The Big Bang Theory",
+        "Seinfeld"
+      ],
+      "correctAnswer": "Friends"
+    },
+    {
+      "id": "popculture-7",
+      "category": "pop_culture",
+      "question": "Quel est le nom du pays africain fictif dans 'Black Panther' ?",
+      "answers": ["Wakanda", "Zamunda", "Atlantis", "El Dorado"],
+      "correctAnswer": "Wakanda"
+    },
+    {
+      "id": "popculture-8",
+      "category": "pop_culture",
+      "question": "Qui est le créateur de l’univers Marvel ?",
+      "answers": ["Stan Lee", "Jack Kirby", "Kevin Feige", "Steve Ditko"],
+      "correctAnswer": "Stan Lee"
+    },
+    {
+      "id": "popculture-9",
+      "category": "pop_culture",
+      "question": "Quel chanteur pop a sorti l'album '1989' ?",
+      "answers": ["Taylor Swift", "Ariana Grande", "Beyoncé", "Rihanna"],
+      "correctAnswer": "Taylor Swift"
+    },
+    {
+      "id": "popculture-10",
+      "category": "pop_culture",
+      "question": "Quelle saga de films suit les aventures d’un jeune sorcier nommé Harry ?",
+      "answers": ["Harry Potter", "Le Hobbit", "Percy Jackson", "Eragon"],
+      "correctAnswer": "Harry Potter"
+    },
+    {
+      "id": "popculture-11",
+      "category": "pop_culture",
+      "question": "Qui a joué Jack dans 'Titanic' ?",
+      "answers": [
+        "Leonardo DiCaprio",
+        "Brad Pitt",
+        "Johnny Depp",
+        "Tom Cruise"
+      ],
+      "correctAnswer": "Leonardo DiCaprio"
+    },
+    {
+      "id": "popculture-12",
+      "category": "pop_culture",
+      "question": "Quel réseau social est connu pour ses publications limitées à 280 caractères ?",
+      "answers": ["Twitter", "Facebook", "Instagram", "TikTok"],
+      "correctAnswer": "Twitter"
+    },
+    {
+      "id": "popculture-13",
+      "category": "pop_culture",
+      "question": "Quel dessin animé met en scène une famille avec Homer, Marge, Bart, Lisa et Maggie ?",
+      "answers": ["Les Simpson", "Family Guy", "South Park", "American Dad"],
+      "correctAnswer": "Les Simpson"
+    },
+    {
+      "id": "popculture-14",
+      "category": "pop_culture",
+      "question": "Quel artiste pop est connu pour les chansons 'Poker Face' et 'Bad Romance' ?",
+      "answers": ["Lady Gaga", "Madonna", "Beyoncé", "Katy Perry"],
+      "correctAnswer": "Lady Gaga"
+    },
+    {
+      "id": "popculture-15",
+      "category": "pop_culture",
+      "question": "Quelle célèbre série télé est basée sur les livres de George R.R. Martin ?",
+      "answers": [
+        "Game of Thrones",
+        "The Witcher",
+        "House of Cards",
+        "The Mandalorian"
+      ],
+      "correctAnswer": "Game of Thrones"
+    },
+    {
+      "id": "popculture-16",
+      "category": "pop_culture",
+      "question": "Quelle chaîne de restauration rapide est célèbre pour son Big Mac ?",
+      "answers": ["McDonald's", "Burger King", "Wendy's", "KFC"],
+      "correctAnswer": "McDonald's"
+    },
+    {
+      "id": "popculture-17",
+      "category": "pop_culture",
+      "question": "Quel acteur a été le premier à jouer Spider-Man dans un film en prise de vue réelle ?",
+      "answers": [
+        "Tobey Maguire",
+        "Andrew Garfield",
+        "Tom Holland",
+        "Nicolas Cage"
+      ],
+      "correctAnswer": "Tobey Maguire"
+    },
+    {
+      "id": "popculture-18",
+      "category": "pop_culture",
+      "question": "Quel est le nom de l’anneau dans 'Le Seigneur des Anneaux' ?",
+      "answers": [
+        "L’Anneau Unique",
+        "Les Reliques de la Mort",
+        "La Pierre Philosophale",
+        "La Baguette de Sureau"
+      ],
+      "correctAnswer": "L’Anneau Unique"
+    },
+    {
+      "id": "popculture-19",
+      "category": "pop_culture",
+      "question": "Quel film de science-fiction met en scène un système informatique nommé Skynet ?",
+      "answers": ["Terminator", "Blade Runner", "Interstellar", "Matrix"],
+      "correctAnswer": "Terminator"
+    },
+    {
+      "id": "popculture-20",
+      "category": "pop_culture",
+      "question": "Quel jeu vidéo propose un mode Battle Royale et des danses comme 'Floss' et 'Orange Justice' ?",
+      "answers": ["Fortnite", "Minecraft", "Call of Duty", "Apex Legends"],
+      "correctAnswer": "Fortnite"
+    },
+    {
+      "id": "popculture-21",
+      "category": "pop_culture",
+      "question": "Quelle actrice a joué Hermione Granger dans les films 'Harry Potter' ?",
+      "answers": [
+        "Emma Watson",
+        "Keira Knightley",
+        "Natalie Portman",
+        "Anne Hathaway"
+      ],
+      "correctAnswer": "Emma Watson"
+    },
+    {
+      "id": "popculture-22",
+      "category": "pop_culture",
+      "question": "Quel super-héros possède un bouclier en vibranium ?",
+      "answers": ["Captain America", "Iron Man", "Thor", "Hulk"],
+      "correctAnswer": "Captain America"
+    },
+    {
+      "id": "popculture-23",
+      "category": "pop_culture",
+      "question": "Quel film raconte l’histoire d’une fille entrant dans un monde de rêve en passant par un terrier de lapin ?",
+      "answers": [
+        "Alice au pays des merveilles",
+        "Le Magicien d’Oz",
+        "Le Labyrinthe de Pan",
+        "Coraline"
+      ],
+      "correctAnswer": "Alice au pays des merveilles"
+    },
+    {
+      "id": "popculture-24",
+      "category": "pop_culture",
+      "question": "Quel artiste a chanté 'Thriller' ?",
+      "answers": [
+        "Michael Jackson",
+        "Prince",
+        "Elvis Presley",
+        "Stevie Wonder"
+      ],
+      "correctAnswer": "Michael Jackson"
+    },
+    {
+      "id": "popculture-25",
+      "category": "pop_culture",
+      "question": "Quelle plateforme de streaming est connue pour ses séries comme 'Stranger Things' et 'The Witcher' ?",
+      "answers": ["Netflix", "Hulu", "Disney+", "HBO Max"],
+      "correctAnswer": "Netflix"
+    },
+    {
+      "id": "popculture-26",
+      "category": "pop_culture",
+      "question": "Quel rappeur est connu pour les albums 'Graduation' et 'The College Dropout' ?",
+      "answers": ["Kanye West", "Jay-Z", "Drake", "Eminem"],
+      "correctAnswer": "Kanye West"
+    },
+    {
+      "id": "popculture-27",
+      "category": "pop_culture",
+      "question": "Quel jeu de société implique l’achat et la vente de propriétés comme Boardwalk et Park Place ?",
+      "answers": ["Monopoly", "Scrabble", "Cluedo", "Risk"],
+      "correctAnswer": "Monopoly"
+    },
+    {
+      "id": "popculture-28",
+      "category": "pop_culture",
+      "question": "Quel film d’animation met en scène Elsa et Anna ?",
+      "answers": ["La Reine des Neiges", "Vaiana", "Rebelle", "Raiponce"],
+      "correctAnswer": "La Reine des Neiges"
+    },
+    {
+      "id": "popculture-29",
+      "category": "pop_culture",
+      "question": "Quel artiste pop est connu pour ses tubes comme 'Shape of You' et 'Perfect' ?",
+      "answers": ["Ed Sheeran", "Justin Bieber", "Shawn Mendes", "Sam Smith"],
+      "correctAnswer": "Ed Sheeran"
+    },
+    {
+      "id": "popculture-30",
+      "category": "pop_culture",
+      "question": "Quel est le nom du continent fictif dans 'Game of Thrones' ?",
+      "answers": ["Westeros", "Terre du Milieu", "Narnia", "Tamriel"],
+      "correctAnswer": "Westeros"
+    },
+    {
+      "id": "popculture-31",
+      "category": "pop_culture",
+      "question": "Quel chanteur a sorti le tube 'Someone Like You' ?",
+      "answers": ["Adele", "Taylor Swift", "Lana Del Rey", "Ariana Grande"],
+      "correctAnswer": "Adele"
+    },
+    {
+      "id": "popculture-32",
+      "category": "pop_culture",
+      "question": "Quel film met en scène un clown tueur nommé Pennywise ?",
+      "answers": ["Ça", "Shining", "Saw", "Halloween"],
+      "correctAnswer": "Ça"
+    },
+    {
+      "id": "popculture-33",
+      "category": "pop_culture",
+      "question": "Quelle série de jeux vidéo comprend les titres 'San Andreas' et 'Vice City' ?",
+      "answers": [
+        "Grand Theft Auto",
+        "Need for Speed",
+        "Red Dead Redemption",
+        "Call of Duty"
+      ],
+      "correctAnswer": "Grand Theft Auto"
+    },
+    {
+      "id": "popculture-34",
+      "category": "pop_culture",
+      "question": "Quel acteur joue Deadpool dans les films Marvel ?",
+      "answers": [
+        "Ryan Reynolds",
+        "Hugh Jackman",
+        "Chris Evans",
+        "Robert Downey Jr."
+      ],
+      "correctAnswer": "Ryan Reynolds"
+    },
+    {
+      "id": "popculture-35",
+      "category": "pop_culture",
+      "question": "Quel est le nom du parc d’attractions principal dans le film 'Jurassic Park' ?",
+      "answers": [
+        "Jurassic Park",
+        "Disneyland",
+        "Universal Studios",
+        "Six Flags"
+      ],
+      "correctAnswer": "Jurassic Park"
+    },
+    {
+      "id": "popculture-36",
+      "category": "pop_culture",
+      "question": "Quelle série de science-fiction met en scène un vaisseau spatial appelé USS Enterprise ?",
+      "answers": [
+        "Star Trek",
+        "The Orville",
+        "Battlestar Galactica",
+        "Firefly"
+      ],
+      "correctAnswer": "Star Trek"
+    },
+    {
+      "id": "popculture-37",
+      "category": "pop_culture",
+      "question": "Qui est connue sous le nom de 'Reine de la Pop' ?",
+      "answers": ["Madonna", "Lady Gaga", "Beyoncé", "Britney Spears"],
+      "correctAnswer": "Madonna"
+    },
+    {
+      "id": "popculture-38",
+      "category": "pop_culture",
+      "question": "Quel super-héros vient de la planète Krypton ?",
+      "answers": ["Superman", "Thor", "Doctor Strange", "Hulk"],
+      "correctAnswer": "Superman"
+    },
+    {
+      "id": "popculture-39",
+      "category": "pop_culture",
+      "question": "Quel festival de musique en Californie est célèbre pour ses célébrités invitées ?",
+      "answers": ["Coachella", "Lollapalooza", "Burning Man", "Glastonbury"],
+      "correctAnswer": "Coachella"
+    },
+    {
+      "id": "popculture-40",
+      "category": "pop_culture",
+      "question": "Quel réalisateur est connu pour des films comme 'Pulp Fiction' et 'Django Unchained' ?",
+      "answers": [
+        "Quentin Tarantino",
+        "Steven Spielberg",
+        "Martin Scorsese",
+        "James Cameron"
+      ],
+      "correctAnswer": "Quentin Tarantino"
+    },
+    {
+      "id": "popculture-41",
+      "category": "pop_culture",
+      "question": "Quelle série télévisée suit les aventures de Walter White, un professeur de chimie devenu baron de la drogue ?",
+      "answers": ["Breaking Bad", "Narcos", "Sons of Anarchy", "The Wire"],
+      "correctAnswer": "Breaking Bad"
+    },
+    {
+      "id": "popculture-42",
+      "category": "pop_culture",
+      "question": "Quel chanteur a popularisé le moonwalk ?",
+      "answers": [
+        "Michael Jackson",
+        "Elvis Presley",
+        "Prince",
+        "Justin Timberlake"
+      ],
+      "correctAnswer": "Michael Jackson"
+    },
+    {
+      "id": "popculture-43",
+      "category": "pop_culture",
+      "question": "Quel groupe est connu pour des titres comme 'Bohemian Rhapsody' et 'We Will Rock You' ?",
+      "answers": ["Queen", "The Beatles", "The Rolling Stones", "AC/DC"],
+      "correctAnswer": "Queen"
+    },
+    {
+      "id": "popculture-44",
+      "category": "pop_culture",
+      "question": "Quel film d'animation Pixar met en scène une famille de super-héros ?",
+      "answers": ["Les Indestructibles", "Toy Story", "Ratatouille", "Cars"],
+      "correctAnswer": "Les Indestructibles"
+    },
+    {
+      "id": "popculture-45",
+      "category": "pop_culture",
+      "question": "Quel super-héros de Marvel utilise un marteau appelé Mjolnir ?",
+      "answers": ["Thor", "Hulk", "Captain America", "Iron Man"],
+      "correctAnswer": "Thor"
+    },
+    {
+      "id": "popculture-46",
+      "category": "pop_culture",
+      "question": "Quelle émission de télé-réalité met en scène une famille célèbre comprenant Kim Kardashian ?",
+      "answers": [
+        "L'Incroyable Famille Kardashian",
+        "Les Real Housewives",
+        "Big Brother",
+        "The Bachelor"
+      ],
+      "correctAnswer": "L'Incroyable Famille Kardashian"
     }
   ]
 }

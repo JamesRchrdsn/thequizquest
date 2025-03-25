@@ -16,6 +16,14 @@ export function QuizAnswer({ question, onAnswer }: QuizAnswerProps) {
   const cardRef = useRef<HTMLDivElement>(null);
   const t = useTranslations("quiz");
 
+  if (!question || !question.question || !question.answers) {
+    return (
+      <div className="w-full max-w-2xl p-6 rounded-lg shadow-md bg-[var(--bg-card)]">
+        <p className="text-center">Loading question...</p>
+      </div>
+    );
+  }
+
   useEffect(() => {
     if (cardRef.current) {
       setCardDimensions({
@@ -71,7 +79,9 @@ export function QuizAnswer({ question, onAnswer }: QuizAnswerProps) {
           </div>
         )}
         <div className="relative z-10">
-          <h3 className="mb-4 text-lg font-semibold">{question.question}</h3>
+          <h3 className="mb-4 text-lg font-semibold text-center">
+            {question.question}
+          </h3>
           <div className="space-y-3">
             {question.answers.map((answer) => (
               <button

@@ -4,7 +4,7 @@ import { QuizProgress } from "@/components/Quiz/QuizProgress";
 import { useQuiz } from "@/hooks/useQuiz";
 import { useTranslations } from "next-intl";
 import { useRouter, useSearchParams } from "next/navigation";
-import { useEffect, useState } from "react";
+import { useEffect } from "react";
 
 interface QuizPageProps {
   params: {
@@ -18,17 +18,11 @@ export default function QuizPage({ params }: QuizPageProps) {
   const router = useRouter();
   const categoryParam = searchParams.get("category") || "all";
   const t = useTranslations("quiz");
-  const [questions, setQuestions] = useState<any[]>([]);
-  const [currentQuestion, setCurrentQuestion] = useState(0);
-  const [score, setScore] = useState(0);
-  const [showScore, setShowScore] = useState(false);
-  const [isLoading, setIsLoading] = useState(true);
-  const [error, setError] = useState<string | null>(null);
 
   const {
-    questions: quizQuestions,
+    questions,
     currentIndex,
-    score: quizScore,
+    score,
     loading,
     handleNextQuestion,
     updateScore,
@@ -43,13 +37,13 @@ export default function QuizPage({ params }: QuizPageProps) {
       updateScore();
     }
 
-    if (currentIndex === quizQuestions.length - 1) {
-      const finalScore = isCorrect ? quizScore + 1 : quizScore;
+    if (currentIndex === questions.length - 1) {
+      const finalScore = isCorrect ? score + 1 : score;
       localStorage.setItem(
         "lastScore",
         JSON.stringify({
           score: finalScore,
-          total: quizQuestions.length,
+          total: questions.length,
         })
       );
       router.push(`/${locale}/quiz/scoreboard`);
@@ -58,7 +52,7 @@ export default function QuizPage({ params }: QuizPageProps) {
     }
   };
 
-  if (loading) {
+  if (loading || questions.length === 0) {
     return <div className="p-8 text-center">Loading...</div>;
   }
 
@@ -66,13 +60,10 @@ export default function QuizPage({ params }: QuizPageProps) {
     <div className="flex flex-col items-center p-8 mt-8 space-y-4">
       <QuizProgress
         currentIndex={currentIndex}
-        total={quizQuestions.length}
-        score={quizScore}
+        total={questions.length}
+        score={score}
       />
-      <QuizAnswer
-        question={quizQuestions[currentIndex]}
-        onAnswer={handleAnswer}
-      />
+      <QuizAnswer question={questions[currentIndex]} onAnswer={handleAnswer} />
     </div>
   );
 }

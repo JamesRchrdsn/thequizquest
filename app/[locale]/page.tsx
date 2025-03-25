@@ -36,7 +36,7 @@ export default function Home({ params }: PageProps) {
   }, [locale, t]);
 
   return (
-    <div className="min-h-screen p-4 md:p-8 bg-bg-main text-text-main">
+    <div className="p-4  md:p-8 bg-bg-main text-text-main">
       <h1 className="m-4 text-2xl font-bold text-center md:m-6 md:text-3xl drop-shadow-lg">
         {t("welcome", { defaultValue: "Bienvenue sur TheQuizQuest" })}
       </h1>
